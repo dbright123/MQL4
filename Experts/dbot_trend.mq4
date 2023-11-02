@@ -26,7 +26,7 @@ double ema9, ema12, ema21, ema55, vol, vMA;
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
-int OnInit()
+int OnInit() 
   {
 //--- create timer
    EventSetTimer(30);
