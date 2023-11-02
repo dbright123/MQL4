@@ -1,0 +1,60 @@
+0	05:31:00.666	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	05:31:00.762	ZigZag GBPUSD,H1: initialized
+0	16:11:36.404	Compiling 'dbot_trend'
+0	16:11:50.436	Custom indicator FXSSI_Sentiment_Lite GBPUSD,H1: loaded successfully
+0	16:11:55.012	Custom indicator FXSSI_Sentiment_Lite GBPUSD,H1: removed
+0	16:11:56.275	Custom indicator FXSSI.Sentiment.Lite GBPUSD,H1: loaded successfully
+0	16:12:44.341	FXSSI.Sentiment.Lite GBPUSD,H1: initialized
+0	16:15:52.840	ZigZag GBPUSD,H1: uninit reason 3
+0	16:15:52.840	FXSSI.Sentiment.Lite GBPUSD,H1: uninit reason 3
+0	16:15:52.845	ZigZag USDJPY,H1: initialized
+0	16:15:52.850	FXSSI.Sentiment.Lite USDJPY,H1: initialized
+0	16:17:57.755	FXSSI.Sentiment.Lite USDJPY,H1: uninit reason 1
+0	16:17:57.765	Custom indicator FXSSI.Sentiment.Lite USDJPY,H1: removed
+0	19:08:02.608	ZigZag USDJPY,H1: uninit reason 3
+0	19:08:02.614	ZigZag GBPUSD,H1: initialized
+0	19:08:05.440	ZigZag GBPUSD,H1: uninit reason 3
+0	19:08:05.443	ZigZag GBPUSD,Daily: initialized
+0	19:16:36.900	ZigZag GBPUSD,Daily: uninit reason 3
+0	19:16:36.905	ZigZag GBPUSD,H4: initialized
+0	19:18:43.881	ZigZag GBPUSD,H4: uninit reason 3
+0	19:18:43.884	ZigZag GBPUSD,H1: initialized
+0	19:18:48.798	ZigZag GBPUSD,H1: uninit reason 3
+0	19:18:48.801	ZigZag GBPUSD,M30: initialized
+0	19:21:33.347	ZigZag GBPUSD,M30: uninit reason 3
+0	19:21:33.349	ZigZag GBPUSD,H1: initialized
+0	19:21:57.401	ZigZag GBPUSD,H1: uninit reason 3
+0	19:21:57.403	ZigZag GBPUSD,M30: initialized
+0	19:48:15.911	ZigZag GBPUSD,M30: uninit reason 3
+0	19:48:15.915	ZigZag GBPUSD,H4: initialized
+0	20:19:52.357	Compiling 'forex-news-indicator'
+3	20:20:02.073	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+3	20:20:05.657	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+3	20:20:46.338	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+3	20:20:47.371	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+3	20:20:47.688	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+3	20:20:48.388	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+3	20:20:48.671	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+3	20:20:48.971	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+3	20:20:49.291	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+0	20:20:52.031	ZigZag GBPUSD,H4: uninit reason 3
+0	20:20:52.034	ZigZag GBPUSD,Daily: initialized
+0	20:20:52.970	ZigZag GBPUSD,Daily: uninit reason 3
+0	20:20:52.975	ZigZag GBPUSD,H4: initialized
+0	20:20:53.620	ZigZag GBPUSD,H4: uninit reason 3
+0	20:20:53.624	ZigZag GBPUSD,H1: initialized
+0	20:20:54.170	ZigZag GBPUSD,H1: uninit reason 3
+0	20:20:54.170	ZigZag GBPUSD,M30: initialized
+0	20:20:54.799	ZigZag GBPUSD,M30: uninit reason 3
+0	20:20:54.799	ZigZag GBPUSD,H1: initialized
+0	20:20:55.331	ZigZag GBPUSD,H1: uninit reason 3
+0	20:20:55.331	ZigZag GBPUSD,H4: initialized
+0	20:20:55.970	ZigZag GBPUSD,H4: uninit reason 3
+0	20:20:55.970	ZigZag GBPUSD,H1: initialized
+0	20:20:56.453	ZigZag GBPUSD,H1: uninit reason 3
+0	20:20:56.453	ZigZag GBPUSD,M30: initialized
+3	20:21:00.932	cannot open file 'c:\Program Files (x86)\MetaTrader 4\MQL4\indicators\forex-news-indicator.ex4' [2]
+0	22:02:44.801	ZigZag GBPUSD,M30: uninit reason 9
+0	22:02:45.159	Custom indicator ZigZag GBPUSD,M30: removed
+0	22:02:53.549	Custom indicator ZigZag GBPUSD,M30: loaded successfully
+0	22:02:53.574	ZigZag GBPUSD,M30: initialized

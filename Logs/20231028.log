@@ -1,0 +1,6 @@
+0	13:08:11.993	Custom indicator ZigZag GBPUSD,M30: loaded successfully
+0	13:08:12.019	ZigZag GBPUSD,M30: initialized
+0	19:46:11.860	ZigZag GBPUSD,M30: uninit reason 3
+0	19:46:11.878	ZigZag GBPUSD,H4: initialized
+0	19:46:35.267	ZigZag GBPUSD,H4: uninit reason 3
+0	19:46:35.268	ZigZag GBPUSD,Daily: initialized
