@@ -239,7 +239,7 @@ int Strategy(string market){
    }
    vMA = vMA/20;
    
-   if(vol > vMA && adx > 19){
+   if(vol > vMA && adx > 20){
       if(ema9 > ema12){
          if(ema12 > ema21){
             if(ema21 > ema55){
@@ -283,10 +283,14 @@ int trendConfirm(string market){
    double ema21_d = iMA(market,PERIOD_D1,21,0,MODE_EMA,PRICE_CLOSE,0);
    double ema55_d = iMA(market,PERIOD_D1,55,0,MODE_EMA,PRICE_CLOSE,0);
    
-   if(ema9 > ema12){
+   double adx = iADX(market,PERIOD_H4,14,PRICE_CLOSE,MODE_MAIN,0);
+   
+   double adx_d = iADX(market,PERIOD_D1,14,PRICE_CLOSE,MODE_MAIN,0);
+   
+   if(ema9 > ema12 && adx > 20){
       if(ema12 > ema21){
          if(ema21 > ema55){
-            if(ema9_d > ema12_d){
+            if(ema9_d > ema12_d && adx_d > 20){
                if(ema12_d > ema21_d){
                   if(ema21_d > ema55_d){
                      Print("Buying activated ",market);
@@ -298,10 +302,10 @@ int trendConfirm(string market){
       }
       
    }
-   else if(ema9 < ema12){
+   else if(ema9 < ema12 && adx > 20){
       if(ema12 < ema21){
          if(ema21 < ema55){
-            if(ema9_d < ema12_d){
+            if(ema9_d < ema12_d && adx_d > 20){
                if(ema12_d < ema21_d){
                   if(ema21_d < ema55_d){
                      Print("Selling activated ",market);

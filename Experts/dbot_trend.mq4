@@ -16,7 +16,7 @@ extern string mdesc = "DBot Trend"; //Market description
 
 extern double lot_size = 0.01; // lot size
 
-string market = "";
+extern string market = "GBPUSD";
 int n = 0;
 
 double price = 0;
@@ -52,7 +52,6 @@ void OnDeinit(const int reason)
 void OnTick()
   {
 //---
-     market = "GBPUSD";
      if(IsTesting()) market = Symbol();
      //Print("checking ",market," ",n);
      

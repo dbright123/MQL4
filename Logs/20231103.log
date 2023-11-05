@@ -1,0 +1,14 @@
+0	15:19:58.887	Bands XAUUSD,M30: uninit reason 5
+0	15:19:58.989	Bands XAUUSD,M30: initialized
+0	15:21:16.624	Bands XAUUSD,M30: uninit reason 5
+0	15:21:16.718	Bands XAUUSD,M30: initialized
+0	15:22:57.839	Bands XAUUSD,M30: uninit reason 3
+0	15:22:57.839	RSI XAUUSD,M30: uninit reason 3
+0	15:22:57.840	Bands XAUUSD,H4: initialized
+0	15:22:57.840	RSI XAUUSD,H4: initialized
+0	15:25:03.429	Bands XAUUSD,H4: uninit reason 3
+0	15:25:03.429	RSI XAUUSD,H4: uninit reason 3
+0	15:25:03.431	Bands XAUUSD,M30: initialized
+0	15:25:03.431	RSI XAUUSD,M30: initialized
+0	15:27:43.182	Bands XAUUSD,M30: uninit reason 5
+0	15:27:43.304	Bands XAUUSD,M30: initialized
