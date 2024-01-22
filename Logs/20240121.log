@@ -1,0 +1,62 @@
+0	10:09:18.717	s_and_d XAUUSD,Daily: uninit reason 5
+0	10:09:18.859	s_and_d XAUUSD,Daily: initialized
+0	10:09:30.681	Compiling 'breakeven'
+0	10:09:49.132	Custom indicator FXSSI.com\FXSSI.CurrentRatio AUDUSD,H1: loaded successfully
+3	10:10:03.403	Cannot load 'fxssi.com\fxssi.42.dll' [126]
+1	10:10:03.410	Cannot call 'fxssi.com\fxssi.42.dll::InitResource', 'fxssi.com\fxssi.42.dll' is not loaded
+1	10:10:03.410	FXSSI.CurrentRatio AUDUSD,H1: unresolved import function call
+3	10:10:03.412	FXSSI.CurrentRatio AUDUSD,H1: not initialized
+0	10:10:03.412	FXSSI.CurrentRatio AUDUSD,H1: uninit reason 8
+0	10:10:03.414	Custom indicator FXSSI.CurrentRatio AUDUSD,H1: removed
+0	10:10:39.777	Custom indicator FXSSI.com\FXSSI.StopLossClusters AUDUSD,H1: loaded successfully
+3	10:10:48.106	Cannot load 'fxssi.com\fxssi.42.dll' [126]
+1	10:10:48.107	Cannot call 'fxssi.com\fxssi.42.dll::InitResource', 'fxssi.com\fxssi.42.dll' is not loaded
+1	10:10:48.107	FXSSI.StopLossClusters AUDUSD,H1: unresolved import function call
+3	10:10:48.109	FXSSI.StopLossClusters AUDUSD,H1: not initialized
+0	10:10:48.109	FXSSI.StopLossClusters AUDUSD,H1: uninit reason 8
+0	10:10:48.110	Custom indicator FXSSI.StopLossClusters AUDUSD,H1: removed
+0	10:18:00.455	Custom indicator i-supply-demand-zones AUDUSD,H1: loaded successfully
+0	10:18:50.309	i-supply-demand-zones AUDUSD,H1: initialized
+0	10:19:45.508	i-supply-demand-zones AUDUSD,H1: uninit reason 1
+0	10:19:45.519	Custom indicator i-supply-demand-zones AUDUSD,H1: removed
+0	10:19:50.741	Custom indicator i-supply-demand-zones AUDUSD,H1: loaded successfully
+0	10:19:53.560	i-supply-demand-zones AUDUSD,H1: Alert: Set Allow DLL Imports checkbox while launching the indicator.
+0	10:19:53.560	i-supply-demand-zones AUDUSD,H1: Set Allow DLL Imports checkbox while launching the indicator.
+0	10:19:53.560	i-supply-demand-zones AUDUSD,H1: initialized
+0	10:20:26.474	i-supply-demand-zones AUDUSD,H1: uninit reason 5
+0	10:20:26.478	Custom indicator i-supply-demand-zones AUDUSD,H1: removed
+0	10:20:26.501	Custom indicator i-supply-demand-zones AUDUSD,H1: loaded successfully
+0	10:20:26.527	i-supply-demand-zones AUDUSD,H1: initialized
+0	10:21:31.261	i-supply-demand-zones AUDUSD,H1: uninit reason 3
+0	10:21:31.268	i-supply-demand-zones AUDUSD,Daily: initialized
+0	10:24:04.941	Custom indicator OsMA AUDUSD,Daily: loaded successfully
+0	10:24:12.530	OsMA AUDUSD,Daily: initialized
+0	10:24:34.008	OsMA AUDUSD,Daily: uninit reason 1
+0	10:24:34.016	Custom indicator OsMA AUDUSD,Daily: removed
+0	10:28:32.655	Script testing AUDJPY,H1: loaded successfully
+0	10:28:32.699	testing AUDJPY,H1: initialized
+0	10:28:32.763	testing AUDJPY,H1: 0.0
+0	10:28:32.763	testing AUDJPY,H1: uninit reason 0
+0	10:28:32.781	Script testing AUDJPY,H1: removed
+0	10:28:56.325	ZigZag XAUUSD,Daily: uninit reason 3
+0	10:28:56.325	s_and_d XAUUSD,Daily: uninit reason 3
+0	10:28:56.332	ZigZag GBPUSD,Daily: initialized
+0	10:28:56.333	s_and_d GBPUSD,Daily: initialized
+0	10:30:13.942	ZigZag GBPUSD,Daily: uninit reason 3
+0	10:30:13.942	s_and_d GBPUSD,Daily: uninit reason 3
+0	10:30:13.956	ZigZag GBPUSD,H1: initialized
+0	10:30:13.956	s_and_d GBPUSD,H1: initialized
+0	10:30:24.925	ZigZag GBPUSD,H1: uninit reason 3
+0	10:30:24.925	s_and_d GBPUSD,H1: uninit reason 3
+0	10:30:24.926	ZigZag GBPUSD,Daily: initialized
+0	10:30:24.927	s_and_d GBPUSD,Daily: initialized
+0	10:30:41.589	Script testing AUDJPY,H1: loaded successfully
+0	10:30:41.611	testing AUDJPY,H1: initialized
+0	10:30:41.671	testing AUDJPY,H1: 0.0
+0	10:30:41.671	testing AUDJPY,H1: uninit reason 0
+0	10:30:41.680	Script testing AUDJPY,H1: removed
+0	10:31:34.526	Script testing AUDJPY,H1: loaded successfully
+0	10:31:34.545	testing AUDJPY,H1: initialized
+0	10:31:34.597	testing AUDJPY,H1: 0.0
+0	10:31:34.597	testing AUDJPY,H1: uninit reason 0
+0	10:31:34.634	Script testing AUDJPY,H1: removed

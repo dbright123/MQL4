@@ -1,0 +1,33 @@
+0	07:37:46.248	Custom indicator s_and_d EURJPY,Daily: loaded successfully
+0	07:38:11.348	Custom indicator s_and_d EURJPY,Daily: removed
+0	07:39:49.716	s_and_d EURJPY,Daily: uninit reason 5
+0	07:39:49.811	s_and_d EURJPY,Daily: initialized
+0	07:40:30.783	ZigZag EURJPY,Daily: uninit reason 3
+0	07:40:30.783	s_and_d EURJPY,Daily: uninit reason 3
+0	07:40:30.790	ZigZag GBPUSD,Daily: initialized
+0	07:40:30.791	s_and_d GBPUSD,Daily: initialized
+0	07:40:30.822	s_and_d GBPUSD,Daily: Alert: GBPUSDD1: Support Zone Entered
+0	07:41:16.548	ZigZag GBPUSD,Daily: uninit reason 3
+0	07:41:16.548	s_and_d GBPUSD,Daily: uninit reason 3
+0	07:41:16.553	ZigZag XAUUSD,Daily: initialized
+0	07:41:16.553	s_and_d XAUUSD,Daily: initialized
+0	07:55:33.613	Custom indicator CE XAUUSD,Daily: loaded successfully
+0	07:55:35.476	CE XAUUSD,Daily: initialized
+0	07:57:25.013	CE XAUUSD,Daily: uninit reason 1
+0	07:57:25.024	Custom indicator CE XAUUSD,Daily: removed
+0	15:55:41.452	ZigZag XAUUSD,Daily: uninit reason 3
+0	15:55:41.453	s_and_d XAUUSD,Daily: uninit reason 3
+0	15:55:41.462	ZigZag XAUUSD,H1: initialized
+0	15:55:41.463	s_and_d XAUUSD,H1: initialized
+0	15:55:46.996	ZigZag XAUUSD,H1: uninit reason 3
+0	15:55:46.996	s_and_d XAUUSD,H1: uninit reason 3
+0	15:55:46.998	ZigZag XAUUSD,Daily: initialized
+0	15:55:46.998	s_and_d XAUUSD,Daily: initialized
+0	15:55:49.816	ZigZag XAUUSD,Daily: uninit reason 3
+0	15:55:49.816	s_and_d XAUUSD,Daily: uninit reason 3
+0	15:55:49.817	ZigZag XAUUSD,H1: initialized
+0	15:55:49.817	s_and_d XAUUSD,H1: initialized
+0	15:55:56.682	ZigZag XAUUSD,H1: uninit reason 3
+0	15:55:56.682	s_and_d XAUUSD,H1: uninit reason 3
+0	15:55:56.683	ZigZag XAUUSD,Daily: initialized
+0	15:55:56.683	s_and_d XAUUSD,Daily: initialized

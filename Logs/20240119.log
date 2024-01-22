@@ -1,0 +1,8 @@
+0	12:57:10.835	ZigZag EURJPY,H1: uninit reason 3
+0	12:57:10.837	s_and_d EURJPY,H1: uninit reason 3
+0	12:57:10.839	ZigZag EURJPY,Daily: initialized
+0	12:57:10.840	s_and_d EURJPY,Daily: initialized
+0	16:41:27.329	s_and_d EURJPY,Daily: uninit reason 1
+0	16:41:27.359	Custom indicator s_and_d EURJPY,Daily: removed
+0	16:41:34.546	Custom indicator s_and_d EURJPY,Daily: loaded successfully
+0	16:41:36.188	s_and_d EURJPY,Daily: initialized

@@ -1,0 +1,28 @@
+0	20:22:27.637	Custom indicator ZigZag GBPCAD,Daily: loaded successfully
+0	20:22:27.648	Custom indicator s_and_d GBPCAD,Daily: loaded successfully
+0	20:22:27.675	ZigZag GBPCAD,Daily: initialized
+0	20:22:27.697	s_and_d GBPCAD,Daily: initialized
+0	20:24:14.067	ZigZag GBPCAD,Daily: uninit reason 3
+0	20:24:14.068	s_and_d GBPCAD,Daily: uninit reason 3
+0	20:24:14.072	ZigZag EURGBP,Daily: initialized
+0	20:24:14.072	s_and_d EURGBP,Daily: initialized
+0	20:25:00.766	s_and_d EURGBP,Daily: uninit reason 1
+0	20:25:00.778	Custom indicator s_and_d EURGBP,Daily: removed
+0	20:25:09.636	Custom indicator s_and_d EURGBP,Daily: loaded successfully
+0	20:25:11.300	s_and_d EURGBP,Daily: initialized
+0	20:29:49.018	ZigZag EURGBP,Daily: uninit reason 3
+0	20:29:49.019	s_and_d EURGBP,Daily: uninit reason 3
+0	20:29:49.025	ZigZag GBPAUD,Daily: initialized
+0	20:29:49.025	s_and_d GBPAUD,Daily: initialized
+0	20:30:01.687	ZigZag GBPAUD,Daily: uninit reason 3
+0	20:30:01.687	s_and_d GBPAUD,Daily: uninit reason 3
+0	20:30:01.688	ZigZag GBPAUD,H4: initialized
+0	20:30:01.688	s_and_d GBPAUD,H4: initialized
+0	20:30:24.501	ZigZag GBPAUD,H4: uninit reason 3
+0	20:30:24.501	s_and_d GBPAUD,H4: uninit reason 3
+0	20:30:24.505	ZigZag GBPAUD,H1: initialized
+0	20:30:24.505	s_and_d GBPAUD,H1: initialized
+0	20:33:27.817	ZigZag GBPAUD,H1: uninit reason 3
+0	20:33:27.817	s_and_d GBPAUD,H1: uninit reason 3
+0	20:33:27.823	ZigZag EURJPY,H1: initialized
+0	20:33:27.823	s_and_d EURJPY,H1: initialized

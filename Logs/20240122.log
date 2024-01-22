@@ -1,0 +1,34 @@
+0	03:28:52.147	Custom indicator ZigZag XAUUSD,Daily: loaded successfully
+0	03:28:52.199	Custom indicator s_and_d XAUUSD,Daily: loaded successfully
+0	03:28:52.222	Custom indicator CE XAUUSD,Daily: loaded successfully
+0	03:28:52.368	ZigZag XAUUSD,Daily: initialized
+0	03:28:52.405	s_and_d XAUUSD,Daily: initialized
+0	03:28:52.428	CE XAUUSD,Daily: initialized
+0	03:28:52.616	Custom indicator i-supply-demand-zones AUDUSD,Daily: loaded successfully
+0	03:28:52.666	Custom indicator OsMA AUDUSD,Daily: loaded successfully
+0	03:28:52.761	i-supply-demand-zones AUDUSD,Daily: initialized
+0	03:28:52.784	OsMA AUDUSD,Daily: initialized
+0	03:52:45.437	CE XAUUSD,Daily: uninit reason 1
+0	03:52:45.468	Custom indicator CE XAUUSD,Daily: removed
+0	03:53:07.520	ZigZag XAUUSD,Daily: uninit reason 3
+0	03:53:07.521	s_and_d XAUUSD,Daily: uninit reason 3
+0	03:53:07.525	ZigZag AUDUSD,Daily: initialized
+0	03:53:07.525	s_and_d AUDUSD,Daily: initialized
+0	07:18:15.367	s_and_d AUDUSD,Daily: Alert: AUDUSDD1: Support Zone Entered
+0	13:48:33.005	Compiling 'breakeven'
+0	13:48:35.701	Script testing AUDJPY,H1: loaded successfully
+0	13:48:35.726	testing AUDJPY,H1: initialized
+0	13:48:35.783	testing AUDJPY,H1: 1.26107
+0	13:48:35.783	testing AUDJPY,H1: 5
+0	13:48:35.783	testing AUDJPY,H1: uninit reason 0
+0	13:48:35.795	Script testing AUDJPY,H1: removed
+0	13:49:27.518	Script testing AUDJPY,H1: loaded successfully
+0	13:49:27.534	testing AUDJPY,H1: initialized
+0	13:49:27.587	testing AUDJPY,H1: 0.0
+0	13:49:27.587	testing AUDJPY,H1: 2
+0	13:49:27.587	testing AUDJPY,H1: uninit reason 0
+0	13:49:27.599	Script testing AUDJPY,H1: removed
+0	13:49:39.977	ZigZag AUDUSD,Daily: uninit reason 3
+0	13:49:39.977	s_and_d AUDUSD,Daily: uninit reason 3
+0	13:49:39.980	ZigZag XAUUSD,Daily: initialized
+0	13:49:39.980	s_and_d XAUUSD,Daily: initialized

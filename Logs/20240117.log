@@ -1,0 +1,80 @@
+0	07:54:20.878	ZigZag GBPUSD,H1: uninit reason 3
+0	07:54:20.883	s_and_d GBPUSD,H1: uninit reason 3
+0	07:54:20.894	ZigZag GBPUSD,H4: initialized
+0	07:54:20.897	s_and_d GBPUSD,H4: initialized
+0	07:54:23.537	ZigZag GBPUSD,H4: uninit reason 3
+0	07:54:23.537	s_and_d GBPUSD,H4: uninit reason 3
+0	07:54:23.540	ZigZag GBPUSD,Daily: initialized
+0	07:54:23.541	s_and_d GBPUSD,Daily: initialized
+0	07:54:37.033	ZigZag GBPUSD,Daily: uninit reason 3
+0	07:54:37.033	s_and_d GBPUSD,Daily: uninit reason 3
+0	07:54:37.038	ZigZag GBPUSD,H4: initialized
+0	07:54:37.040	s_and_d GBPUSD,H4: initialized
+0	07:56:58.532	ZigZag GBPUSD,H4: uninit reason 3
+0	07:56:58.532	s_and_d GBPUSD,H4: uninit reason 3
+0	07:56:58.535	ZigZag GBPUSD,Daily: initialized
+0	07:56:58.538	s_and_d GBPUSD,Daily: initialized
+0	07:58:02.949	ZigZag GBPUSD,Daily: uninit reason 3
+0	07:58:02.949	s_and_d GBPUSD,Daily: uninit reason 3
+0	07:58:02.954	ZigZag GBPUSD,H1: initialized
+0	07:58:02.956	s_and_d GBPUSD,H1: initialized
+0	07:58:28.598	ZigZag GBPUSD,H1: uninit reason 3
+0	07:58:28.598	s_and_d GBPUSD,H1: uninit reason 3
+0	07:58:28.608	ZigZag GBPUSD,M5: initialized
+0	07:58:28.609	s_and_d GBPUSD,M5: initialized
+0	07:58:43.786	ZigZag GBPUSD,M5: uninit reason 3
+0	07:58:43.786	s_and_d GBPUSD,M5: uninit reason 3
+0	07:58:43.791	ZigZag GBPUSD,H4: initialized
+0	07:58:43.791	s_and_d GBPUSD,H4: initialized
+0	07:59:09.938	ZigZag GBPUSD,H4: uninit reason 3
+0	07:59:09.938	s_and_d GBPUSD,H4: uninit reason 3
+0	07:59:09.941	ZigZag GBPUSD,Daily: initialized
+0	07:59:09.942	s_and_d GBPUSD,Daily: initialized
+0	08:04:21.590	ZigZag GBPUSD,Daily: uninit reason 3
+0	08:04:21.590	s_and_d GBPUSD,Daily: uninit reason 3
+0	08:04:21.599	ZigZag GBPUSD,H4: initialized
+0	08:04:21.601	s_and_d GBPUSD,H4: initialized
+0	08:05:56.546	ZigZag GBPUSD,H4: uninit reason 3
+0	08:05:56.547	s_and_d GBPUSD,H4: uninit reason 3
+0	08:05:56.556	ZigZag EURUSD,H4: initialized
+0	08:05:56.558	s_and_d EURUSD,H4: initialized
+0	08:06:00.093	ZigZag EURUSD,H4: uninit reason 3
+0	08:06:00.094	s_and_d EURUSD,H4: uninit reason 3
+0	08:06:00.097	ZigZag GBPCAD,H4: initialized
+0	08:06:00.100	s_and_d GBPCAD,H4: initialized
+0	08:06:12.675	ZigZag GBPCAD,H4: uninit reason 3
+0	08:06:12.675	s_and_d GBPCAD,H4: uninit reason 3
+0	08:06:12.676	ZigZag GBPCAD,Daily: initialized
+0	08:06:12.678	s_and_d GBPCAD,Daily: initialized
+0	08:06:37.348	Custom indicator s_and_d GBPCAD,Daily: loaded successfully
+0	08:07:03.714	s_and_d GBPCAD,Daily: initialized
+0	08:07:13.051	s_and_d GBPCAD,Daily: uninit reason 1
+0	08:07:13.083	Custom indicator s_and_d GBPCAD,Daily: removed
+0	08:07:15.322	s_and_d GBPCAD,Daily: uninit reason 1
+0	08:07:15.327	Custom indicator s_and_d GBPCAD,Daily: removed
+0	08:07:17.405	Custom indicator s_and_d GBPCAD,Daily: loaded successfully
+0	08:07:18.614	s_and_d GBPCAD,Daily: initialized
+0	08:07:36.739	ZigZag GBPCAD,Daily: uninit reason 3
+0	08:07:36.739	s_and_d GBPCAD,Daily: uninit reason 3
+0	08:07:36.744	ZigZag GBPUSD,Daily: initialized
+0	08:07:36.747	s_and_d GBPUSD,Daily: initialized
+0	08:07:49.990	ZigZag GBPUSD,Daily: uninit reason 3
+0	08:07:49.990	s_and_d GBPUSD,Daily: uninit reason 3
+0	08:07:49.993	ZigZag GBPUSD,H4: initialized
+0	08:07:49.994	s_and_d GBPUSD,H4: initialized
+0	08:08:20.438	ZigZag GBPUSD,H4: uninit reason 3
+0	08:08:20.438	s_and_d GBPUSD,H4: uninit reason 3
+0	08:08:20.441	ZigZag GBPUSD,H1: initialized
+0	08:08:20.443	s_and_d GBPUSD,H1: initialized
+0	08:09:27.137	ZigZag GBPUSD,H1: uninit reason 3
+0	08:09:27.137	s_and_d GBPUSD,H1: uninit reason 3
+0	08:09:27.140	ZigZag GBPUSD,H4: initialized
+0	08:09:27.141	s_and_d GBPUSD,H4: initialized
+0	08:12:24.950	ZigZag GBPUSD,H4: uninit reason 3
+0	08:12:24.950	s_and_d GBPUSD,H4: uninit reason 3
+0	08:12:24.954	ZigZag GBPUSD,H1: initialized
+0	08:12:24.955	s_and_d GBPUSD,H1: initialized
+0	08:13:17.532	ZigZag GBPUSD,H1: uninit reason 3
+0	08:13:17.533	s_and_d GBPUSD,H1: uninit reason 3
+0	08:13:17.537	ZigZag GBPUSD,Daily: initialized
+0	08:13:17.538	s_and_d GBPUSD,Daily: initialized
