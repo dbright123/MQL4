@@ -32,7 +32,7 @@ int OnInit()
    n = 0;
    for(int i = 0; i < SymbolsTotal(False); i++){
       if(StringFind(SymbolName(i,False),"USD") != -1 && ((int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 5 || (int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 4)){
-         if(iClose(SymbolName(i,False),PERIOD_D1,0) < 1){
+         if(iClose(SymbolName(i,False),PERIOD_D1,0) < 3){
             markets[n] = SymbolName(i,False);
             Print(markets[n++]," --> ",(int)MarketInfo(SymbolName(i,False),MODE_DIGITS));
          }
