@@ -17,9 +17,6 @@ string markets[] = {};
 string market = "";
 int n = 0;
 
-double price = 0;
-double tp = 0;
-double sl = 0;
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -62,30 +59,27 @@ void OnTick()
 //---
    if(IsExpertEnabled()){
       if(OrdersTotal() < 3){
-         market = markets[n++];
+         market = (IsTesting()) ? Symbol() : markets[n++];
          tf = PERIOD_D1;
+         //Print("1d check");
          //Starting with daily trade
          if(s_and_d(market,tf) == 0){
-            tf = PERIOD_M30;
+            tf = PERIOD_H1;
+            //Print("30 min check");
             if(s_and_d(market,tf) == 0){
                if(ema_trend(market,tf) == 0){
-                  tf = PERIOD_M5;
-                  if(s_and_d(market,tf) == 0){
-                     //Order a Buy
-                     market_order(market,OP_BUY);
-                  }
+                  //Order a Buy
+                  market_order(market,OP_BUY);
                }
             }
          }
          else if(s_and_d(market,tf) == 1){
-            tf = PERIOD_M30;
+            tf = PERIOD_H1;
+            //Print("30 min check");
             if(s_and_d(market,tf) == 1){
                if(ema_trend(market,tf) == 1){
-                  tf = PERIOD_M5;
-                  if(s_and_d(market,tf) == 1){
-                     //Order a Sell
-                     market_order(market,OP_SELL);
-                  }
+                  //Order a Sell
+                  market_order(market,OP_SELL);
                }
             }
          }
@@ -121,25 +115,25 @@ void OnTimer()
 //+------------------------------------------------------------------+
 
 int s_and_d(string market,ENUM_TIMEFRAMES tf){
-   for(int z = 0; z < 1000; z++){//Maxi bar check is a 1000
+   for(int z = 0; z < iBars(market,PERIOD_D1); z++){//Maxi bar check is a 1000
       if(iCustom(market,tf,"s_and_d",0,z) != 0){
-         Print("confirmed demand zone -->>", iCustom(market,tf,"s_and_d",0,z));
-         Print(z);
+         //Print("confirmed ",market," demand zone -->>", iCustom(market,tf,"s_and_d",0,z));
+         //Print(z);
          return 0;
       }
       else if(iCustom(market,tf,"s_and_d",1,z) != 0){
-         Print("confirmed supply zone-->>", iCustom(market,tf,"s_and_d",1,z));
-         Print(z);
+         //Print("confirmed ",market," supply zone-->>", iCustom(market,tf,"s_and_d",1,z));
+         //Print(z);
          return 1;
       }
       else if(iCustom(market,tf,"s_and_d",2,z) != 0){
-         Print("demand zone fast -->>", iCustom(market,tf,"s_and_d",2,z));
-         Print(z);
+         //Print("demand  ",market," zone fast -->>", iCustom(market,tf,"s_and_d",2,z));
+         //Print(z);
          return 0;
       }
       else if(iCustom(market,tf,"s_and_d",3,z) != 0){
-         Print("supply zone fast -->>", iCustom(market,tf,"s_and_d",3,z));
-         Print(z);
+         //Print("supply  ",market," zone fast -->>", iCustom(market,tf,"s_and_d",3,z));
+         //Print(z);
          return 1;
       }
    }
@@ -150,7 +144,7 @@ int ema_trend(string market, ENUM_TIMEFRAMES tf){
    double ema8 = iMA(market,tf,8,0,MODE_EMA,PRICE_CLOSE,0),
           ema12 = iMA(market,tf,12,0,MODE_EMA,PRICE_CLOSE,0),
           ema21 = iMA(market,tf,21,0,MODE_EMA,PRICE_CLOSE,0),
-          ema55 = iMA(market,tf,8,0,MODE_EMA,PRICE_CLOSE,0),
+          ema55 = iMA(market,tf,55,0,MODE_EMA,PRICE_CLOSE,0),
           cp = iClose(market,tf,0);
    
    if(cp > ema8 && ema8 > ema12){
@@ -169,18 +163,140 @@ int ema_trend(string market, ENUM_TIMEFRAMES tf){
 
 
 void market_order(string market,ENUM_ORDER_TYPE order){
-   if(order == OP_BUY){
-   
+   bool permit = True;
+   for(int i = 0; i < OrdersTotal(); i++){
+      if(OrderSelect(i,SELECT_BY_POS)){
+         if(OrderSymbol() == market){
+            permit = False;
+         }
+      }
    }
-   else if(order == OP_SELL){
-   
+   if(permit){
+      double tp = 0,sl = 0;
+      double atr = iATR(market,PERIOD_D1,14,0);
+      double cp = iClose(market,PERIOD_D1,0);
+      if(order == OP_BUY){
+         sl = cp - atr;
+         tp = (tp_calculator(market,order) != 0) ? tp_calculator(market,order) : cp + (atr * 2);
+         
+         int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
+         if(t != -1){
+            Alert(market," Ordered Successfully");
+         }else Alert("Failed");
+         
+      }
+      else if(order == OP_SELL){
+         sl = cp + atr;
+         tp =(tp_calculator(market,order) != 0) ? tp_calculator(market,order) : cp - (atr * 2);
+         
+         int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
+         if(t != -1){
+            Alert(market," Ordered Successfully");
+         }else Alert("Failed");
+      }
    }
+   
    
 }
 
 
 void monitor(){
    for(int i = 0; i < OrdersTotal(); i++){
-      
+      if(OrderSelect(i,SELECT_BY_POS)){
+         if(OrderComment() == mdesc){
+            double sl = 0;
+            
+            if(OrderType() == OP_BUY){
+               if(s_and_d(market,PERIOD_D1) == 1){
+                  //Emergency Close Market
+                  if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
+                     Alert(OrderSymbol()," is really needed to be removed");
+                  }else Print("Failed closing");
+               }
+               if(OrderProfit() > 80 * OrderLots()){
+                  if(OrderOpenPrice() > OrderStopLoss()){
+                     sl = OrderClosePrice() + OrderOpenPrice();
+                     sl = sl/2;
+                     if(OrderModify(OrderTicket(),OrderOpenPrice(),sl,OrderTakeProfit(),0)){
+                        Alert(OrderSymbol()," has been assigned a breakeven");
+                     }else Print("Failed modifying");
+                  }
+                  
+               }
+            }
+            else if(OrderType() == OP_SELL){
+               if(s_and_d(market,PERIOD_D1) == 0){
+                  //Emergency Close Market
+                  if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
+                     Alert(OrderSymbol()," is really needed to be removed");
+                  }else Print("Failed closing");
+               }
+               
+               if(OrderProfit() > 80 * OrderLots()){
+                  if(OrderOpenPrice() < OrderStopLoss()){
+                     sl = OrderClosePrice() + OrderOpenPrice();
+                     sl = sl/2;
+                     if(OrderModify(OrderTicket(),OrderOpenPrice(),sl,OrderTakeProfit(),0)){
+                        Alert(OrderSymbol()," has been assigned a breakeven");
+                     }else Print("Failed modifying");
+                  }
+               }
+            }
+         }
+      }
    }
+}
+
+double tp_calculator(string market, ENUM_ORDER_TYPE order){
+   ENUM_TIMEFRAMES tf = PERIOD_D1;
+   double cp = iClose(market,tf,0);
+   if(order == OP_BUY){
+      for(int i = 0; i < iBars(market,PERIOD_D1); i++){
+         if(iCustom(market,tf,"s_and_d",1,i) != 0){
+            if(iCustom(market,tf,"s_and_d",1,i) > cp){
+               if(iClose(market,tf,i) > iOpen(market,tf,i)){
+                  return iClose(market,tf,i);
+               }
+               else if(iClose(market,tf,i) < iOpen(market,tf,i)){
+                  return iOpen(market,tf,i);
+               }
+            }
+         }
+         else if(iCustom(market,tf,"s_and_d",3,i) != 0){
+            if(iCustom(market,tf,"s_and_d",3,i) > cp){
+               if(iClose(market,tf,i) > iOpen(market,tf,i)){
+                  return iClose(market,tf,i);
+               }
+               else if(iClose(market,tf,i) < iOpen(market,tf,i)){
+                  return iOpen(market,tf,i);
+               }
+            }
+         }
+      }
+   }
+   else if(order == OP_SELL){
+      for(int i = 0; i < iBars(market,PERIOD_D1); i++){
+         if(iCustom(market,tf,"s_and_d",0,i) != 0){
+            if(iCustom(market,tf,"s_and_d",0,i) < cp){
+               if(iClose(market,tf,i) > iOpen(market,tf,i)){
+                  return iOpen(market,tf,i);
+               }
+               else if(iClose(market,tf,i) < iOpen(market,tf,i)){
+                  return iClose(market,tf,i);
+               }
+            }
+         }
+         else if(iCustom(market,tf,"s_and_d",2,i) != 0){
+            if(iCustom(market,tf,"s_and_d",2,i) < cp){
+               if(iClose(market,tf,i) > iOpen(market,tf,i)){
+                  return iOpen(market,tf,i);
+               }
+               else if(iClose(market,tf,i) < iOpen(market,tf,i)){
+                  return iClose(market,tf,i);
+               }
+            }
+         }
+      }
+   }
+   return 0;
 }

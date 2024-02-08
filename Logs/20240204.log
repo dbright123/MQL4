@@ -68,3 +68,12 @@
 0	14:34:14.742	trend_dtrader AUDJPY,H1: Alert: 4
 0	14:34:14.766	Expert trend_dtrader AUDJPY,H1: removed
 0	16:08:34.394	Compiling 'trend_dtrader'
+0	16:08:38.787	Script testing AUDJPY,H1: loaded successfully
+0	16:08:38.805	testing AUDJPY,H1: initialized
+0	16:08:38.874	testing AUDJPY,H1: 0.0
+0	16:08:38.874	testing AUDJPY,H1: 2
+0	16:08:38.875	testing AUDJPY,H1: 0.01
+0	16:08:38.875	testing AUDJPY,H1: sz fast -->>1.27748
+0	16:08:38.875	testing AUDJPY,H1: 7
+0	16:08:38.875	testing AUDJPY,H1: uninit reason 0
+0	16:08:38.889	Script testing AUDJPY,H1: removed
