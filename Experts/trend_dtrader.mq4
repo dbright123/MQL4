@@ -207,12 +207,13 @@ void monitor(){
             double sl = 0;
             
             if(OrderType() == OP_BUY){
+               /*
                if(s_and_d(market,PERIOD_D1) == 1){
                   //Emergency Close Market
                   if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
                      Alert(OrderSymbol()," is really needed to be removed");
                   }else Print("Failed closing");
-               }
+               }*/
                if(OrderProfit() > 80 * OrderLots()){
                   if(OrderOpenPrice() > OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
@@ -225,13 +226,14 @@ void monitor(){
                }
             }
             else if(OrderType() == OP_SELL){
+               /*
                if(s_and_d(market,PERIOD_D1) == 0){
                   //Emergency Close Market
                   if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
                      Alert(OrderSymbol()," is really needed to be removed");
                   }else Print("Failed closing");
                }
-               
+               */
                if(OrderProfit() > 80 * OrderLots()){
                   if(OrderOpenPrice() < OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
