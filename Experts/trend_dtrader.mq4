@@ -13,7 +13,7 @@ extern string mdesc = "DBot FX"; //Market description
 
 extern double lot_size = 0.01; // lot size
 ENUM_TIMEFRAMES tf = PERIOD_D1;
-string markets[] = {};
+string markets[] = {"EURUSD","AUDUSD","GBPUSD","USDCAD","XAUUSD","USDJPY"};
 string market = "";
 int n = 0;
 
@@ -28,6 +28,7 @@ int OnInit()
   {
 //--- create timer
    EventSetTimer(60);
+   
    ArrayResize(markets,SymbolsTotal(False));
    n = 0;
    for(int i = 0; i < SymbolsTotal(False); i++){
@@ -40,6 +41,7 @@ int OnInit()
       }
    }
    ArrayResize(markets,n);
+   
    Print(ArraySize(markets));
    n = 0;
 //---
@@ -112,13 +114,13 @@ void OnTimer()
    }
    if(!IsExpertEnabled()){
       Alert("Please enable Algo Trading");
-   }
+   } 
    Print(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT()));
   }
 //+------------------------------------------------------------------+
 
 int s_and_d(string market,ENUM_TIMEFRAMES tf){
-   for(int z = 0; z < iBars(market,PERIOD_D1); z++){//Maxi bar check is a 1000
+   for(int z = 0; z < 30; z++){//Maxi bar check is a 1000
       if(iCustom(market,tf,"s_and_d",0,z) != 0){
          //Print("confirmed ",market," demand zone -->>", iCustom(market,tf,"s_and_d",0,z));
          //Print(z);
@@ -164,7 +166,16 @@ int ema_trend(string market, ENUM_TIMEFRAMES tf){
    return 2;
 }
 
-
+bool volume_permit(string market){
+   double vol = 0, avergVol = 0;
+   for(int i = 0; i < 20; i++){
+      vol = vol + iVolume(market,PERIOD_H1,i);
+   }
+   avergVol = vol / 20.0;
+   
+   if(vol > avergVol) return true;
+   return false;
+}
 void market_order(string market,ENUM_ORDER_TYPE order){
    bool permit = True;
    for(int i = 0; i < OrdersTotal(); i++){
@@ -174,28 +185,33 @@ void market_order(string market,ENUM_ORDER_TYPE order){
          }
       }
    }
-   if(permit){
+   
+   if(permit && volume_permit(market)){
       double tp = 0,sl = 0;
       double atr = iATR(market,PERIOD_D1,14,0);
-      double cp = iClose(market,PERIOD_D1,0);
+      double cp = MarketInfo(market,MODE_BID);
       if(order == OP_BUY){
          sl = cp - atr;
          tp = (tp_calculator(market,order) != 0) ? tp_calculator(market,order) : cp + (atr * 2);
+         if(MathAbs(tp_calculator(market,order) - cp ) > 0.001){
+            int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
+            if(t != -1){
+               Alert(market," Ordered Successfully");
+            }else Alert("Failed ", market);
+         }
          
-         int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
-         if(t != -1){
-            Alert(market," Ordered Successfully");
-         }else Alert("Failed");
          
       }
       else if(order == OP_SELL){
          sl = cp + atr;
          tp =(tp_calculator(market,order) != 0) ? tp_calculator(market,order) : cp - (atr * 2);
          
-         int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
-         if(t != -1){
-            Alert(market," Ordered Successfully");
-         }else Alert("Failed");
+         if(MathAbs(tp_calculator(market,order) - cp ) > 0.001){
+            int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
+            if(t != -1){
+               Alert(market," Ordered Successfully");
+            }else Alert("Failed ", market);
+         }
       }
    }
    
@@ -207,45 +223,90 @@ void monitor(){
    for(int i = 0; i < OrdersTotal(); i++){
       if(OrderSelect(i,SELECT_BY_POS)){
          if(OrderComment() == mdesc){
-            double sl = 0;
-            
+            double sl = 0, be = 0;
+        
             if(OrderType() == OP_BUY){
-               /*
+               
                if(s_and_d(market,PERIOD_D1) == 1){
                   //Emergency Close Market
                   if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
                      Alert(OrderSymbol()," is really needed to be removed");
                   }else Print("Failed closing");
-               }*/
+               }
+               
                if(OrderProfit() > 80 * OrderLots()){
                   if(OrderOpenPrice() > OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
                      sl = sl/2;
                      if(OrderModify(OrderTicket(),OrderOpenPrice(),sl,OrderTakeProfit(),0)){
                         Alert(OrderSymbol()," has been assigned a breakeven");
-                     }else Print("Failed modifying");
-                  }
-                  
+                     }else Print("Failed modifying ", market);
+                  } 
                }
+               
+               if(OrderOpenPrice() > OrderStopLoss()){
+                  be = OrderTakeProfit() + OrderOpenPrice();
+                  be = be / 2.0;
+                  if(OrderClosePrice() > be){
+                     if(OrderModify(OrderTicket(),OrderOpenPrice(),be,OrderTakeProfit(),0)){
+                        Alert(OrderSymbol()," has been assigned a breakeven");
+                     }else Print("Failed modifying ", market);
+                  }
+               }
+               else if(OrderOpenPrice() < OrderStopLoss()){
+                  be = OrderTakeProfit() + OrderStopLoss();
+                  be = be / 2.0;
+                  if((float)be != (float)OrderStopLoss()){
+                     if(OrderClosePrice() > be){
+                        if(OrderModify(OrderTicket(),OrderOpenPrice(),be,OrderTakeProfit(),0)){
+                           Alert(OrderSymbol()," has been assigned a breakeven");
+                        }else Print("Failed modifying ", market);
+                     }
+                  }
+               }
+               
             }
             else if(OrderType() == OP_SELL){
-               /*
+               
                if(s_and_d(market,PERIOD_D1) == 0){
                   //Emergency Close Market
                   if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
                      Alert(OrderSymbol()," is really needed to be removed");
                   }else Print("Failed closing");
                }
-               */
+               
                if(OrderProfit() > 80 * OrderLots()){
                   if(OrderOpenPrice() < OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
                      sl = sl/2;
                      if(OrderModify(OrderTicket(),OrderOpenPrice(),sl,OrderTakeProfit(),0)){
                         Alert(OrderSymbol()," has been assigned a breakeven");
-                     }else Print("Failed modifying");
+                     }else Print("Failed modifying ", market);
                   }
                }
+               
+               if(OrderOpenPrice() < OrderStopLoss()){
+                  be = OrderTakeProfit() + OrderOpenPrice();
+                  be = be / 2.0;
+                  if(OrderClosePrice() > be){
+                     if(OrderModify(OrderTicket(),OrderOpenPrice(),be,OrderTakeProfit(),0)){
+                        Alert(OrderSymbol()," has been assigned a breakeven");
+                     }else Print("Failed modifying ", market);
+                  }
+               }
+               else if(OrderOpenPrice() > OrderStopLoss()){
+                  be = OrderTakeProfit() + OrderStopLoss();
+                  be = be / 2.0;
+                  if((float)be != (float)OrderStopLoss()){
+                     if(OrderClosePrice() > be){
+                        if(OrderModify(OrderTicket(),OrderOpenPrice(),be,OrderTakeProfit(),0)){
+                           Alert(OrderSymbol()," has been assigned a breakeven");
+                        }else Print("Failed modifying ", market);
+                     }
+                  }
+               }
+               
+               
             }
          }
       }

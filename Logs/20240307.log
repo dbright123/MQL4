@@ -1,0 +1,10 @@
+0	12:30:19.614	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	12:30:19.639	Custom indicator s_and_d GBPUSD,H1: loaded successfully
+0	12:30:19.699	ZigZag GBPUSD,H1: initialized
+0	12:30:19.747	s_and_d GBPUSD,H1: initialized
+0	18:53:09.862	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	18:53:09.878	Custom indicator s_and_d GBPUSD,H1: loaded successfully
+0	18:53:09.912	ZigZag GBPUSD,H1: initialized
+0	18:53:09.934	s_and_d GBPUSD,H1: initialized
+0	21:36:46.767	ZigZag GBPUSD,H1: uninit reason 1
+0	21:36:46.783	Custom indicator ZigZag GBPUSD,H1: removed
