@@ -16,7 +16,7 @@ ENUM_TIMEFRAMES tf = PERIOD_D1;
 string markets[] = {"EURUSD","AUDUSD","GBPUSD","USDCAD","XAUUSD","USDJPY"};
 string market = "";
 int n = 0;
-
+extern int max_trade = 3;
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -32,7 +32,7 @@ int OnInit()
    ArrayResize(markets,SymbolsTotal(False));
    n = 0;
    for(int i = 0; i < SymbolsTotal(False); i++){
-      if(StringFind(SymbolName(i,False),"USD") != -1 && ((int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 5 || (int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 4)){
+      if(StringFind(SymbolName(i,False),"USD") != -1/* && ((int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 5 || (int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 4)*/){
          if(iClose(SymbolName(i,False),PERIOD_D1,0) < 3){
             markets[n] = SymbolName(i,False);
             Print(markets[n++]," --> ",(int)MarketInfo(SymbolName(i,False),MODE_DIGITS));
@@ -62,7 +62,7 @@ void OnTick()
   {
 //---
    if(IsExpertEnabled()){
-      if(OrdersTotal() < 3){
+      if(OrdersTotal() < max_trade){
          market = (IsTesting()) ? Symbol() : markets[n++];
          tf = PERIOD_D1;
          //Print("1d check");
@@ -188,7 +188,7 @@ void market_order(string market,ENUM_ORDER_TYPE order){
    if(permit && volume_permit(market)){
       double tp = 0,sl = 0;
       double atr = iATR(market,PERIOD_D1,14,0);
-      double cp = MarketInfo(market,MODE_BID);
+      double cp = iClose(market,PERIOD_D1,0);
       if(order == OP_BUY){
          sl = cp - atr;
          tp = (tp_calculator(market,order) != 0) ? tp_calculator(market,order) : cp + (atr * 2);
