@@ -5,7 +5,7 @@
 //+------------------------------------------------------------------+
 #property copyright "Dbright Software Development(DSD)"
 #property link      "https://www.dbright.org/ea"
-#property version   "1.00"
+#property version   "2.00"
 #property strict
 #property icon "bot.ico"
 #property description "DBot FX is a powerful trading algorithm that uses a combination of technical indicators and market analysis to identify profitable trading opportunities. It is designed to be easy to use and can be used by traders of all experience levels."
@@ -37,7 +37,6 @@ int OnInit()
             markets[n] = SymbolName(i,False);
             Print(markets[n++]," --> ",(int)MarketInfo(SymbolName(i,False),MODE_DIGITS));
          }
-         
       }
    }
    ArrayResize(markets,n);
@@ -71,7 +70,7 @@ void OnTick()
          if(s_and_d(market,tf) == 0){
             tf = PERIOD_H1;
             //Print("30 min check");
-            if(s_and_d(market,tf) == 0){
+            if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_M15) == 0){
                if(ema_trend(market,tf) == 0){
                   //Order a Buy
                   market_order(market,OP_BUY);
@@ -81,7 +80,7 @@ void OnTick()
          else if(s_and_d(market,tf) == 1){
             tf = PERIOD_H1;
             //Print("30 min check");
-            if(s_and_d(market,tf) == 1){
+            if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_M15) == 1){
                if(ema_trend(market,tf) == 1){
                   //Order a Sell
                   market_order(market,OP_SELL);
@@ -237,7 +236,7 @@ void monitor(){
                if(OrderProfit() > 80 * OrderLots()){
                   if(OrderOpenPrice() > OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
-                     sl = sl/2;
+                     sl = sl/2.0;
                      if(OrderModify(OrderTicket(),OrderOpenPrice(),sl,OrderTakeProfit(),0)){
                         Alert(OrderSymbol()," has been assigned a breakeven ",sl);
                      }else Print("Failed modifying ", market);
@@ -278,7 +277,7 @@ void monitor(){
                if(OrderProfit() > 80 * OrderLots()){
                   if(OrderOpenPrice() < OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
-                     sl = sl/2;
+                     sl = sl/2.0;
                      if(OrderModify(OrderTicket(),OrderOpenPrice(),sl,OrderTakeProfit(),0)){
                         Alert(OrderSymbol()," has been assigned a breakeven ",sl);
                      }else Print("Failed modifying ", market);
