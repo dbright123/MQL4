@@ -239,7 +239,7 @@ void monitor(){
                      sl = OrderClosePrice() + OrderOpenPrice();
                      sl = sl/2;
                      if(OrderModify(OrderTicket(),OrderOpenPrice(),sl,OrderTakeProfit(),0)){
-                        Alert(OrderSymbol()," has been assigned a breakeven");
+                        Alert(OrderSymbol()," has been assigned a breakeven ",sl);
                      }else Print("Failed modifying ", market);
                   } 
                }
@@ -249,7 +249,7 @@ void monitor(){
                   be = be / 2.0;
                   if(OrderClosePrice() > be){
                      if(OrderModify(OrderTicket(),OrderOpenPrice(),be,OrderTakeProfit(),0)){
-                        Alert(OrderSymbol()," has been assigned a breakeven");
+                        Alert(OrderSymbol()," has been assigned a breakeven ",be);
                      }else Print("Failed modifying ", market);
                   }
                }
@@ -259,7 +259,7 @@ void monitor(){
                   if((float)be != (float)OrderStopLoss()){
                      if(OrderClosePrice() > be){
                         if(OrderModify(OrderTicket(),OrderOpenPrice(),be,OrderTakeProfit(),0)){
-                           Alert(OrderSymbol()," has been assigned a breakeven");
+                           Alert(OrderSymbol()," has been assigned a breakeven ",be);
                         }else Print("Failed modifying ", market);
                      }
                   }
@@ -280,7 +280,7 @@ void monitor(){
                      sl = OrderClosePrice() + OrderOpenPrice();
                      sl = sl/2;
                      if(OrderModify(OrderTicket(),OrderOpenPrice(),sl,OrderTakeProfit(),0)){
-                        Alert(OrderSymbol()," has been assigned a breakeven");
+                        Alert(OrderSymbol()," has been assigned a breakeven ",sl);
                      }else Print("Failed modifying ", market);
                   }
                }
@@ -288,9 +288,9 @@ void monitor(){
                if(OrderOpenPrice() < OrderStopLoss()){
                   be = OrderTakeProfit() + OrderOpenPrice();
                   be = be / 2.0;
-                  if(OrderClosePrice() > be){
+                  if(OrderClosePrice() < be){
                      if(OrderModify(OrderTicket(),OrderOpenPrice(),be,OrderTakeProfit(),0)){
-                        Alert(OrderSymbol()," has been assigned a breakeven");
+                        Alert(OrderSymbol()," has been assigned a breakeven ",be);
                      }else Print("Failed modifying ", market);
                   }
                }
@@ -298,9 +298,9 @@ void monitor(){
                   be = OrderTakeProfit() + OrderStopLoss();
                   be = be / 2.0;
                   if((float)be != (float)OrderStopLoss()){
-                     if(OrderClosePrice() > be){
+                     if(OrderClosePrice() < be){
                         if(OrderModify(OrderTicket(),OrderOpenPrice(),be,OrderTakeProfit(),0)){
-                           Alert(OrderSymbol()," has been assigned a breakeven");
+                           Alert(OrderSymbol()," has been assigned a breakeven ",be);
                         }else Print("Failed modifying ", market);
                      }
                   }
