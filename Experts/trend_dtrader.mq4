@@ -27,7 +27,7 @@ int s_and_d = {};
 int OnInit()
   {
 //--- create timer
-   EventSetTimer(60);
+   EventSetTimer(1);
    
    ArrayResize(markets,SymbolsTotal(False));
    n = 0;
@@ -62,44 +62,13 @@ void OnTick()
   {
 //---
    if(IsExpertEnabled()){
-      if(OrdersTotal() < max_trade){
-         market = (IsTesting()) ? Symbol() : markets[n++];
-         tf = PERIOD_D1;
-         //Print("1d check");
-         //Starting with daily trade
-         if(s_and_d(market,tf) == 0){
-            tf = PERIOD_H1;
-            //Print("30 min check");
-            if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_M15) == 0){
-               if(ema_trend(market,tf) == 0){
-                  //Order a Buy
-                  market_order(market,OP_BUY);
-               }
-            }
-         }
-         else if(s_and_d(market,tf) == 1){
-            tf = PERIOD_H1;
-            //Print("30 min check");
-            if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_M15) == 1){
-               if(ema_trend(market,tf) == 1){
-                  //Order a Sell
-                  market_order(market,OP_SELL);
-               }
-            }
-         }
-         //demand is 0 and supply is 1
-         if(n >= ArraySize(markets) - 1){
-            n = 0;
-         }
-         monitor();
-      }else{
-         monitor();
-      }
+      Comment("System is running ",GetTickCount());
       
    }else{
       Alert("Please Enable Algo Trading on your metatrader before running the application");
       EventKillTimer();
       ExpertRemove();
+      Comment("");
    }
   }
 //+------------------------------------------------------------------+
@@ -108,13 +77,49 @@ void OnTick()
 void OnTimer()
   {
 //---
-   if(!IsConnected()){
-      Alert("Please check your internet connection");
-   }
+   
    if(!IsExpertEnabled()){
       Alert("Please enable Algo Trading");
+   }else{
+      if(!IsConnected()){
+         Alert("Please check your internet connection");
+      }else{
+         if(OrdersTotal() < max_trade){
+            market = (IsTesting()) ? Symbol() : markets[n++];
+            tf = PERIOD_D1;
+            //Print("1d check");
+            //Starting with daily trade
+            if(s_and_d(market,tf) == 0){
+               tf = PERIOD_H1;
+               //Print("30 min check");
+               if(s_and_d(market,tf) == 0){
+                  if(ema_trend(market,tf) == 0){
+                     //Order a Buy
+                     market_order(market,OP_BUY);
+                  }
+               }
+            }
+            else if(s_and_d(market,tf) == 1){
+               tf = PERIOD_H1;
+               //Print("30 min check");
+               if(s_and_d(market,tf) == 1){
+                  if(ema_trend(market,tf) == 1){
+                     //Order a Sell
+                     market_order(market,OP_SELL);
+                  }
+               }
+            }
+            //demand is 0 and supply is 1
+            if(n >= ArraySize(markets) - 1){
+               n = 0;
+            }
+            monitor();
+         }else{
+            monitor();
+         }
+      }
    } 
-   Print(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT()));
+   Print(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT())," : ",TimeSeconds(TimeGMT()));
   }
 //+------------------------------------------------------------------+
 
@@ -185,7 +190,7 @@ void market_order(string market,ENUM_ORDER_TYPE order){
       }
    }
    
-   if(permit && volume_permit(market)){
+   if(permit){
       double tp = 0,sl = 0;
       double atr = iATR(market,PERIOD_D1,14,0);
       double cp = iClose(market,PERIOD_D1,0);
@@ -225,14 +230,14 @@ void monitor(){
             double sl = 0, be = 0;
         
             if(OrderType() == OP_BUY){
-               
+               /*
                if(s_and_d(market,PERIOD_D1) == 1){
                   //Emergency Close Market
                   if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
                      Alert(OrderSymbol()," is really needed to be removed");
                   }else Print("Failed closing");
                }
-               
+               */
                if(OrderProfit() > 80 * OrderLots()){
                   if(OrderOpenPrice() > OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
@@ -266,14 +271,14 @@ void monitor(){
                
             }
             else if(OrderType() == OP_SELL){
-               
+               /*
                if(s_and_d(market,PERIOD_D1) == 0){
                   //Emergency Close Market
                   if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
                      Alert(OrderSymbol()," is really needed to be removed");
                   }else Print("Failed closing");
                }
-               
+               */
                if(OrderProfit() > 80 * OrderLots()){
                   if(OrderOpenPrice() < OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();

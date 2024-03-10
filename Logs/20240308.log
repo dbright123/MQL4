@@ -6,3 +6,739 @@
 0	07:00:59.887	Custom indicator s_and_d GBPUSD,H1: loaded successfully
 0	07:00:59.920	ZigZag GBPUSD,H1: initialized
 0	07:00:59.942	s_and_d GBPUSD,H1: initialized
+0	12:05:47.105	ZigZag GBPUSD,H1: uninit reason 3
+0	12:05:47.109	s_and_d GBPUSD,H1: uninit reason 3
+0	12:05:47.125	ZigZag GBPUSD,M5: initialized
+0	12:05:47.125	s_and_d GBPUSD,M5: initialized
+0	12:06:02.131	ZigZag GBPUSD,M5: uninit reason 3
+0	12:06:02.131	s_and_d GBPUSD,M5: uninit reason 3
+0	12:06:02.138	ZigZag GBPUSD,M15: initialized
+0	12:06:02.139	s_and_d GBPUSD,M15: initialized
+0	12:06:17.115	ZigZag GBPUSD,M15: uninit reason 1
+0	12:06:17.174	Custom indicator ZigZag GBPUSD,M15: removed
+0	12:06:50.913	Custom indicator s_and_d GBPUSD,M15: loaded successfully
+0	12:06:53.512	Custom indicator s_and_d GBPUSD,M15: removed
+0	12:07:10.697	s_and_d GBPUSD,M15: uninit reason 5
+0	12:07:10.785	s_and_d GBPUSD,M15: initialized
+0	12:09:51.616	s_and_d GBPUSD,M15: uninit reason 3
+0	12:09:51.620	s_and_d GBPUSD,H1: initialized
+0	12:10:05.766	s_and_d GBPUSD,H1: uninit reason 3
+0	12:10:05.770	s_and_d GBPUSD,M15: initialized
+0	12:10:44.533	s_and_d GBPUSD,M15: uninit reason 3
+0	12:10:44.538	s_and_d GBPUSD,H1: initialized
+0	12:24:39.242	s_and_d GBPUSD,H1: uninit reason 3
+0	12:24:39.247	s_and_d GBPUSD,Daily: initialized
+0	12:27:50.875	s_and_d GBPUSD,Daily: uninit reason 3
+0	12:27:50.878	s_and_d GBPUSD,H1: initialized
+0	12:27:59.857	s_and_d GBPUSD,H1: uninit reason 5
+0	12:27:59.948	s_and_d GBPUSD,H1: initialized
+0	12:28:35.244	Expert trend_dtrader AUDUSD,H1: loaded successfully
+0	12:28:49.112	trend_dtrader AUDUSD,H1 inputs: mdesc=DBot FX; lot_size=0.01; max_trade=3; 
+0	12:28:49.175	trend_dtrader AUDUSD,H1: AAVEUSD --> 0
+0	12:28:49.175	trend_dtrader AUDUSD,H1: ADAUSD --> 0
+0	12:28:49.175	trend_dtrader AUDUSD,H1: ALGOUSD --> 0
+0	12:28:49.175	trend_dtrader AUDUSD,H1: ATOMUSD --> 0
+0	12:28:49.176	trend_dtrader AUDUSD,H1: AUDUSD --> 5
+0	12:28:49.176	trend_dtrader AUDUSD,H1: AVAXUSD --> 0
+0	12:28:49.176	trend_dtrader AUDUSD,H1: AXSUSD --> 0
+0	12:28:49.176	trend_dtrader AUDUSD,H1: BCHUSD --> 0
+0	12:28:49.176	trend_dtrader AUDUSD,H1: BNBUSD --> 0
+0	12:28:49.176	trend_dtrader AUDUSD,H1: BTCUSD --> 0
+0	12:28:49.176	trend_dtrader AUDUSD,H1: DASHUSD --> 0
+0	12:28:49.176	trend_dtrader AUDUSD,H1: DOGEUSD --> 0
+0	12:28:49.177	trend_dtrader AUDUSD,H1: DOTUSD --> 0
+0	12:28:49.177	trend_dtrader AUDUSD,H1: ETCUSD --> 0
+0	12:28:49.177	trend_dtrader AUDUSD,H1: ETHUSD --> 0
+0	12:28:49.177	trend_dtrader AUDUSD,H1: EURUSD --> 5
+0	12:28:49.177	trend_dtrader AUDUSD,H1: FILUSD --> 0
+0	12:28:49.177	trend_dtrader AUDUSD,H1: FTMUSD --> 0
+0	12:28:49.178	trend_dtrader AUDUSD,H1: GBPUSD --> 5
+0	12:28:49.178	trend_dtrader AUDUSD,H1: GRTUSD --> 0
+0	12:28:49.178	trend_dtrader AUDUSD,H1: ICPUSD --> 0
+0	12:28:49.179	trend_dtrader AUDUSD,H1: IOTAUSD --> 0
+0	12:28:49.179	trend_dtrader AUDUSD,H1: LINKUSD --> 0
+0	12:28:49.179	trend_dtrader AUDUSD,H1: LRCUSD --> 0
+0	12:28:49.179	trend_dtrader AUDUSD,H1: LTCUSD --> 0
+0	12:28:49.179	trend_dtrader AUDUSD,H1: MANAUSD --> 0
+0	12:28:49.179	trend_dtrader AUDUSD,H1: MATICUSD --> 0
+0	12:28:49.179	trend_dtrader AUDUSD,H1: NEARUSD --> 0
+0	12:28:49.179	trend_dtrader AUDUSD,H1: NZDUSD --> 5
+0	12:28:49.180	trend_dtrader AUDUSD,H1: SOLUSD --> 0
+0	12:28:49.180	trend_dtrader AUDUSD,H1: TRXUSD --> 0
+0	12:28:49.180	trend_dtrader AUDUSD,H1: UNIUSD --> 0
+0	12:28:49.180	trend_dtrader AUDUSD,H1: USDCAD --> 5
+0	12:28:49.180	trend_dtrader AUDUSD,H1: USDCHF --> 5
+0	12:28:49.180	trend_dtrader AUDUSD,H1: USDJPY --> 3
+0	12:28:49.180	trend_dtrader AUDUSD,H1: USDMXN --> 0
+0	12:28:49.180	trend_dtrader AUDUSD,H1: USDZAR --> 0
+0	12:28:49.181	trend_dtrader AUDUSD,H1: XAGUSD --> 0
+0	12:28:49.181	trend_dtrader AUDUSD,H1: XAUUSD --> 0
+0	12:28:49.181	trend_dtrader AUDUSD,H1: XBRUSD --> 0
+0	12:28:49.181	trend_dtrader AUDUSD,H1: XNGUSD --> 0
+0	12:28:49.181	trend_dtrader AUDUSD,H1: XRPUSD --> 0
+0	12:28:49.181	trend_dtrader AUDUSD,H1: XTIUSD --> 0
+0	12:28:49.181	trend_dtrader AUDUSD,H1: ZECUSD --> 0
+0	12:28:49.181	trend_dtrader AUDUSD,H1: 44
+0	12:28:49.181	trend_dtrader AUDUSD,H1: initialized
+0	12:29:49.174	trend_dtrader AUDUSD,H1: 11 : 29
+0	12:30:49.177	trend_dtrader AUDUSD,H1: 11 : 30
+0	12:31:49.173	trend_dtrader AUDUSD,H1: 11 : 31
+0	12:32:46.000	trend_dtrader AUDUSD,H1: Alert: Failed USDZAR
+3	12:32:47.804	trend_dtrader AUDUSD,H1: invalid stoploss for OrderSend function
+0	12:32:47.804	trend_dtrader AUDUSD,H1: Alert: Failed XAGUSD
+0	12:32:49.174	trend_dtrader AUDUSD,H1: 11 : 32
+0	12:33:49.173	trend_dtrader AUDUSD,H1: 11 : 33
+0	12:33:57.591	trend_dtrader AUDUSD,H1: Alert: Failed USDZAR
+3	12:34:04.225	trend_dtrader AUDUSD,H1: invalid stoploss for OrderSend function
+0	12:34:04.225	trend_dtrader AUDUSD,H1: Alert: Failed XAGUSD
+0	12:34:45.033	trend_dtrader AUDUSD,H1: uninit reason 2
+0	12:34:45.034	trend_dtrader AUDUSD,H1: Alert: 2
+0	12:34:46.270	Expert trend_dtrader AUDUSD,H1: removed
+0	12:34:46.314	Expert trend_dtrader AUDUSD,H1: loaded successfully
+0	12:34:46.524	trend_dtrader AUDUSD,H1: ADAUSD --> 0
+0	12:34:46.524	trend_dtrader AUDUSD,H1: ALGOUSD --> 0
+0	12:34:46.524	trend_dtrader AUDUSD,H1: AUDUSD --> 5
+0	12:34:46.525	trend_dtrader AUDUSD,H1: DOGEUSD --> 0
+0	12:34:46.526	trend_dtrader AUDUSD,H1: EURUSD --> 5
+0	12:34:46.527	trend_dtrader AUDUSD,H1: FTMUSD --> 0
+0	12:34:46.527	trend_dtrader AUDUSD,H1: GBPUSD --> 5
+0	12:34:46.527	trend_dtrader AUDUSD,H1: GRTUSD --> 0
+0	12:34:46.528	trend_dtrader AUDUSD,H1: IOTAUSD --> 0
+0	12:34:46.528	trend_dtrader AUDUSD,H1: LRCUSD --> 0
+0	12:34:46.528	trend_dtrader AUDUSD,H1: MANAUSD --> 0
+0	12:34:46.528	trend_dtrader AUDUSD,H1: MATICUSD --> 0
+0	12:34:46.529	trend_dtrader AUDUSD,H1: NZDUSD --> 5
+0	12:34:46.529	trend_dtrader AUDUSD,H1: TRXUSD --> 0
+0	12:34:46.530	trend_dtrader AUDUSD,H1: USDCAD --> 5
+0	12:34:46.530	trend_dtrader AUDUSD,H1: USDCHF --> 5
+0	12:34:46.532	trend_dtrader AUDUSD,H1: XNGUSD --> 0
+0	12:34:46.532	trend_dtrader AUDUSD,H1: XRPUSD --> 0
+0	12:34:46.534	trend_dtrader AUDUSD,H1: 18
+0	12:34:46.534	trend_dtrader AUDUSD,H1: initialized
+0	12:35:08.749	trend_dtrader AUDUSD,H1: uninit reason 1
+0	12:35:08.749	trend_dtrader AUDUSD,H1: Alert: 1
+0	12:35:08.937	Expert trend_dtrader AUDUSD,H1: removed
+0	12:35:08.964	Expert trend_dtrader AUDUSD,H1: loaded successfully
+0	12:35:10.654	trend_dtrader AUDUSD,H1 inputs: mdesc=DBot FX; lot_size=0.01; max_trade=3; 
+0	12:35:10.732	trend_dtrader AUDUSD,H1: ADAUSD --> 0
+0	12:35:10.732	trend_dtrader AUDUSD,H1: ALGOUSD --> 0
+0	12:35:10.732	trend_dtrader AUDUSD,H1: AUDUSD --> 5
+0	12:35:10.733	trend_dtrader AUDUSD,H1: DOGEUSD --> 0
+0	12:35:10.734	trend_dtrader AUDUSD,H1: EURUSD --> 5
+0	12:35:10.734	trend_dtrader AUDUSD,H1: FTMUSD --> 0
+0	12:35:10.734	trend_dtrader AUDUSD,H1: GBPUSD --> 5
+0	12:35:10.734	trend_dtrader AUDUSD,H1: GRTUSD --> 0
+0	12:35:10.734	trend_dtrader AUDUSD,H1: IOTAUSD --> 0
+0	12:35:10.734	trend_dtrader AUDUSD,H1: LRCUSD --> 0
+0	12:35:10.735	trend_dtrader AUDUSD,H1: MANAUSD --> 0
+0	12:35:10.735	trend_dtrader AUDUSD,H1: MATICUSD --> 0
+0	12:35:10.735	trend_dtrader AUDUSD,H1: NZDUSD --> 5
+0	12:35:10.735	trend_dtrader AUDUSD,H1: TRXUSD --> 0
+0	12:35:10.736	trend_dtrader AUDUSD,H1: USDCAD --> 5
+0	12:35:10.736	trend_dtrader AUDUSD,H1: USDCHF --> 5
+0	12:35:10.736	trend_dtrader AUDUSD,H1: XNGUSD --> 0
+0	12:35:10.737	trend_dtrader AUDUSD,H1: XRPUSD --> 0
+0	12:35:10.737	trend_dtrader AUDUSD,H1: 18
+0	12:35:10.737	trend_dtrader AUDUSD,H1: initialized
+0	12:36:10.733	trend_dtrader AUDUSD,H1: 11 : 36
+0	12:37:10.734	trend_dtrader AUDUSD,H1: 11 : 37
+0	12:38:10.734	trend_dtrader AUDUSD,H1: 11 : 38
+0	12:39:10.735	trend_dtrader AUDUSD,H1: 11 : 39
+0	12:40:11.290	trend_dtrader AUDUSD,H1: 11 : 40
+0	12:41:10.735	trend_dtrader AUDUSD,H1: 11 : 41
+0	12:42:10.736	trend_dtrader AUDUSD,H1: 11 : 42
+0	12:43:10.736	trend_dtrader AUDUSD,H1: 11 : 43
+0	12:44:10.737	trend_dtrader AUDUSD,H1: 11 : 44
+0	12:45:10.742	trend_dtrader AUDUSD,H1: 11 : 45
+0	12:46:10.737	trend_dtrader AUDUSD,H1: 11 : 46
+0	12:47:10.737	trend_dtrader AUDUSD,H1: 11 : 47
+0	12:48:10.737	trend_dtrader AUDUSD,H1: 11 : 48
+0	12:49:10.738	trend_dtrader AUDUSD,H1: 11 : 49
+0	12:50:10.765	trend_dtrader AUDUSD,H1: 11 : 50
+0	12:51:10.769	trend_dtrader AUDUSD,H1: 11 : 51
+0	12:52:10.769	trend_dtrader AUDUSD,H1: 11 : 52
+0	12:53:10.769	trend_dtrader AUDUSD,H1: 11 : 53
+0	12:54:10.770	trend_dtrader AUDUSD,H1: 11 : 54
+0	12:55:10.771	trend_dtrader AUDUSD,H1: 11 : 55
+0	12:56:10.772	trend_dtrader AUDUSD,H1: 11 : 56
+0	12:57:10.772	trend_dtrader AUDUSD,H1: 11 : 57
+0	12:58:10.773	trend_dtrader AUDUSD,H1: 11 : 58
+0	12:59:10.773	trend_dtrader AUDUSD,H1: 11 : 59
+0	13:00:10.774	trend_dtrader AUDUSD,H1: 12 : 0
+0	13:01:10.775	trend_dtrader AUDUSD,H1: 12 : 1
+0	13:02:10.775	trend_dtrader AUDUSD,H1: 12 : 2
+0	13:03:10.775	trend_dtrader AUDUSD,H1: 12 : 3
+0	13:04:10.777	trend_dtrader AUDUSD,H1: 12 : 4
+0	13:05:10.777	trend_dtrader AUDUSD,H1: 12 : 5
+0	13:06:10.777	trend_dtrader AUDUSD,H1: 12 : 6
+0	13:07:10.778	trend_dtrader AUDUSD,H1: 12 : 7
+0	13:08:10.778	trend_dtrader AUDUSD,H1: 12 : 8
+0	13:09:10.779	trend_dtrader AUDUSD,H1: 12 : 9
+0	13:10:10.779	trend_dtrader AUDUSD,H1: 12 : 10
+0	13:11:10.780	trend_dtrader AUDUSD,H1: 12 : 11
+0	13:12:10.781	trend_dtrader AUDUSD,H1: 12 : 12
+0	13:13:10.781	trend_dtrader AUDUSD,H1: 12 : 13
+0	13:14:10.783	trend_dtrader AUDUSD,H1: 12 : 14
+0	13:15:10.783	trend_dtrader AUDUSD,H1: 12 : 15
+0	13:16:10.783	trend_dtrader AUDUSD,H1: 12 : 16
+0	13:17:10.783	trend_dtrader AUDUSD,H1: 12 : 17
+0	13:18:10.784	trend_dtrader AUDUSD,H1: 12 : 18
+0	13:19:10.784	trend_dtrader AUDUSD,H1: 12 : 19
+0	13:20:10.806	trend_dtrader AUDUSD,H1: 12 : 20
+0	13:21:10.809	trend_dtrader AUDUSD,H1: 12 : 21
+0	13:22:10.811	trend_dtrader AUDUSD,H1: 12 : 22
+0	13:23:10.811	trend_dtrader AUDUSD,H1: 12 : 23
+0	13:24:10.812	trend_dtrader AUDUSD,H1: 12 : 24
+0	13:25:10.812	trend_dtrader AUDUSD,H1: 12 : 25
+0	13:26:10.813	trend_dtrader AUDUSD,H1: 12 : 26
+0	13:27:10.814	trend_dtrader AUDUSD,H1: 12 : 27
+0	13:28:10.815	trend_dtrader AUDUSD,H1: 12 : 28
+0	13:29:10.815	trend_dtrader AUDUSD,H1: 12 : 29
+0	13:30:10.816	trend_dtrader AUDUSD,H1: 12 : 30
+0	13:31:10.817	trend_dtrader AUDUSD,H1: 12 : 31
+0	13:32:10.829	trend_dtrader AUDUSD,H1: 12 : 32
+0	13:33:10.818	trend_dtrader AUDUSD,H1: 12 : 33
+0	13:34:10.819	trend_dtrader AUDUSD,H1: 12 : 34
+0	13:35:10.820	trend_dtrader AUDUSD,H1: 12 : 35
+0	13:36:10.821	trend_dtrader AUDUSD,H1: 12 : 36
+0	13:37:10.821	trend_dtrader AUDUSD,H1: 12 : 37
+0	13:38:10.823	trend_dtrader AUDUSD,H1: 12 : 38
+0	13:39:10.823	trend_dtrader AUDUSD,H1: 12 : 39
+0	13:40:10.825	trend_dtrader AUDUSD,H1: 12 : 40
+0	13:41:10.844	trend_dtrader AUDUSD,H1: 12 : 41
+0	13:42:10.835	trend_dtrader AUDUSD,H1: 12 : 42
+0	13:43:10.955	trend_dtrader AUDUSD,H1: 12 : 43
+0	13:44:10.828	trend_dtrader AUDUSD,H1: 12 : 44
+0	13:44:45.459	trend_dtrader AUDUSD,H1: uninit reason 2
+0	13:44:45.459	trend_dtrader AUDUSD,H1: Alert: 2
+0	13:44:46.544	Expert trend_dtrader AUDUSD,H1: removed
+0	13:44:46.634	Expert trend_dtrader AUDUSD,H1: loaded successfully
+0	13:44:46.746	trend_dtrader AUDUSD,H1: ADAUSD --> 0
+0	13:44:46.747	trend_dtrader AUDUSD,H1: ALGOUSD --> 0
+0	13:44:46.749	trend_dtrader AUDUSD,H1: AUDUSD --> 5
+0	13:44:46.757	trend_dtrader AUDUSD,H1: DOGEUSD --> 0
+0	13:44:46.776	trend_dtrader AUDUSD,H1: EURUSD --> 5
+0	13:44:46.778	trend_dtrader AUDUSD,H1: FTMUSD --> 0
+0	13:44:46.779	trend_dtrader AUDUSD,H1: GBPUSD --> 5
+0	13:44:46.780	trend_dtrader AUDUSD,H1: GRTUSD --> 0
+0	13:44:46.784	trend_dtrader AUDUSD,H1: IOTAUSD --> 0
+0	13:44:46.787	trend_dtrader AUDUSD,H1: LRCUSD --> 0
+0	13:44:46.792	trend_dtrader AUDUSD,H1: MANAUSD --> 0
+0	13:44:46.793	trend_dtrader AUDUSD,H1: MATICUSD --> 0
+0	13:44:46.795	trend_dtrader AUDUSD,H1: NZDUSD --> 5
+0	13:44:46.799	trend_dtrader AUDUSD,H1: TRXUSD --> 0
+0	13:44:46.802	trend_dtrader AUDUSD,H1: USDCAD --> 5
+0	13:44:46.803	trend_dtrader AUDUSD,H1: USDCHF --> 5
+0	13:44:46.817	trend_dtrader AUDUSD,H1: XNGUSD --> 0
+0	13:44:46.829	trend_dtrader AUDUSD,H1: XRPUSD --> 0
+0	13:44:46.832	trend_dtrader AUDUSD,H1: 18
+0	13:44:46.833	trend_dtrader AUDUSD,H1: initialized
+0	13:45:27.062	trend_dtrader AUDUSD,H1: uninit reason 2
+0	13:45:27.062	trend_dtrader AUDUSD,H1: Alert: 2
+0	13:45:27.231	Expert trend_dtrader AUDUSD,H1: removed
+0	13:45:27.269	Expert trend_dtrader AUDUSD,H1: loaded successfully
+0	13:45:27.348	trend_dtrader AUDUSD,H1: ADAUSD --> 0
+0	13:45:27.348	trend_dtrader AUDUSD,H1: ALGOUSD --> 0
+0	13:45:27.349	trend_dtrader AUDUSD,H1: AUDUSD --> 5
+0	13:45:27.350	trend_dtrader AUDUSD,H1: DOGEUSD --> 0
+0	13:45:27.350	trend_dtrader AUDUSD,H1: EURUSD --> 5
+0	13:45:27.350	trend_dtrader AUDUSD,H1: FTMUSD --> 0
+0	13:45:27.351	trend_dtrader AUDUSD,H1: GBPUSD --> 5
+0	13:45:27.351	trend_dtrader AUDUSD,H1: GRTUSD --> 0
+0	13:45:27.351	trend_dtrader AUDUSD,H1: IOTAUSD --> 0
+0	13:45:27.351	trend_dtrader AUDUSD,H1: LRCUSD --> 0
+0	13:45:27.352	trend_dtrader AUDUSD,H1: MANAUSD --> 0
+0	13:45:27.352	trend_dtrader AUDUSD,H1: MATICUSD --> 0
+0	13:45:27.353	trend_dtrader AUDUSD,H1: NZDUSD --> 5
+0	13:45:27.353	trend_dtrader AUDUSD,H1: TRXUSD --> 0
+0	13:45:27.353	trend_dtrader AUDUSD,H1: USDCAD --> 5
+0	13:45:27.353	trend_dtrader AUDUSD,H1: USDCHF --> 5
+0	13:45:27.355	trend_dtrader AUDUSD,H1: XNGUSD --> 0
+0	13:45:27.355	trend_dtrader AUDUSD,H1: XRPUSD --> 0
+0	13:45:27.355	trend_dtrader AUDUSD,H1: 18
+0	13:45:27.355	trend_dtrader AUDUSD,H1: initialized
+0	13:46:03.343	trend_dtrader AUDUSD,H1: uninit reason 5
+0	13:46:03.344	trend_dtrader AUDUSD,H1: Alert: 5
+0	13:46:03.449	trend_dtrader AUDUSD,H1 inputs: mdesc=DBot FX; lot_size=0.01; max_trade=3; 
+0	13:46:03.454	trend_dtrader AUDUSD,H1: ADAUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: ALGOUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: AUDUSD --> 5
+0	13:46:03.454	trend_dtrader AUDUSD,H1: DOGEUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: EURUSD --> 5
+0	13:46:03.454	trend_dtrader AUDUSD,H1: FTMUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: GBPUSD --> 5
+0	13:46:03.454	trend_dtrader AUDUSD,H1: GRTUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: IOTAUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: LRCUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: MANAUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: MATICUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: NZDUSD --> 5
+0	13:46:03.454	trend_dtrader AUDUSD,H1: TRXUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: USDCAD --> 5
+0	13:46:03.454	trend_dtrader AUDUSD,H1: USDCHF --> 5
+0	13:46:03.454	trend_dtrader AUDUSD,H1: XNGUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: XRPUSD --> 0
+0	13:46:03.454	trend_dtrader AUDUSD,H1: 18
+0	13:46:03.454	trend_dtrader AUDUSD,H1: initialized
+0	13:47:03.455	trend_dtrader AUDUSD,H1: 12 : 47
+0	13:48:03.455	trend_dtrader AUDUSD,H1: 12 : 48
+0	13:49:03.456	trend_dtrader AUDUSD,H1: 12 : 49
+0	13:50:03.458	trend_dtrader AUDUSD,H1: 12 : 50
+0	13:51:03.461	trend_dtrader AUDUSD,H1: 12 : 51
+0	13:52:03.462	trend_dtrader AUDUSD,H1: 12 : 52
+0	13:53:03.467	trend_dtrader AUDUSD,H1: 12 : 53
+0	13:54:03.462	trend_dtrader AUDUSD,H1: 12 : 54
+0	13:55:03.463	trend_dtrader AUDUSD,H1: 12 : 55
+0	13:56:03.465	trend_dtrader AUDUSD,H1: 12 : 56
+0	13:57:03.466	trend_dtrader AUDUSD,H1: 12 : 57
+0	13:58:03.466	trend_dtrader AUDUSD,H1: 12 : 58
+0	13:59:03.472	trend_dtrader AUDUSD,H1: 12 : 59
+0	14:00:03.477	trend_dtrader AUDUSD,H1: 13 : 0
+0	14:01:03.505	trend_dtrader AUDUSD,H1: 13 : 1
+0	14:02:03.469	trend_dtrader AUDUSD,H1: 13 : 2
+0	14:03:03.469	trend_dtrader AUDUSD,H1: 13 : 3
+0	14:04:23.268	trend_dtrader AUDUSD,H1: 13 : 4
+0	14:05:03.456	trend_dtrader AUDUSD,H1: 13 : 5
+0	14:06:03.426	trend_dtrader AUDUSD,H1: 13 : 6
+0	14:07:03.426	trend_dtrader AUDUSD,H1: 13 : 7
+0	14:08:03.427	trend_dtrader AUDUSD,H1: 13 : 8
+0	14:09:03.427	trend_dtrader AUDUSD,H1: 13 : 9
+0	14:10:03.428	trend_dtrader AUDUSD,H1: 13 : 10
+0	14:11:03.455	trend_dtrader AUDUSD,H1: 13 : 11
+0	14:12:03.429	trend_dtrader AUDUSD,H1: 13 : 12
+0	14:13:03.429	trend_dtrader AUDUSD,H1: 13 : 13
+0	14:14:04.212	trend_dtrader AUDUSD,H1: 13 : 14
+0	14:15:03.430	trend_dtrader AUDUSD,H1: 13 : 15
+0	14:16:03.452	trend_dtrader AUDUSD,H1: 13 : 16
+0	14:17:03.431	trend_dtrader AUDUSD,H1: 13 : 17
+0	14:18:03.453	trend_dtrader AUDUSD,H1: 13 : 18
+0	14:19:03.432	trend_dtrader AUDUSD,H1: 13 : 19
+0	14:20:03.440	trend_dtrader AUDUSD,H1: 13 : 20
+0	14:21:04.437	trend_dtrader AUDUSD,H1: 13 : 21
+0	14:22:03.499	trend_dtrader AUDUSD,H1: 13 : 22
+0	14:23:03.460	trend_dtrader AUDUSD,H1: 13 : 23
+0	14:24:03.461	trend_dtrader AUDUSD,H1: 13 : 24
+0	14:25:03.461	trend_dtrader AUDUSD,H1: 13 : 25
+0	14:26:03.462	trend_dtrader AUDUSD,H1: 13 : 26
+0	14:27:03.470	trend_dtrader AUDUSD,H1: 13 : 27
+0	14:28:03.468	trend_dtrader AUDUSD,H1: 13 : 28
+0	14:29:03.463	trend_dtrader AUDUSD,H1: 13 : 29
+0	14:30:04.166	trend_dtrader AUDUSD,H1: 13 : 30
+0	14:31:03.716	trend_dtrader AUDUSD,H1: 13 : 31
+0	14:32:05.092	trend_dtrader AUDUSD,H1: 13 : 32
+0	14:33:03.498	trend_dtrader AUDUSD,H1: 13 : 33
+0	14:34:04.011	trend_dtrader AUDUSD,H1: 13 : 34
+0	14:35:03.603	trend_dtrader AUDUSD,H1: 13 : 35
+0	14:36:03.501	trend_dtrader AUDUSD,H1: 13 : 36
+0	14:37:03.564	trend_dtrader AUDUSD,H1: 13 : 37
+0	14:38:03.548	trend_dtrader AUDUSD,H1: 13 : 38
+0	14:39:03.601	trend_dtrader AUDUSD,H1: 13 : 39
+0	14:40:03.500	trend_dtrader AUDUSD,H1: 13 : 40
+0	14:41:03.470	trend_dtrader AUDUSD,H1: 13 : 41
+0	14:42:03.471	trend_dtrader AUDUSD,H1: 13 : 42
+0	14:43:03.485	trend_dtrader AUDUSD,H1: 13 : 43
+0	14:44:03.472	trend_dtrader AUDUSD,H1: 13 : 44
+0	14:45:03.473	trend_dtrader AUDUSD,H1: 13 : 45
+0	14:46:03.732	trend_dtrader AUDUSD,H1: 13 : 46
+0	14:47:03.697	trend_dtrader AUDUSD,H1: 13 : 47
+0	14:48:03.498	trend_dtrader AUDUSD,H1: 13 : 48
+0	14:49:03.475	trend_dtrader AUDUSD,H1: 13 : 49
+0	14:50:03.530	trend_dtrader AUDUSD,H1: 13 : 50
+0	14:51:03.448	trend_dtrader AUDUSD,H1: 13 : 51
+0	14:52:03.446	trend_dtrader AUDUSD,H1: 13 : 52
+0	14:53:03.447	trend_dtrader AUDUSD,H1: 13 : 53
+0	14:54:03.448	trend_dtrader AUDUSD,H1: 13 : 54
+0	14:55:03.471	trend_dtrader AUDUSD,H1: 13 : 55
+0	14:56:03.448	trend_dtrader AUDUSD,H1: 13 : 56
+0	14:57:03.448	trend_dtrader AUDUSD,H1: 13 : 57
+0	14:58:03.466	trend_dtrader AUDUSD,H1: 13 : 58
+0	14:59:03.449	trend_dtrader AUDUSD,H1: 13 : 59
+0	15:00:03.452	trend_dtrader AUDUSD,H1: 14 : 0
+0	15:01:03.596	trend_dtrader AUDUSD,H1: 14 : 1
+0	15:02:03.463	trend_dtrader AUDUSD,H1: 14 : 2
+0	15:03:03.451	trend_dtrader AUDUSD,H1: 14 : 3
+0	15:04:03.451	trend_dtrader AUDUSD,H1: 14 : 4
+0	15:05:03.451	trend_dtrader AUDUSD,H1: 14 : 5
+0	15:06:03.411	trend_dtrader AUDUSD,H1: 14 : 6
+0	15:07:03.396	trend_dtrader AUDUSD,H1: 14 : 7
+0	15:08:03.433	trend_dtrader AUDUSD,H1: 14 : 8
+0	15:09:03.397	trend_dtrader AUDUSD,H1: 14 : 9
+0	15:10:03.424	trend_dtrader AUDUSD,H1: 14 : 10
+0	15:11:03.396	trend_dtrader AUDUSD,H1: 14 : 11
+0	15:11:12.228	trend_dtrader AUDUSD,H1: uninit reason 2
+0	15:11:12.228	trend_dtrader AUDUSD,H1: Alert: 2
+0	15:11:12.456	Expert trend_dtrader AUDUSD,H1: removed
+0	15:11:12.501	Expert trend_dtrader AUDUSD,H1: loaded successfully
+0	15:11:12.621	trend_dtrader AUDUSD,H1: ADAUSD --> 0
+0	15:11:12.621	trend_dtrader AUDUSD,H1: ALGOUSD --> 0
+0	15:11:12.623	trend_dtrader AUDUSD,H1: AUDUSD --> 5
+0	15:11:12.632	trend_dtrader AUDUSD,H1: DOGEUSD --> 0
+0	15:11:12.636	trend_dtrader AUDUSD,H1: EURUSD --> 5
+0	15:11:12.638	trend_dtrader AUDUSD,H1: FTMUSD --> 0
+0	15:11:12.638	trend_dtrader AUDUSD,H1: GBPUSD --> 5
+0	15:11:12.638	trend_dtrader AUDUSD,H1: GRTUSD --> 0
+0	15:11:12.639	trend_dtrader AUDUSD,H1: IOTAUSD --> 0
+0	15:11:12.640	trend_dtrader AUDUSD,H1: LRCUSD --> 0
+0	15:11:12.641	trend_dtrader AUDUSD,H1: MANAUSD --> 0
+0	15:11:12.642	trend_dtrader AUDUSD,H1: MATICUSD --> 0
+0	15:11:12.643	trend_dtrader AUDUSD,H1: NZDUSD --> 5
+0	15:11:12.644	trend_dtrader AUDUSD,H1: TRXUSD --> 0
+0	15:11:12.645	trend_dtrader AUDUSD,H1: USDCAD --> 5
+0	15:11:12.645	trend_dtrader AUDUSD,H1: USDCHF --> 5
+0	15:11:12.652	trend_dtrader AUDUSD,H1: XNGUSD --> 0
+0	15:11:12.654	trend_dtrader AUDUSD,H1: XRPUSD --> 0
+0	15:11:12.656	trend_dtrader AUDUSD,H1: 18
+0	15:11:12.657	trend_dtrader AUDUSD,H1: initialized
+0	15:12:07.033	trend_dtrader AUDUSD,H1: uninit reason 2
+0	15:12:07.034	trend_dtrader AUDUSD,H1: Alert: 2
+0	15:12:07.182	Expert trend_dtrader AUDUSD,H1: removed
+0	15:12:07.214	Expert trend_dtrader AUDUSD,H1: loaded successfully
+0	15:12:07.280	trend_dtrader AUDUSD,H1: ADAUSD --> 0
+0	15:12:07.280	trend_dtrader AUDUSD,H1: ALGOUSD --> 0
+0	15:12:07.281	trend_dtrader AUDUSD,H1: AUDUSD --> 5
+0	15:12:07.282	trend_dtrader AUDUSD,H1: DOGEUSD --> 0
+0	15:12:07.283	trend_dtrader AUDUSD,H1: EURUSD --> 5
+0	15:12:07.283	trend_dtrader AUDUSD,H1: FTMUSD --> 0
+0	15:12:07.283	trend_dtrader AUDUSD,H1: GBPUSD --> 5
+0	15:12:07.284	trend_dtrader AUDUSD,H1: GRTUSD --> 0
+0	15:12:07.284	trend_dtrader AUDUSD,H1: IOTAUSD --> 0
+0	15:12:07.284	trend_dtrader AUDUSD,H1: LRCUSD --> 0
+0	15:12:07.285	trend_dtrader AUDUSD,H1: MANAUSD --> 0
+0	15:12:07.285	trend_dtrader AUDUSD,H1: MATICUSD --> 0
+0	15:12:07.285	trend_dtrader AUDUSD,H1: NZDUSD --> 5
+0	15:12:07.286	trend_dtrader AUDUSD,H1: TRXUSD --> 0
+0	15:12:07.286	trend_dtrader AUDUSD,H1: USDCAD --> 5
+0	15:12:07.286	trend_dtrader AUDUSD,H1: USDCHF --> 5
+0	15:12:07.287	trend_dtrader AUDUSD,H1: XNGUSD --> 0
+0	15:12:07.287	trend_dtrader AUDUSD,H1: XRPUSD --> 0
+0	15:12:07.288	trend_dtrader AUDUSD,H1: 18
+0	15:12:07.288	trend_dtrader AUDUSD,H1: initialized
+0	15:12:22.380	trend_dtrader AUDUSD,H1: uninit reason 5
+0	15:12:22.380	trend_dtrader AUDUSD,H1: Alert: 5
+0	15:12:22.467	trend_dtrader AUDUSD,H1 inputs: mdesc=DBot FX; lot_size=0.01; max_trade=3; 
+0	15:12:22.470	trend_dtrader AUDUSD,H1: ADAUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: ALGOUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: AUDUSD --> 5
+0	15:12:22.470	trend_dtrader AUDUSD,H1: DOGEUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: EURUSD --> 5
+0	15:12:22.470	trend_dtrader AUDUSD,H1: FTMUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: GBPUSD --> 5
+0	15:12:22.470	trend_dtrader AUDUSD,H1: GRTUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: IOTAUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: LRCUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: MANAUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: MATICUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: NZDUSD --> 5
+0	15:12:22.470	trend_dtrader AUDUSD,H1: TRXUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: USDCAD --> 5
+0	15:12:22.470	trend_dtrader AUDUSD,H1: USDCHF --> 5
+0	15:12:22.470	trend_dtrader AUDUSD,H1: XNGUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: XRPUSD --> 0
+0	15:12:22.470	trend_dtrader AUDUSD,H1: 18
+0	15:12:22.470	trend_dtrader AUDUSD,H1: initialized
+0	15:13:22.471	trend_dtrader AUDUSD,H1: 14 : 13
+0	15:14:22.472	trend_dtrader AUDUSD,H1: 14 : 14
+0	15:15:22.509	trend_dtrader AUDUSD,H1: 14 : 15
+0	15:16:22.479	trend_dtrader AUDUSD,H1: 14 : 16
+0	15:17:22.476	trend_dtrader AUDUSD,H1: 14 : 17
+0	15:18:22.486	trend_dtrader AUDUSD,H1: 14 : 18
+0	15:19:22.472	trend_dtrader AUDUSD,H1: 14 : 19
+0	15:20:22.470	trend_dtrader AUDUSD,H1: 14 : 20
+0	15:21:22.503	trend_dtrader AUDUSD,H1: 14 : 21
+0	15:22:22.512	trend_dtrader AUDUSD,H1: 14 : 22
+0	15:23:22.503	trend_dtrader AUDUSD,H1: 14 : 23
+0	15:24:22.517	trend_dtrader AUDUSD,H1: 14 : 24
+0	15:25:22.520	trend_dtrader AUDUSD,H1: 14 : 25
+0	15:26:22.505	trend_dtrader AUDUSD,H1: 14 : 26
+0	15:27:22.648	trend_dtrader AUDUSD,H1: 14 : 27
+0	15:28:22.505	trend_dtrader AUDUSD,H1: 14 : 28
+0	15:29:22.505	trend_dtrader AUDUSD,H1: 14 : 29
+0	15:30:23.789	trend_dtrader AUDUSD,H1: 14 : 30
+0	15:31:22.530	trend_dtrader AUDUSD,H1: 14 : 31
+0	15:32:22.506	trend_dtrader AUDUSD,H1: 14 : 32
+0	15:33:23.249	trend_dtrader AUDUSD,H1: 14 : 33
+0	15:34:22.508	trend_dtrader AUDUSD,H1: 14 : 34
+0	15:35:22.702	trend_dtrader AUDUSD,H1: 14 : 35
+0	15:36:22.527	trend_dtrader AUDUSD,H1: 14 : 36
+0	15:37:22.527	trend_dtrader AUDUSD,H1: 14 : 37
+0	15:38:22.528	trend_dtrader AUDUSD,H1: 14 : 38
+0	15:39:22.528	trend_dtrader AUDUSD,H1: 14 : 39
+0	15:40:22.528	trend_dtrader AUDUSD,H1: 14 : 40
+0	15:41:22.528	trend_dtrader AUDUSD,H1: 14 : 41
+0	15:42:22.529	trend_dtrader AUDUSD,H1: 14 : 42
+0	15:43:22.529	trend_dtrader AUDUSD,H1: 14 : 43
+0	15:44:22.531	trend_dtrader AUDUSD,H1: 14 : 44
+0	15:45:22.531	trend_dtrader AUDUSD,H1: 14 : 45
+0	15:46:22.623	trend_dtrader AUDUSD,H1: 14 : 46
+0	15:47:22.883	trend_dtrader AUDUSD,H1: 14 : 47
+0	15:48:22.533	trend_dtrader AUDUSD,H1: 14 : 48
+0	15:49:22.532	trend_dtrader AUDUSD,H1: 14 : 49
+0	15:50:22.541	trend_dtrader AUDUSD,H1: 14 : 50
+0	15:51:22.572	trend_dtrader AUDUSD,H1: 14 : 51
+0	15:52:22.499	trend_dtrader AUDUSD,H1: 14 : 52
+0	15:53:22.498	trend_dtrader AUDUSD,H1: 14 : 53
+0	15:54:22.499	trend_dtrader AUDUSD,H1: 14 : 54
+0	15:55:22.499	trend_dtrader AUDUSD,H1: 14 : 55
+0	15:56:22.499	trend_dtrader AUDUSD,H1: 14 : 56
+0	15:57:22.500	trend_dtrader AUDUSD,H1: 14 : 57
+0	15:58:22.499	trend_dtrader AUDUSD,H1: 14 : 58
+0	15:59:22.499	trend_dtrader AUDUSD,H1: 14 : 59
+0	16:00:22.500	trend_dtrader AUDUSD,H1: 15 : 0
+0	16:01:22.504	trend_dtrader AUDUSD,H1: 15 : 1
+0	16:02:22.499	trend_dtrader AUDUSD,H1: 15 : 2
+0	16:03:22.500	trend_dtrader AUDUSD,H1: 15 : 3
+0	16:04:22.501	trend_dtrader AUDUSD,H1: 15 : 4
+0	16:05:22.501	trend_dtrader AUDUSD,H1: 15 : 5
+0	16:06:22.468	trend_dtrader AUDUSD,H1: 15 : 6
+0	16:07:22.956	trend_dtrader AUDUSD,H1: 15 : 7
+0	16:08:22.467	trend_dtrader AUDUSD,H1: 15 : 8
+0	16:09:22.468	trend_dtrader AUDUSD,H1: 15 : 9
+0	16:10:22.468	trend_dtrader AUDUSD,H1: 15 : 10
+0	16:11:22.467	trend_dtrader AUDUSD,H1: 15 : 11
+0	16:12:22.467	trend_dtrader AUDUSD,H1: 15 : 12
+0	16:13:22.467	trend_dtrader AUDUSD,H1: 15 : 13
+0	16:14:22.467	trend_dtrader AUDUSD,H1: 15 : 14
+0	16:15:22.467	trend_dtrader AUDUSD,H1: 15 : 15
+0	16:16:22.467	trend_dtrader AUDUSD,H1: 15 : 16
+0	16:17:22.466	trend_dtrader AUDUSD,H1: 15 : 17
+0	16:18:22.467	trend_dtrader AUDUSD,H1: 15 : 18
+0	16:19:22.467	trend_dtrader AUDUSD,H1: 15 : 19
+0	16:20:22.467	trend_dtrader AUDUSD,H1: 15 : 20
+0	16:21:22.467	trend_dtrader AUDUSD,H1: 15 : 21
+0	16:22:22.467	trend_dtrader AUDUSD,H1: 15 : 22
+0	16:23:22.467	trend_dtrader AUDUSD,H1: 15 : 23
+0	16:24:22.466	trend_dtrader AUDUSD,H1: 15 : 24
+0	16:25:22.466	trend_dtrader AUDUSD,H1: 15 : 25
+0	16:26:22.467	trend_dtrader AUDUSD,H1: 15 : 26
+0	16:27:22.466	trend_dtrader AUDUSD,H1: 15 : 27
+0	16:28:22.466	trend_dtrader AUDUSD,H1: 15 : 28
+0	16:29:22.466	trend_dtrader AUDUSD,H1: 15 : 29
+0	16:30:22.468	trend_dtrader AUDUSD,H1: 15 : 30
+0	16:31:22.466	trend_dtrader AUDUSD,H1: 15 : 31
+0	16:32:22.503	trend_dtrader AUDUSD,H1: 15 : 32
+0	16:33:22.465	trend_dtrader AUDUSD,H1: 15 : 33
+0	16:34:22.466	trend_dtrader AUDUSD,H1: 15 : 34
+0	16:35:22.465	trend_dtrader AUDUSD,H1: 15 : 35
+0	16:36:22.463	trend_dtrader AUDUSD,H1: 15 : 36
+0	16:37:22.447	trend_dtrader AUDUSD,H1: 15 : 37
+0	16:38:22.447	trend_dtrader AUDUSD,H1: 15 : 38
+0	16:39:22.447	trend_dtrader AUDUSD,H1: 15 : 39
+0	16:40:22.447	trend_dtrader AUDUSD,H1: 15 : 40
+0	16:41:22.447	trend_dtrader AUDUSD,H1: 15 : 41
+0	16:42:22.447	trend_dtrader AUDUSD,H1: 15 : 42
+0	16:43:22.447	trend_dtrader AUDUSD,H1: 15 : 43
+0	16:44:22.446	trend_dtrader AUDUSD,H1: 15 : 44
+0	16:45:22.446	trend_dtrader AUDUSD,H1: 15 : 45
+0	16:46:22.446	trend_dtrader AUDUSD,H1: 15 : 46
+0	16:47:22.446	trend_dtrader AUDUSD,H1: 15 : 47
+0	16:48:22.445	trend_dtrader AUDUSD,H1: 15 : 48
+0	16:49:22.445	trend_dtrader AUDUSD,H1: 15 : 49
+0	16:50:22.444	trend_dtrader AUDUSD,H1: 15 : 50
+0	16:51:22.423	trend_dtrader AUDUSD,H1: 15 : 51
+0	16:52:22.418	trend_dtrader AUDUSD,H1: 15 : 52
+0	16:53:22.417	trend_dtrader AUDUSD,H1: 15 : 53
+0	16:54:22.418	trend_dtrader AUDUSD,H1: 15 : 54
+0	16:55:22.417	trend_dtrader AUDUSD,H1: 15 : 55
+0	16:56:22.416	trend_dtrader AUDUSD,H1: 15 : 56
+0	16:57:22.416	trend_dtrader AUDUSD,H1: 15 : 57
+0	16:58:22.416	trend_dtrader AUDUSD,H1: 15 : 58
+0	16:59:22.415	trend_dtrader AUDUSD,H1: 15 : 59
+0	17:00:22.415	trend_dtrader AUDUSD,H1: 16 : 0
+0	17:01:22.422	trend_dtrader AUDUSD,H1: 16 : 1
+0	17:02:22.421	trend_dtrader AUDUSD,H1: 16 : 2
+0	17:03:22.414	trend_dtrader AUDUSD,H1: 16 : 3
+0	17:04:22.413	trend_dtrader AUDUSD,H1: 16 : 4
+0	17:05:22.413	trend_dtrader AUDUSD,H1: 16 : 5
+0	17:06:22.361	trend_dtrader AUDUSD,H1: 16 : 6
+0	17:07:22.360	trend_dtrader AUDUSD,H1: 16 : 7
+0	17:08:22.359	trend_dtrader AUDUSD,H1: 16 : 8
+0	17:09:22.358	trend_dtrader AUDUSD,H1: 16 : 9
+0	17:10:22.365	trend_dtrader AUDUSD,H1: 16 : 10
+0	17:11:22.357	trend_dtrader AUDUSD,H1: 16 : 11
+0	17:12:22.356	trend_dtrader AUDUSD,H1: 16 : 12
+0	17:13:22.355	trend_dtrader AUDUSD,H1: 16 : 13
+0	17:14:22.362	trend_dtrader AUDUSD,H1: 16 : 14
+0	17:15:22.354	trend_dtrader AUDUSD,H1: 16 : 15
+0	17:16:22.353	trend_dtrader AUDUSD,H1: 16 : 16
+0	17:17:22.352	trend_dtrader AUDUSD,H1: 16 : 17
+0	17:18:22.351	trend_dtrader AUDUSD,H1: 16 : 18
+0	17:19:22.351	trend_dtrader AUDUSD,H1: 16 : 19
+0	17:20:22.352	trend_dtrader AUDUSD,H1: 16 : 20
+0	17:21:22.336	trend_dtrader AUDUSD,H1: 16 : 21
+0	17:22:22.326	trend_dtrader AUDUSD,H1: 16 : 22
+0	17:23:22.325	trend_dtrader AUDUSD,H1: 16 : 23
+0	17:24:22.325	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:24:22.326	trend_dtrader AUDUSD,H1: 16 : 24
+0	17:25:22.324	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:25:22.325	trend_dtrader AUDUSD,H1: 16 : 25
+0	17:26:22.324	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:26:22.324	trend_dtrader AUDUSD,H1: 16 : 26
+0	17:27:22.322	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:27:22.323	trend_dtrader AUDUSD,H1: 16 : 27
+0	17:28:22.319	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:28:22.319	trend_dtrader AUDUSD,H1: 16 : 28
+0	17:29:22.321	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:29:22.321	trend_dtrader AUDUSD,H1: 16 : 29
+0	17:30:22.320	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:30:22.320	trend_dtrader AUDUSD,H1: 16 : 30
+0	17:31:22.318	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:31:22.318	trend_dtrader AUDUSD,H1: 16 : 31
+0	17:32:22.317	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:32:22.317	trend_dtrader AUDUSD,H1: 16 : 32
+0	17:33:22.317	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:33:22.318	trend_dtrader AUDUSD,H1: 16 : 33
+0	17:34:22.315	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:34:22.315	trend_dtrader AUDUSD,H1: 16 : 34
+0	17:35:22.315	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:35:22.315	trend_dtrader AUDUSD,H1: 16 : 35
+0	17:36:22.314	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:36:22.314	trend_dtrader AUDUSD,H1: 16 : 36
+0	17:37:22.313	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:37:22.313	trend_dtrader AUDUSD,H1: 16 : 37
+0	17:38:22.313	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:38:22.313	trend_dtrader AUDUSD,H1: 16 : 38
+0	17:39:22.312	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:39:22.312	trend_dtrader AUDUSD,H1: 16 : 39
+0	17:40:22.311	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:40:22.311	trend_dtrader AUDUSD,H1: 16 : 40
+0	17:41:22.310	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:41:22.310	trend_dtrader AUDUSD,H1: 16 : 41
+0	17:42:22.309	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:42:22.309	trend_dtrader AUDUSD,H1: 16 : 42
+0	17:43:22.308	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:43:22.308	trend_dtrader AUDUSD,H1: 16 : 43
+0	17:44:22.306	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:44:22.306	trend_dtrader AUDUSD,H1: 16 : 44
+0	17:45:22.306	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:45:22.306	trend_dtrader AUDUSD,H1: 16 : 45
+0	17:46:22.305	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:46:22.306	trend_dtrader AUDUSD,H1: 16 : 46
+0	17:47:22.304	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:47:22.304	trend_dtrader AUDUSD,H1: 16 : 47
+0	17:48:22.303	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:48:22.303	trend_dtrader AUDUSD,H1: 16 : 48
+0	17:49:22.301	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:49:22.301	trend_dtrader AUDUSD,H1: 16 : 49
+0	17:50:22.301	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:50:22.301	trend_dtrader AUDUSD,H1: 16 : 50
+0	17:51:22.301	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:51:22.301	trend_dtrader AUDUSD,H1: 16 : 51
+0	17:52:22.299	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:52:22.299	trend_dtrader AUDUSD,H1: 16 : 52
+0	17:53:22.299	trend_dtrader AUDUSD,H1: Alert: Please check your internet connection
+0	17:53:22.299	trend_dtrader AUDUSD,H1: 16 : 53
+0	17:54:22.332	trend_dtrader AUDUSD,H1: 16 : 54
+0	17:55:22.357	trend_dtrader AUDUSD,H1: 16 : 55
+0	17:56:22.333	trend_dtrader AUDUSD,H1: 16 : 56
+0	17:57:22.332	trend_dtrader AUDUSD,H1: 16 : 57
+0	17:58:22.331	trend_dtrader AUDUSD,H1: 16 : 58
+0	17:59:22.332	trend_dtrader AUDUSD,H1: 16 : 59
+0	18:00:22.330	trend_dtrader AUDUSD,H1: 17 : 0
+0	18:01:22.330	trend_dtrader AUDUSD,H1: 17 : 1
+0	18:02:22.329	trend_dtrader AUDUSD,H1: 17 : 2
+0	18:03:22.328	trend_dtrader AUDUSD,H1: 17 : 3
+0	18:04:22.328	trend_dtrader AUDUSD,H1: 17 : 4
+0	18:05:22.327	trend_dtrader AUDUSD,H1: 17 : 5
+0	18:06:22.326	trend_dtrader AUDUSD,H1: 17 : 6
+0	18:07:22.330	trend_dtrader AUDUSD,H1: 17 : 7
+0	18:08:22.325	trend_dtrader AUDUSD,H1: 17 : 8
+0	18:09:22.360	trend_dtrader AUDUSD,H1: 17 : 9
+0	18:10:22.362	trend_dtrader AUDUSD,H1: 17 : 10
+0	18:11:22.362	trend_dtrader AUDUSD,H1: 17 : 11
+0	18:12:22.362	trend_dtrader AUDUSD,H1: 17 : 12
+0	18:13:22.362	trend_dtrader AUDUSD,H1: 17 : 13
+0	18:14:22.361	trend_dtrader AUDUSD,H1: 17 : 14
+0	18:15:22.361	trend_dtrader AUDUSD,H1: 17 : 15
+0	18:16:22.360	trend_dtrader AUDUSD,H1: 17 : 16
+0	18:17:22.360	trend_dtrader AUDUSD,H1: 17 : 17
+0	18:18:22.363	trend_dtrader AUDUSD,H1: 17 : 18
+0	18:19:22.359	trend_dtrader AUDUSD,H1: 17 : 19
+0	18:20:22.359	trend_dtrader AUDUSD,H1: 17 : 20
+0	18:21:22.359	trend_dtrader AUDUSD,H1: 17 : 21
+0	18:22:22.358	trend_dtrader AUDUSD,H1: 17 : 22
+0	18:23:22.357	trend_dtrader AUDUSD,H1: 17 : 23
+0	18:24:22.420	trend_dtrader AUDUSD,H1: 17 : 24
+0	18:25:22.419	trend_dtrader AUDUSD,H1: 17 : 25
+0	18:26:22.420	trend_dtrader AUDUSD,H1: 17 : 26
+0	18:27:22.428	trend_dtrader AUDUSD,H1: 17 : 27
+0	18:28:22.419	trend_dtrader AUDUSD,H1: 17 : 28
+0	18:29:22.420	trend_dtrader AUDUSD,H1: 17 : 29
+0	18:30:22.420	trend_dtrader AUDUSD,H1: 17 : 30
+0	18:31:22.421	trend_dtrader AUDUSD,H1: 17 : 31
+0	18:32:22.419	trend_dtrader AUDUSD,H1: 17 : 32
+0	18:33:22.436	trend_dtrader AUDUSD,H1: 17 : 33
+0	18:34:22.419	trend_dtrader AUDUSD,H1: 17 : 34
+0	18:35:22.420	trend_dtrader AUDUSD,H1: 17 : 35
+0	18:36:22.419	trend_dtrader AUDUSD,H1: 17 : 36
+0	18:37:22.419	trend_dtrader AUDUSD,H1: 17 : 37
+0	18:38:22.420	trend_dtrader AUDUSD,H1: 17 : 38
+0	18:39:22.419	trend_dtrader AUDUSD,H1: 17 : 39
+0	18:40:22.442	trend_dtrader AUDUSD,H1: 17 : 40
+0	18:41:22.444	trend_dtrader AUDUSD,H1: 17 : 41
+0	18:42:22.443	trend_dtrader AUDUSD,H1: 17 : 42
+0	18:43:22.445	trend_dtrader AUDUSD,H1: 17 : 43
+0	18:44:22.445	trend_dtrader AUDUSD,H1: 17 : 44
+0	18:45:22.445	trend_dtrader AUDUSD,H1: 17 : 45
+0	18:46:22.450	trend_dtrader AUDUSD,H1: 17 : 46
+0	18:47:22.445	trend_dtrader AUDUSD,H1: 17 : 47
+0	18:48:22.444	trend_dtrader AUDUSD,H1: 17 : 48
+0	18:49:22.445	trend_dtrader AUDUSD,H1: 17 : 49
+0	18:50:22.445	trend_dtrader AUDUSD,H1: 17 : 50
+0	18:51:22.445	trend_dtrader AUDUSD,H1: 17 : 51
+0	18:52:22.451	trend_dtrader AUDUSD,H1: 17 : 52
+0	18:53:22.445	trend_dtrader AUDUSD,H1: 17 : 53
+0	18:54:22.445	trend_dtrader AUDUSD,H1: 17 : 54
+0	18:55:22.473	trend_dtrader AUDUSD,H1: 17 : 55
+0	18:56:22.473	trend_dtrader AUDUSD,H1: 17 : 56
+0	18:57:22.472	trend_dtrader AUDUSD,H1: 17 : 57
+0	18:58:22.473	trend_dtrader AUDUSD,H1: 17 : 58
+0	18:59:22.473	trend_dtrader AUDUSD,H1: 17 : 59
+0	19:00:22.474	trend_dtrader AUDUSD,H1: 18 : 0
+0	19:01:22.477	trend_dtrader AUDUSD,H1: 18 : 1
+0	19:02:22.475	trend_dtrader AUDUSD,H1: 18 : 2
+0	19:03:22.475	trend_dtrader AUDUSD,H1: 18 : 3
+0	19:04:22.476	trend_dtrader AUDUSD,H1: 18 : 4
+0	19:05:22.476	trend_dtrader AUDUSD,H1: 18 : 5
+0	19:06:22.476	trend_dtrader AUDUSD,H1: 18 : 6
+0	19:07:22.497	trend_dtrader AUDUSD,H1: 18 : 7
+0	19:08:22.477	trend_dtrader AUDUSD,H1: 18 : 8
+0	19:09:22.477	trend_dtrader AUDUSD,H1: 18 : 9
+0	19:10:22.497	trend_dtrader AUDUSD,H1: 18 : 10
+0	19:11:22.504	trend_dtrader AUDUSD,H1: 18 : 11
+0	19:12:22.502	trend_dtrader AUDUSD,H1: 18 : 12
+0	19:13:22.509	trend_dtrader AUDUSD,H1: 18 : 13
+0	19:14:22.520	trend_dtrader AUDUSD,H1: 18 : 14
+0	19:15:22.503	trend_dtrader AUDUSD,H1: 18 : 15
+0	19:16:22.503	trend_dtrader AUDUSD,H1: 18 : 16
+0	19:17:22.505	trend_dtrader AUDUSD,H1: 18 : 17
+0	19:18:22.505	trend_dtrader AUDUSD,H1: 18 : 18
+0	19:19:22.505	trend_dtrader AUDUSD,H1: 18 : 19
+0	19:20:22.505	trend_dtrader AUDUSD,H1: 18 : 20
+0	19:21:22.506	trend_dtrader AUDUSD,H1: 18 : 21
+0	19:22:22.506	trend_dtrader AUDUSD,H1: 18 : 22
+0	19:23:22.507	trend_dtrader AUDUSD,H1: 18 : 23
+0	19:24:22.508	trend_dtrader AUDUSD,H1: 18 : 24
+0	19:25:22.526	trend_dtrader AUDUSD,H1: 18 : 25
+0	19:26:22.529	trend_dtrader AUDUSD,H1: 18 : 26
+0	19:27:22.529	trend_dtrader AUDUSD,H1: 18 : 27
+0	19:28:22.530	trend_dtrader AUDUSD,H1: 18 : 28
+0	19:29:22.531	trend_dtrader AUDUSD,H1: 18 : 29
+0	19:30:22.533	trend_dtrader AUDUSD,H1: 18 : 30
+0	19:31:22.533	trend_dtrader AUDUSD,H1: 18 : 31
+0	19:32:22.537	trend_dtrader AUDUSD,H1: 18 : 32
+0	19:33:22.534	trend_dtrader AUDUSD,H1: 18 : 33
+0	19:34:22.534	trend_dtrader AUDUSD,H1: 18 : 34
+0	19:35:22.534	trend_dtrader AUDUSD,H1: 18 : 35
+0	19:36:22.545	trend_dtrader AUDUSD,H1: 18 : 36
+0	19:37:22.540	trend_dtrader AUDUSD,H1: 18 : 37
+0	19:38:22.537	trend_dtrader AUDUSD,H1: 18 : 38
+0	19:39:22.537	trend_dtrader AUDUSD,H1: 18 : 39
+0	19:40:22.539	trend_dtrader AUDUSD,H1: 18 : 40
+0	19:42:20.732	trend_dtrader AUDUSD,H1: 18 : 42
+0	19:42:22.563	trend_dtrader AUDUSD,H1: 18 : 42
+0	19:43:22.565	trend_dtrader AUDUSD,H1: 18 : 43
+0	19:44:22.565	trend_dtrader AUDUSD,H1: 18 : 44
+0	19:45:22.566	trend_dtrader AUDUSD,H1: 18 : 45
+0	19:45:36.051	trend_dtrader AUDUSD,H1: uninit reason 1
+0	19:45:36.052	trend_dtrader AUDUSD,H1: Alert: 1
+0	19:45:36.182	Expert trend_dtrader AUDUSD,H1: removed
