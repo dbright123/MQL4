@@ -62,7 +62,7 @@ void OnTick()
   {
 //---
    if(IsExpertEnabled()){
-      Comment("System is running ",GetTickCount());
+      //Comment("System is running ",GetTickCount());
       
    }else{
       Alert("Please Enable Algo Trading on your metatrader before running the application");
@@ -119,7 +119,7 @@ void OnTimer()
          }
       }
    } 
-   Print(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT())," : ",TimeSeconds(TimeGMT()));
+   Comment(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT())," : ",TimeSeconds(TimeGMT()));
   }
 //+------------------------------------------------------------------+
 
