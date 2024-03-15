@@ -94,7 +94,7 @@ void OnTimer()
                tf = PERIOD_H1;
                //Print("30 min check");
                if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_H4) == 0){
-                  if(ema_trend(market,tf) == 0){
+                  if(ema_trend(market,tf) == 0 && adx_check(market,OP_BUY) == 0){
                      //Order a Buy
                      market_order(market,OP_BUY);
                   }
@@ -104,7 +104,7 @@ void OnTimer()
                tf = PERIOD_H1;
                //Print("30 min check");
                if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_H4) == 1){
-                  if(ema_trend(market,tf) == 1){
+                  if(ema_trend(market,tf) == 1 && adx_check(market,OP_SELL) == 1){
                      //Order a Sell
                      market_order(market,OP_SELL);
                   }
@@ -148,6 +148,32 @@ int s_and_d(string market,ENUM_TIMEFRAMES tf){
          return 1;
       }
       */
+   }
+   return 2;
+}
+
+int adx_check(string market,ENUM_ORDER_TYPE order){
+   double adx = iADX(market,PERIOD_H1,14,PRICE_CLOSE,MODE_MAIN,0);
+   double di_plus = iADX(market,PERIOD_H1,14,PRICE_CLOSE,MODE_PLUSDI,0);
+   double di_minus = iADX(market,PERIOD_H1,14,PRICE_CLOSE,MODE_MINUSDI,0);
+   
+   if(order == OP_BUY){
+      if(di_plus > di_minus){
+         if(di_plus > 20 && di_minus < 20){
+            if(adx > di_minus){
+               return 0;
+            }
+         }
+      }
+   }
+   else if(order == OP_SELL){
+      if(di_plus < di_minus){
+         if(di_plus < 20 && di_minus > 20){
+            if(adx > di_plus){
+               return 1;
+            }
+         }
+      }
    }
    return 2;
 }
