@@ -1,0 +1,31 @@
+0	06:16:33.821	Expert trend_dtrader XTIUSD,H1: loaded successfully
+0	06:16:33.823	trend_dtrader XTIUSD,H1 inputs: mdesc=DBot FX; lot_size=0.3; max_trade=20; 
+0	09:58:16.644	Expert trend_dtrader XTIUSD,H1: loaded successfully
+0	09:58:16.645	trend_dtrader XTIUSD,H1 inputs: mdesc=DBot FX; lot_size=0.3; max_trade=20; 
+0	09:58:34.298	trend_dtrader XTIUSD,H1: ADAUSD --> 4
+0	09:58:34.303	trend_dtrader XTIUSD,H1: ALGOUSD --> 4
+0	09:58:34.306	trend_dtrader XTIUSD,H1: AUDUSD --> 5
+0	09:58:34.313	trend_dtrader XTIUSD,H1: DOGEUSD --> 5
+0	09:58:34.396	trend_dtrader XTIUSD,H1: EURUSD --> 5
+0	09:58:34.401	trend_dtrader XTIUSD,H1: FTMUSD --> 4
+0	09:58:34.405	trend_dtrader XTIUSD,H1: GBPUSD --> 5
+0	09:58:34.407	trend_dtrader XTIUSD,H1: GRTUSD --> 4
+0	09:58:34.409	trend_dtrader XTIUSD,H1: IOTAUSD --> 4
+0	09:58:34.414	trend_dtrader XTIUSD,H1: LRCUSD --> 4
+0	09:58:34.418	trend_dtrader XTIUSD,H1: MANAUSD --> 4
+0	09:58:34.419	trend_dtrader XTIUSD,H1: MATICUSD --> 4
+0	09:58:34.425	trend_dtrader XTIUSD,H1: NZDUSD --> 5
+0	09:58:34.427	trend_dtrader XTIUSD,H1: TRXUSD --> 5
+0	09:58:34.433	trend_dtrader XTIUSD,H1: USDCAD --> 5
+0	09:58:34.436	trend_dtrader XTIUSD,H1: USDCHF --> 5
+0	09:58:34.443	trend_dtrader XTIUSD,H1: XNGUSD --> 3
+0	09:58:34.444	trend_dtrader XTIUSD,H1: XRPUSD --> 5
+0	09:58:34.445	trend_dtrader XTIUSD,H1: 18
+0	09:58:34.445	trend_dtrader XTIUSD,H1: initialized
+0	14:43:31.656	trend_dtrader XTIUSD,H1: uninit reason 9
+0	14:43:31.658	trend_dtrader XTIUSD,H1: Alert: 9
+0	14:43:32.148	Expert trend_dtrader XTIUSD,H1: removed
+0	14:45:10.864	Expert trend_dtrader XTIUSD,H1: loaded successfully
+0	14:45:10.867	trend_dtrader XTIUSD,H1 inputs: mdesc=DBot FX; lot_size=0.3; max_trade=20; 
+0	18:15:34.745	Expert trend_dtrader XTIUSD,H1: loaded successfully
+0	18:15:34.746	trend_dtrader XTIUSD,H1 inputs: mdesc=DBot FX; lot_size=0.3; max_trade=20; 

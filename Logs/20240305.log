@@ -1,6 +1,0 @@
-0	09:49:08.131	Custom indicator ZigZag GBPUSD,H1: loaded successfully
-0	09:49:08.159	Custom indicator s_and_d GBPUSD,H1: loaded successfully
-0	09:49:08.220	ZigZag GBPUSD,H1: initialized
-0	09:49:08.262	s_and_d GBPUSD,H1: initialized
-0	09:49:08.404	Expert trend_dtrader AUDUSD,H1: loaded successfully
-0	09:49:08.405	trend_dtrader AUDUSD,H1 inputs: mdesc=DBot FX; lot_size=0.01; 

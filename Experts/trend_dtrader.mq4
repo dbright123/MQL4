@@ -33,10 +33,11 @@ int OnInit()
    n = 0;
    for(int i = 0; i < SymbolsTotal(False); i++){
       if(StringFind(SymbolName(i,False),"USD") != -1/* && ((int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 5 || (int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 4)*/){
-         if(iClose(SymbolName(i,False),PERIOD_D1,0) < 3){
-            markets[n] = SymbolName(i,False);
-            Print(markets[n++]," --> ",(int)MarketInfo(SymbolName(i,False),MODE_DIGITS));
-         }
+         //if(iClose(SymbolName(i,False),PERIOD_D1,0) < 3){
+            
+         //}
+         markets[n] = SymbolName(i,False);
+         Print(markets[n++]," --> ",(int)MarketInfo(SymbolName(i,False),MODE_DIGITS));
       }
    }
    ArrayResize(markets,n);
@@ -68,7 +69,7 @@ void OnTick()
       Alert("Please Enable Algo Trading on your metatrader before running the application");
       EventKillTimer();
       ExpertRemove();
-      Comment("");
+      Comment("DBOT AI has ended");
    }
   }
 //+------------------------------------------------------------------+
@@ -92,7 +93,7 @@ void OnTimer()
             if(s_and_d(market,tf) == 0){
                tf = PERIOD_H1;
                //Print("30 min check");
-               if(s_and_d(market,tf) == 0){
+               if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_H4) == 0){
                   if(ema_trend(market,tf) == 0){
                      //Order a Buy
                      market_order(market,OP_BUY);
@@ -102,7 +103,7 @@ void OnTimer()
             else if(s_and_d(market,tf) == 1){
                tf = PERIOD_H1;
                //Print("30 min check");
-               if(s_and_d(market,tf) == 1){
+               if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_H4) == 1){
                   if(ema_trend(market,tf) == 1){
                      //Order a Sell
                      market_order(market,OP_SELL);
@@ -135,6 +136,7 @@ int s_and_d(string market,ENUM_TIMEFRAMES tf){
          //Print(z);
          return 1;
       }
+      /*
       else if(iCustom(market,tf,"s_and_d",2,z) != 0){
          //Print("demand  ",market," zone fast -->>", iCustom(market,tf,"s_and_d",2,z));
          //Print(z);
@@ -145,6 +147,7 @@ int s_and_d(string market,ENUM_TIMEFRAMES tf){
          //Print(z);
          return 1;
       }
+      */
    }
    return 2;
 }
