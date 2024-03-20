@@ -136,7 +136,7 @@ int s_and_d(string market,ENUM_TIMEFRAMES tf){
          //Print(z);
          return 1;
       }
-      /*
+      
       else if(iCustom(market,tf,"s_and_d",2,z) != 0){
          //Print("demand  ",market," zone fast -->>", iCustom(market,tf,"s_and_d",2,z));
          //Print(z);
@@ -147,7 +147,7 @@ int s_and_d(string market,ENUM_TIMEFRAMES tf){
          //Print(z);
          return 1;
       }
-      */
+      
    }
    return 2;
 }
@@ -219,7 +219,7 @@ void market_order(string market,ENUM_ORDER_TYPE order){
       }
    }
    
-   if(permit){
+   if(permit && volume_permit(market)){
       double tp = 0,sl = 0;
       double atr = iATR(market,PERIOD_D1,14,0);
       double cp = iClose(market,PERIOD_D1,0);
