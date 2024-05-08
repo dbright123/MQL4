@@ -1,1 +1,5 @@
+XSym
+0164
+edb2de91a2ad2b13585a4cc9f0159874
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Scripts/Examples/Pipes/PipeClientPure.mq4
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

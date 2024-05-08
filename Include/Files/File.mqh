@@ -1,1 +1,5 @@
+XSym
+0145
+4cc22db0a444ae7573f4b04f1265b210
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/Files/File.mqh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

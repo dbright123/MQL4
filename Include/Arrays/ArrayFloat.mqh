@@ -1,1 +1,5 @@
+XSym
+0152
+4638f6d84c322d72f5daf379d3ee8c9c
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/Arrays/ArrayFloat.mqh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

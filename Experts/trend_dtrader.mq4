@@ -11,12 +11,12 @@
 #property description "DBot FX is a powerful trading algorithm that uses a combination of technical indicators and market analysis to identify profitable trading opportunities. It is designed to be easy to use and can be used by traders of all experience levels."
 extern string mdesc = "DBot FX"; //Market description
 
-extern double lot_size = 0.01; // lot size
+extern double lot_size = 0.05; // lot size
 ENUM_TIMEFRAMES tf = PERIOD_D1;
 string markets[] = {"EURUSD","AUDUSD","GBPUSD","USDCAD","XAUUSD","USDJPY"};
 string market = "";
 int n = 0;
-extern int max_trade = 3;
+extern int max_trade = 1000;
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -30,9 +30,10 @@ int OnInit()
    EventSetTimer(1);
    
    ArrayResize(markets,SymbolsTotal(False));
+   
    n = 0;
    for(int i = 0; i < SymbolsTotal(False); i++){
-      if(StringFind(SymbolName(i,False),"USD") != -1/* && ((int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 5 || (int)MarketInfo(SymbolName(i,False),MODE_DIGITS) == 4)*/){
+      if(StringFind(SymbolName(i,False),"USD") != -1){
          //if(iClose(SymbolName(i,False),PERIOD_D1,0) < 3){
             
          //}
@@ -44,6 +45,7 @@ int OnInit()
    
    Print(ArraySize(markets));
    n = 0;
+   
 //---
    return(INIT_SUCCEEDED);
   }
@@ -85,12 +87,12 @@ void OnTimer()
       if(!IsConnected()){
          Alert("Please check your internet connection");
       }else{
-         if(OrdersTotal() < max_trade){
+         if(OrdersTotal() < max_trade && TimeHour(TimeGMT()) > 7 && TimeHour(TimeGMT()) < 15){
             market = (IsTesting()) ? Symbol() : markets[n++];
             tf = PERIOD_D1;
             //Print("1d check");
             //Starting with daily trade
-            if(s_and_d(market,tf) == 0){
+            if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_M15) == 0){
                tf = PERIOD_H1;
                //Print("30 min check");
                if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_H4) == 0){
@@ -100,7 +102,7 @@ void OnTimer()
                   }
                }
             }
-            else if(s_and_d(market,tf) == 1){
+            else if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_M15) == 1){
                tf = PERIOD_H1;
                //Print("30 min check");
                if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_H4) == 1){
@@ -209,6 +211,8 @@ bool volume_permit(string market){
    if(vol > avergVol) return true;
    return false;
 }
+
+
 void market_order(string market,ENUM_ORDER_TYPE order){
    bool permit = True;
    for(int i = 0; i < OrdersTotal(); i++){
@@ -226,6 +230,7 @@ void market_order(string market,ENUM_ORDER_TYPE order){
       if(order == OP_BUY){
          sl = cp - atr;
          tp = (tp_calculator(market,order) != 0) ? tp_calculator(market,order) : cp + (atr * 2);
+         tp = (tp > cp + (atr * 2)) ? cp + (atr * 2) : tp;
          if(MathAbs(tp_calculator(market,order) - cp ) > 0.001){
             int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
             if(t != -1){
@@ -238,7 +243,7 @@ void market_order(string market,ENUM_ORDER_TYPE order){
       else if(order == OP_SELL){
          sl = cp + atr;
          tp =(tp_calculator(market,order) != 0) ? tp_calculator(market,order) : cp - (atr * 2);
-         
+         tp = (tp < cp - (atr * 2)) ? cp - (atr * 2) : tp;
          if(MathAbs(tp_calculator(market,order) - cp ) > 0.001){
             int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
             if(t != -1){

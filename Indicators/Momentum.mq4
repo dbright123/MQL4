@@ -1,1 +1,5 @@
+XSym
+0146
+5053ed3aa4d2151acc09bfbf8ef3f622
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Indicators/Momentum.mq4
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

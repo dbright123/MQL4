@@ -1,1 +1,5 @@
+XSym
+0145
+71a8fc2c6ef356c30169c054af7a46f6
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Indicators/Awesome.mq4
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

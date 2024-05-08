@@ -1,1 +1,5 @@
+XSym
+0143
+3f80fc6f71cde0c9d61e781581fca0c5
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Indicators/Bears.mq4
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

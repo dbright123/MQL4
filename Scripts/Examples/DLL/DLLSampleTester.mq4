@@ -1,1 +1,5 @@
+XSym
+0163
+e189fcdc21593b0c327aad6322beb758
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Scripts/Examples/DLL/DLLSampleTester.mq4
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

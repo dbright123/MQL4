@@ -1,1 +1,5 @@
+XSym
+0171
+9e39020bac04dd6e8e0dcac29cd299f3
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/ChartObjects/ChartObjectsTxtControls.mqh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

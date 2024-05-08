@@ -1,1 +1,5 @@
+XSym
+0164
+93e77e60d46302e01aad6e7ff256a29c
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/ChartObjects/ChartObjectsGann.mqh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,1 +1,5 @@
+XSym
+0147
+fe0cb7a8b2d1f6daf07d6436f97fd7b0
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Indicators/Parabolic.mq4
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,1 +1,5 @@
+XSym
+0164
+7fea2fcd9201556cbdd94bba97b18c72
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/ChartObjects/ChartObjectsFibo.mqh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,19 @@
+0	19:35:45.556	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	19:35:45.556	trend_dtrader XAUUSD,H1 inputs: mdesc=DBot FX; lot_size=0.02; max_trade=10; 
+0	19:36:34.806	trend_dtrader XAUUSD,H1: initialized
+0	19:43:05.988	trend_dtrader XAUUSD,H1: uninit reason 2
+0	19:43:05.988	trend_dtrader XAUUSD,H1: Alert: 2
+0	19:43:05.990	Expert trend_dtrader XAUUSD,H1: removed
+0	19:43:06.016	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	19:43:06.064	trend_dtrader XAUUSD,H1: initialized
+0	19:43:30.116	trend_dtrader XAUUSD,H1: uninit reason 5
+0	19:43:30.116	trend_dtrader XAUUSD,H1: Alert: 5
+0	19:43:30.145	trend_dtrader XAUUSD,H1 inputs: mdesc=DBot FX; lot_size=0.02; max_trade=10; 
+0	19:43:30.146	trend_dtrader XAUUSD,H1: initialized
+0	20:34:22.143	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	20:34:23.143	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	20:47:40.036	trend_dtrader XAUUSD,H1: uninit reason 2
+0	20:47:40.036	trend_dtrader XAUUSD,H1: Alert: 2
+0	20:47:40.061	Expert trend_dtrader XAUUSD,H1: removed
+0	20:47:40.080	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	20:47:40.099	trend_dtrader XAUUSD,H1: initialized

@@ -1,1 +1,5 @@
+XSym
+0150
+a2de4b02855ad6fdda8def5161fb7df1
 /Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/Arrays/TreeNode.mqh
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
