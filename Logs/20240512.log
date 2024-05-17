@@ -1,0 +1,58 @@
+0	16:25:39.799	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	16:25:39.799	trend_dtrader XAUUSD,H1 inputs: mdesc=DBot FX; lot_size=0.1; max_trade=10000; 
+0	16:28:36.553	trend_dtrader XAUUSD,H1: AAVEUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: ADAUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: ALGOUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: APTUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: ARBUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: ATOMUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: AUDUSD --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: AVAXUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: AXSUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: BCHUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: BNBUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: BTCUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: DASHUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: DOGEUSD --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: DOTUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: ETCUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: ETHUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: EURUSD --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: FETUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: FILUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: FTMUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: GBPUSD --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: GRTUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: ICPUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: IOTAUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: LINKUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: LRCUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: LTCUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: MANAUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: MATICUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: NEARUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: NZDUSD --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: SOLUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: SUIUSD --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: TRXUSD --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: UNIUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: USDCAD --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: USDCHF --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: USDJPY --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: USDMXN --> 4
+0	16:28:36.553	trend_dtrader XAUUSD,H1: USDZAR --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: XAGUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: XAUUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: XBRUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: XNGUSD --> 3
+0	16:28:36.553	trend_dtrader XAUUSD,H1: XRPUSD --> 5
+0	16:28:36.553	trend_dtrader XAUUSD,H1: XTIUSD --> 2
+0	16:28:36.553	trend_dtrader XAUUSD,H1: ZECUSD --> 2
+0	16:28:36.554	trend_dtrader XAUUSD,H1: 48
+0	16:28:36.554	trend_dtrader XAUUSD,H1: initialized
+0	19:38:47.489	trend_dtrader XAUUSD,H1: Failed modifying 
+0	19:38:48.493	trend_dtrader XAUUSD,H1: Failed modifying 
+0	19:38:49.487	trend_dtrader XAUUSD,H1: Failed modifying 
+2	19:38:51.066	trend_dtrader XAUUSD,H1: modify #474344855 sell 0.10 DOGEUSD at 0.14246 sl: 0.14200 tp: 0.12738 ok
+0	19:38:51.066	trend_dtrader XAUUSD,H1: Alert: DOGEUSD has been assigned a breakeven 0.141995
+0	23:14:52.630	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
