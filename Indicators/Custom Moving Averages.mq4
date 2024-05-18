@@ -1,5 +1,0 @@
-XSym
-0160
-ac73d66058e5e1c8bb1b51deb94bf41a
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Indicators/Custom Moving Averages.mq4
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

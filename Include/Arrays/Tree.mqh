@@ -1,5 +1,0 @@
-XSym
-0146
-99f715609986b715200424a14aa2e3da
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/Arrays/Tree.mqh
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

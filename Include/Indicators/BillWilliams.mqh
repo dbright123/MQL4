@@ -1,5 +1,0 @@
-XSym
-0158
-db14fa3f64c1ef038e5b6d062978a810
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/Indicators/BillWilliams.mqh
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

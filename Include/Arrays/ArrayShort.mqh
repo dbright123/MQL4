@@ -1,5 +1,0 @@
-XSym
-0152
-6ff121cf030fc4ec60e6eb222d3e76cd
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/Arrays/ArrayShort.mqh
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

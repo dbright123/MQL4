@@ -1,5 +1,0 @@
-XSym
-0154
-1f4b1a1c6c8af2e42fd72c1feace8eaf
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/Controls/TimePicker.mqh
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

@@ -1,5 +1,0 @@
-XSym
-0144
-a9af707f639eceb7dd7a3ee7bfbb169d
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Indicators/ZigZag.mq4
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

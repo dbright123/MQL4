@@ -1,5 +1,0 @@
-XSym
-0156
-9c73c4ef2257b161c8aa6a9bd8a88c8b
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Include/Controls/DateDropList.mqh
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

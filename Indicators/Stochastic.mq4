@@ -1,5 +1,0 @@
-XSym
-0148
-99e9eb31d08e6341dcc40afc6a5318fb
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Indicators/Stochastic.mq4
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

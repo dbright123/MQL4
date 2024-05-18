@@ -1,5 +1,0 @@
-XSym
-0157
-eba40d73e5bee9b1949a3accd6e0afe4
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Scripts/Examples/DLL/DLLSample.cpp
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

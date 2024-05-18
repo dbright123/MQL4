@@ -1,5 +1,0 @@
-XSym
-0160
-9d679e226149dedb3ae9f2ae9c38f1e8
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Scripts/Examples/Pipes/PipeClient.mq4
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

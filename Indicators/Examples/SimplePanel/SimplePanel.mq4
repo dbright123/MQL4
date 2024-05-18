@@ -1,5 +1,0 @@
-XSym
-0170
-102f4d4969f65397bc68fb8400208979
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Indicators/Examples/SimplePanel/SimplePanel.mq4
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

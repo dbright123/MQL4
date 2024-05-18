@@ -1,5 +1,0 @@
-XSym
-0146
-bf0f27cc7ad9f2c0472113fc5d5415e7
-/Users/mikky/Library/Application Support/MetaTrader 4/BuiltinBottles/default/drive_c/Program Files (x86)/MetaTrader 4/MQL4/Experts/MACD Sample.mq4
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

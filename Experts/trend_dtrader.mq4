@@ -64,10 +64,8 @@ void OnDeinit(const int reason)
 void OnTick()
   {
 //---
-   if(IsExpertEnabled()){
+   if(!IsExpertEnabled()){
       //Comment("System is running ",GetTickCount());
-      
-   }else{
       Alert("Please Enable Algo Trading on your metatrader before running the application");
       EventKillTimer();
       ExpertRemove();
