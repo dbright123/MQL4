@@ -201,7 +201,7 @@ bool volume_permit(string market){
    }
    avergVol = vol / 20.0;
    
-   if(vol > avergVol) return true;
+   if(iVolume(market,PERIOD_H1,0) > avergVol) return true;
    return false;
 }
 

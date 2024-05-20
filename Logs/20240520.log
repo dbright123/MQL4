@@ -3892,4 +3892,9 @@
 0	08:01:14.254	trend_dtrader GBPUSD,H1: Failed modifying USDJPY
 0	08:01:15.255	trend_dtrader GBPUSD,H1: Failed modifying USDJPY
 0	08:01:16.254	trend_dtrader GBPUSD,H1: Failed modifying USDJPY
-0	08:01:17.255	trend_dtr
+0	08:01:17.255	trend_dtr0	13:13:58.120	Compiling '._breakeven'
+0	13:13:58.120	Compiling '._Dbot_trader'
+0	13:13:58.121	Compiling 'MSP'
+0	13:13:59.693	Compiling 'adx_v4'
+0	13:14:01.916	Expert trend_dtrader GBPUSD,H1: loaded successfully
+0	13:14:01.917	trend_dtrader GBPUSD,H1 inputs: mdesc=DBot FX; lot_size=0.2; max_trade=10000000; 
