@@ -22,8 +22,7 @@ extern int max_trade = 1000;
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
 
-int zigzag = {};
-int s_and_d = {};
+
 int OnInit()
   {
 //--- create timer
@@ -78,48 +77,44 @@ void OnTick()
 void OnTimer()
   {
 //---
-   
-   if(!IsExpertEnabled()){
-      Alert("Please enable Algo Trading");
+   if(!IsConnected()){
+      Alert("Please check your internet connection");
    }else{
-      if(!IsConnected()){
-         Alert("Please check your internet connection");
-      }else{
-         if(OrdersTotal() < max_trade && TimeHour(TimeGMT()) > 7 && TimeHour(TimeGMT()) < 15){
-            market = (IsTesting()) ? Symbol() : markets[n++];
-            tf = PERIOD_D1;
-            //Print("1d check");
-            //Starting with daily trade
-            if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_M15) == 0){
-               tf = PERIOD_H1;
-               //Print("30 min check");
-               if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_H4) == 0){
-                  if(ema_trend(market,tf) == 0 && adx_check(market,OP_BUY) == 0){
-                     //Order a Buy
-                     market_order(market,OP_BUY);
-                  }
+      if(OrdersTotal() < max_trade && TimeHour(TimeGMT()) > 7 && TimeHour(TimeGMT()) < 15){
+         market = (IsTesting()) ? Symbol() : markets[n++];
+         tf = PERIOD_D1;
+         //Print("1d check");
+         //Starting with daily trade
+         if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_M15) == 0){
+            tf = PERIOD_H1;
+            //Print("30 min check");
+            if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_H4) == 0){
+               if(ema_trend(market,tf) == 0 && adx_check(market,OP_BUY) == 0){
+                  //Order a Buy
+                  market_order(market,OP_BUY);
                }
             }
-            else if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_M15) == 1){
-               tf = PERIOD_H1;
-               //Print("30 min check");
-               if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_H4) == 1){
-                  if(ema_trend(market,tf) == 1 && adx_check(market,OP_SELL) == 1){
-                     //Order a Sell
-                     market_order(market,OP_SELL);
-                  }
-               }
-            }
-            //demand is 0 and supply is 1
-            if(n >= ArraySize(markets) - 1){
-               n = 0;
-            }
-            monitor();
-         }else{
-            monitor();
          }
+         else if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_M15) == 1){
+            tf = PERIOD_H1;
+            //Print("30 min check");
+            if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_H4) == 1){
+               if(ema_trend(market,tf) == 1 && adx_check(market,OP_SELL) == 1){
+                  //Order a Sell
+                  market_order(market,OP_SELL);
+               }
+            }
+         }
+         //demand is 0 and supply is 1
+         if(n >= ArraySize(markets) - 1){
+            n = 0;
+         }
+         monitor();
+      }else{
+         monitor();
       }
-   } 
+   }
+    
    Comment(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT())," : ",TimeSeconds(TimeGMT()));
   }
 //+------------------------------------------------------------------+
