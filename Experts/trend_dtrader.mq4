@@ -109,9 +109,10 @@ void OnTimer()
          if(n >= ArraySize(markets) - 1){
             n = 0;
          }
-         monitor();
+         //OBSERVING IF BREAKEVEN IS EVEN NECESSARY OR A CAUSE OF MY FAILURE
+         //monitor();
       }else{
-         monitor();
+         //monitor();
       }
    }
     
