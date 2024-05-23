@@ -29,15 +29,11 @@ int OnInit()
    EventSetTimer(1);
    
    ArrayResize(markets,SymbolsTotal(False));
-   
    n = 0;
    for(int i = 0; i < SymbolsTotal(False); i++){
       if(StringFind(SymbolName(i,False),"USD") != -1){
-         //if(iClose(SymbolName(i,False),PERIOD_D1,0) < 3){
-            
-         //}
          markets[n] = SymbolName(i,False);
-         Print(markets[n++]," --> ",(int)MarketInfo(SymbolName(i,False),MODE_DIGITS));
+         Print(markets[n++]);
       }
    }
    ArrayResize(markets,n);
@@ -110,9 +106,9 @@ void OnTimer()
             n = 0;
          }
          //OBSERVING IF BREAKEVEN IS EVEN NECESSARY OR A CAUSE OF MY FAILURE
-         //monitor();
+         monitor();
       }else{
-         //monitor();
+         monitor();
       }
    }
     
@@ -195,18 +191,6 @@ int ema_trend(string market, ENUM_TIMEFRAMES tf){
    return 2;
 }
 
-bool volume_permit(string market){
-   double vol = 0, avergVol = 0;
-   for(int i = 0; i < 20; i++){
-      vol = vol + iVolume(market,PERIOD_H1,i);
-   }
-   avergVol = vol / 20.0;
-   
-   if(iVolume(market,PERIOD_H1,0) > avergVol) return true;
-   return false;
-}
-
-
 void market_order(string market,ENUM_ORDER_TYPE order){
    bool permit = True;
    for(int i = 0; i < OrdersTotal(); i++){
@@ -217,7 +201,7 @@ void market_order(string market,ENUM_ORDER_TYPE order){
       }
    }
    
-   if(permit && volume_permit(market)){
+   if(permit){
       double tp = 0,sl = 0;
       double atr = iATR(market,PERIOD_D1,14,0);
       double cp = iClose(market,PERIOD_D1,0);
@@ -258,15 +242,8 @@ void monitor(){
             double sl = 0, be = 0;
         
             if(OrderType() == OP_BUY){
-               /*
-               if(s_and_d(market,PERIOD_D1) == 1){
-                  //Emergency Close Market
-                  if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
-                     Alert(OrderSymbol()," is really needed to be removed");
-                  }else Print("Failed closing");
-               }
-               */
-               if(OrderProfit() > 80 * OrderLots()){
+               
+               if(OrderProfit() > 200 * OrderLots()){
                   if(OrderOpenPrice() > OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
                      sl = sl/2.0;
@@ -307,7 +284,7 @@ void monitor(){
                   }else Print("Failed closing");
                }
                */
-               if(OrderProfit() > 80 * OrderLots()){
+               if(OrderProfit() > 200 * OrderLots()){
                   if(OrderOpenPrice() < OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
                      sl = sl/2.0;
