@@ -11,12 +11,13 @@
 #property description "DBot FX is a powerful trading algorithm that uses a combination of technical indicators and market analysis to identify profitable trading opportunities. It is designed to be easy to use and can be used by traders of all experience levels."
 extern string mdesc = "DBot FX"; //Market description
 
-extern double lot_size = 0.05; // lot size
+extern double lot_size = 0.3; // lot size
 ENUM_TIMEFRAMES tf = PERIOD_D1;
 string markets[] = {"EURUSD","AUDUSD","GBPUSD","USDCAD","XAUUSD","USDJPY"};
 string market = "";
 int n = 0;
-extern int max_trade = 1000;
+extern int max_trade = 100000000;
+extern bool close_trade = true; //Remove trade after close of trade
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -33,7 +34,8 @@ int OnInit()
    for(int i = 0; i < SymbolsTotal(False); i++){
       if(StringFind(SymbolName(i,False),"USD") != -1){
          markets[n] = SymbolName(i,False);
-         Print(markets[n++]);
+         Print(markets[n]);
+         n++;
       }
    }
    ArrayResize(markets,n);
@@ -76,7 +78,7 @@ void OnTimer()
    if(!IsConnected()){
       Alert("Please check your internet connection");
    }else{
-      if(OrdersTotal() < max_trade && TimeHour(TimeGMT()) > 7 && TimeHour(TimeGMT()) < 15){
+      if(OrdersTotal() < max_trade && TimeHour(TimeGMT()) > 7 && TimeHour(TimeGMT()) < 15 && TimeDayOfWeek(TimeGMT()) != 0 && TimeDayOfWeek(TimeGMT()) != 6){
          market = (IsTesting()) ? Symbol() : markets[n++];
          tf = PERIOD_D1;
          //Print("1d check");
@@ -109,6 +111,9 @@ void OnTimer()
          monitor();
       }else{
          monitor();
+         if(close_trade){
+            close_late_trade();// to close all trade for the end of today
+         }
       }
    }
     
@@ -243,7 +248,7 @@ void monitor(){
         
             if(OrderType() == OP_BUY){
                
-               if(OrderProfit() > 200 * OrderLots()){
+               if(OrderProfit() > 1000 * OrderLots()){
                   if(OrderOpenPrice() > OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
                      sl = sl/2.0;
@@ -252,7 +257,7 @@ void monitor(){
                      }else Print("Failed modifying ", market);
                   } 
                }
-               
+               ////Here at the moment
                if(OrderOpenPrice() > OrderStopLoss()){
                   be = OrderTakeProfit() + OrderOpenPrice();
                   be = be / 2.0;
@@ -284,7 +289,7 @@ void monitor(){
                   }else Print("Failed closing");
                }
                */
-               if(OrderProfit() > 200 * OrderLots()){
+               if(OrderProfit() > 1000 * OrderLots()){
                   if(OrderOpenPrice() < OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
                      sl = sl/2.0;
@@ -374,4 +379,18 @@ double tp_calculator(string market, ENUM_ORDER_TYPE order){
       }
    }
    return 0;
+}
+
+void close_late_trade(){
+   if(TimeHour(TimeGMT()) > 15){
+      if(AccountProfit() > 1000 * OrderLots()){
+         for(int i = 0; i < OrdersTotal(); i++){
+            if(OrderSelect(i,SELECT_BY_POS)){
+               if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),3,clrGreenYellow)){
+                  Print("Trying to close ",OrderSymbol());
+               }
+            }
+         }
+      }
+   }
 }
