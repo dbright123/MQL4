@@ -80,18 +80,22 @@ void OnTick()
 void OnTimer()
   {
 //---
+   string trade_mode = "";
    if(!IsConnected()){
       Alert("Please check your internet connection");
    }else{
+      
       if(OrdersTotal() < max_trade && TimeHour(TimeGMT()) > 7 && TimeHour(TimeGMT()) < 15 && TimeDayOfWeek(TimeGMT()) != 0 && TimeDayOfWeek(TimeGMT()) != 6){
          if(tt == dont_trade_with_breakeven){
             if(TimeDayOfWeek(TimeGMT()) == 1){
                trade_activate();
             }
+            trade_mode = "\nDont trade with breakeven";
          }
          else if(tt == trade_with_breakeven){
             trade_activate();
             monitor();
+            trade_mode = "\nTrade with breakeven";
          }
         
       }else{
@@ -99,19 +103,20 @@ void OnTimer()
             if(TimeDayOfWeek(TimeGMT()) == 5){
                close_late_trade();
             }
-            
+            trade_mode = "\nDont trade with breakeven";
          }
          else if(tt == trade_with_breakeven){
             monitor();
             if(close_trade){
                close_late_trade();// to close all trade for the end of today
             }
+            trade_mode = "\nTrade with breakeven";
          }
          
       }
    }
     
-   Comment(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT())," : ",TimeSeconds(TimeGMT())," still monitoring trade");
+   Comment(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT())," : ",TimeSeconds(TimeGMT()),"\nstill monitoring trade ", trade_mode);
   }
 //+------------------------------------------------------------------+
 
