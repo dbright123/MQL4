@@ -17,8 +17,13 @@ string markets[] = {"EURUSD","AUDUSD","GBPUSD","USDCAD","XAUUSD","USDJPY"};
 string market = "";
 int n = 0;
 extern int max_trade = 100000000;
-extern bool close_trade = true; //Remove trade after close of trade
+extern bool close_trade = true; //Remove trade after close of trade4
+enum trade_type{
+   trade_with_breakeven = 0,// Trade with breakeven
+   dont_trade_with_breakeven = 1,// Dont trade with breakeven
 
+};
+extern trade_type tt = dont_trade_with_breakeven;
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
@@ -79,47 +84,67 @@ void OnTimer()
       Alert("Please check your internet connection");
    }else{
       if(OrdersTotal() < max_trade && TimeHour(TimeGMT()) > 7 && TimeHour(TimeGMT()) < 15 && TimeDayOfWeek(TimeGMT()) != 0 && TimeDayOfWeek(TimeGMT()) != 6){
-         market = (IsTesting()) ? Symbol() : markets[n++];
-         tf = PERIOD_D1;
-         //Print("1d check");
-         //Starting with daily trade
-         if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_M15) == 0){
-            tf = PERIOD_H1;
-            //Print("30 min check");
-            if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_H4) == 0){
-               if(ema_trend(market,tf) == 0 && adx_check(market,OP_BUY) == 0){
-                  //Order a Buy
-                  market_order(market,OP_BUY);
-               }
+         if(tt == dont_trade_with_breakeven){
+            if(TimeDayOfWeek(TimeGMT()) == 1){
+               trade_activate();
             }
          }
-         else if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_M15) == 1){
-            tf = PERIOD_H1;
-            //Print("30 min check");
-            if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_H4) == 1){
-               if(ema_trend(market,tf) == 1 && adx_check(market,OP_SELL) == 1){
-                  //Order a Sell
-                  market_order(market,OP_SELL);
-               }
-            }
+         else if(tt == trade_with_breakeven){
+            trade_activate();
+            monitor();
          }
-         //demand is 0 and supply is 1
-         if(n >= ArraySize(markets) - 1){
-            n = 0;
-         }
-         //OBSERVING IF BREAKEVEN IS EVEN NECESSARY OR A CAUSE OF MY FAILURE
-         monitor();
+        
       }else{
-         monitor();
-         if(close_trade){
-            close_late_trade();// to close all trade for the end of today
+         if(tt == dont_trade_with_breakeven){
+            if(TimeDayOfWeek(TimeGMT()) == 5){
+               close_late_trade();
+            }
+            
          }
+         else if(tt == trade_with_breakeven){
+            monitor();
+            if(close_trade){
+               close_late_trade();// to close all trade for the end of today
+            }
+         }
+         
       }
    }
     
-   Comment(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT())," : ",TimeSeconds(TimeGMT()));
+   Comment(TimeHour(TimeGMT())," : ",TimeMinute(TimeGMT())," : ",TimeSeconds(TimeGMT())," still monitoring trade");
   }
 //+------------------------------------------------------------------+
+
+void trade_activate(){
+   market = (IsTesting()) ? Symbol() : markets[n++];
+   tf = PERIOD_D1;
+   //Print("1d check");
+   //Starting with daily trade
+   if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_M15) == 0){
+      tf = PERIOD_H1;
+      //Print("30 min check");
+      if(s_and_d(market,tf) == 0 && s_and_d(market,PERIOD_H4) == 0){
+         if(ema_trend(market,tf) == 0 && adx_check(market,OP_BUY) == 0){
+            //Order a Buy
+            market_order(market,OP_BUY);
+         }
+      }
+   }
+   else if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_M15) == 1){
+      tf = PERIOD_H1;
+      //Print("30 min check");
+      if(s_and_d(market,tf) == 1 && s_and_d(market,PERIOD_H4) == 1){
+         if(ema_trend(market,tf) == 1 && adx_check(market,OP_SELL) == 1){
+            //Order a Sell
+            market_order(market,OP_SELL);
+         }
+      }
+   }
+   //demand is 0 and supply is 1
+   if(n >= ArraySize(markets) - 1){
+      n = 0;
+   }
+}
 
 int s_and_d(string market,ENUM_TIMEFRAMES tf){
    for(int z = 0; z < 30; z++){//Maxi bar check is a 1000
