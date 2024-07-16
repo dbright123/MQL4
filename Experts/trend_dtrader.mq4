@@ -277,7 +277,7 @@ void monitor(){
             double sl = 0, be = 0;
         
             if(OrderType() == OP_BUY){
-               
+               /*
                if(OrderProfit() > 1000 * OrderLots()){
                   if(OrderOpenPrice() > OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
@@ -287,6 +287,7 @@ void monitor(){
                      }else Print("Failed modifying ", market);
                   } 
                }
+               */
                ////Here at the moment
                if(OrderOpenPrice() > OrderStopLoss()){
                   be = OrderTakeProfit() + OrderOpenPrice();
@@ -297,6 +298,7 @@ void monitor(){
                      }else Print("Failed modifying ", market);
                   }
                }
+               /*
                else if(OrderOpenPrice() < OrderStopLoss()){
                   be = OrderTakeProfit() + OrderStopLoss();
                   be = be / 2.0;
@@ -308,17 +310,11 @@ void monitor(){
                      }
                   }
                }
-               
+               */
             }
             else if(OrderType() == OP_SELL){
+               
                /*
-               if(s_and_d(market,PERIOD_D1) == 0){
-                  //Emergency Close Market
-                  if(OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),8,clrRed)){
-                     Alert(OrderSymbol()," is really needed to be removed");
-                  }else Print("Failed closing");
-               }
-               */
                if(OrderProfit() > 1000 * OrderLots()){
                   if(OrderOpenPrice() < OrderStopLoss()){
                      sl = OrderClosePrice() + OrderOpenPrice();
@@ -328,7 +324,7 @@ void monitor(){
                      }else Print("Failed modifying ", market);
                   }
                }
-               
+               */
                if(OrderOpenPrice() < OrderStopLoss()){
                   be = OrderTakeProfit() + OrderOpenPrice();
                   be = be / 2.0;
@@ -338,6 +334,7 @@ void monitor(){
                      }else Print("Failed modifying ", market);
                   }
                }
+               /*
                else if(OrderOpenPrice() > OrderStopLoss()){
                   be = OrderTakeProfit() + OrderStopLoss();
                   be = be / 2.0;
@@ -349,7 +346,7 @@ void monitor(){
                      }
                   }
                }
-               
+               */
                
             }
          }
