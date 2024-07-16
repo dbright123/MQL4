@@ -17,7 +17,7 @@ string markets[] = {"EURUSD","AUDUSD","GBPUSD","USDCAD","XAUUSD","USDJPY"};
 string market = "";
 int n = 0;
 extern int max_trade = 100000000;
-extern bool close_trade = true; //Remove trade after close of trade4
+extern bool close_trade = false; //Remove trade after close of trade4
 enum trade_type{
    trade_with_breakeven = 0,// Trade with breakeven
    dont_trade_with_breakeven = 1,// Dont trade with breakeven
