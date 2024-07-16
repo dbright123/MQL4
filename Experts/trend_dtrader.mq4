@@ -212,7 +212,7 @@ int ema_trend(string market, ENUM_TIMEFRAMES tf){
           ema55 = iMA(market,tf,55,0,MODE_EMA,PRICE_CLOSE,0),
           cp = iClose(market,tf,0);
    
-   if(cp > ema8 && ema8 > ema12){
+   if(cp > ema8 && ema8 > ema12){ 
       if(ema12 > ema21 && ema21 > ema55){
          return 0; 
       }
@@ -284,7 +284,7 @@ void monitor(){
                      sl = sl/2.0;
                      if(OrderModify(OrderTicket(),OrderOpenPrice(),sl,OrderTakeProfit(),0)){
                         Alert(OrderSymbol()," has been assigned a breakeven ",sl);
-                     }else Print("Failed modifying ", market);
+                     }else Print("Failed modifying ", market); //////
                   } 
                }
                */
