@@ -1,0 +1,2821 @@
+0	07:28:05.828	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	07:28:07.250	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	07:28:08.240	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	07:28:09.243	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	07:28:10.245	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	07:28:11.245	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	07:28:12.295	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	07:28:13.246	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	08:00:02.778	trend_dtrader XAUUSD,H1: Alert: Failed ALGOUSD
+2	08:00:06.302	trend_dtrader XAUUSD,H1: open #479157558 buy 0.30 ATOMUSD at 6.367 sl: 5.894 tp: 7.035 ok
+0	08:00:06.302	trend_dtrader XAUUSD,H1: Alert: ATOMUSD Ordered Successfully
+2	08:00:38.061	trend_dtrader XAUUSD,H1: open #479157609 sell 0.30 USDCHF at 0.89491 sl: 0.89906 tp: 0.88660 ok
+0	08:00:38.061	trend_dtrader XAUUSD,H1: Alert: USDCHF Ordered Successfully
+0	08:13:28.476	trend_dtrader XAUUSD,H1: uninit reason 2
+0	08:13:28.476	trend_dtrader XAUUSD,H1: Alert: 2
+0	08:13:29.042	Expert trend_dtrader XAUUSD,H1: removed
+0	08:13:29.138	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	08:13:29.251	trend_dtrader XAUUSD,H1: AAVEUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: ADAUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: ALGOUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: APTUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: ARBUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: ATOMUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: AUDUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: AVAXUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: AXSUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: BCHUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: BNBUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: BTCUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: DASHUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: DOGEUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: DOTUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: ETCUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: ETHUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: EURUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: FETUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: FILUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: FTMUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: GBPUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: GRTUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: ICPUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: IOTAUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: LINKUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: LRCUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: LTCUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: MANAUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: MATICUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: NEARUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: NZDUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: SOLUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: SUIUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: TRXUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: UNIUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: USDCAD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: USDCHF
+0	08:13:29.251	trend_dtrader XAUUSD,H1: USDJPY
+0	08:13:29.251	trend_dtrader XAUUSD,H1: USDMXN
+0	08:13:29.251	trend_dtrader XAUUSD,H1: USDZAR
+0	08:13:29.251	trend_dtrader XAUUSD,H1: XAGUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: XAUUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: XBRUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: XNGUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: XRPUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: XTIUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: ZECUSD
+0	08:13:29.251	trend_dtrader XAUUSD,H1: 48
+0	08:13:29.251	trend_dtrader XAUUSD,H1: initialized
+0	08:32:13.536	trend_dtrader XAUUSD,H1: uninit reason 2
+0	08:32:13.536	trend_dtrader XAUUSD,H1: Alert: 2
+0	08:32:14.052	Expert trend_dtrader XAUUSD,H1: removed
+0	08:32:14.137	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	08:32:14.244	trend_dtrader XAUUSD,H1: AAVEUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: ADAUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: ALGOUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: APTUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: ARBUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: ATOMUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: AUDUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: AVAXUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: AXSUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: BCHUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: BNBUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: BTCUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: DASHUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: DOGEUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: DOTUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: ETCUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: ETHUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: EURUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: FETUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: FILUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: FTMUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: GBPUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: GRTUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: ICPUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: IOTAUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: LINKUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: LRCUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: LTCUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: MANAUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: MATICUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: NEARUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: NZDUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: SOLUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: SUIUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: TRXUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: UNIUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: USDCAD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: USDCHF
+0	08:32:14.244	trend_dtrader XAUUSD,H1: USDJPY
+0	08:32:14.244	trend_dtrader XAUUSD,H1: USDMXN
+0	08:32:14.244	trend_dtrader XAUUSD,H1: USDZAR
+0	08:32:14.244	trend_dtrader XAUUSD,H1: XAGUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: XAUUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: XBRUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: XNGUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: XRPUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: XTIUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: ZECUSD
+0	08:32:14.244	trend_dtrader XAUUSD,H1: 48
+0	08:32:14.244	trend_dtrader XAUUSD,H1: initialized
+0	09:43:14.713	trend_dtrader XAUUSD,H1: uninit reason 2
+0	09:43:14.713	trend_dtrader XAUUSD,H1: Alert: 2
+0	09:43:15.218	Expert trend_dtrader XAUUSD,H1: removed
+0	09:43:15.391	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	09:43:16.246	trend_dtrader XAUUSD,H1: AAVEUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: ADAUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: ALGOUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: APTUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: ARBUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: ATOMUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: AUDUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: AVAXUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: AXSUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: BCHUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: BNBUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: BTCUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: DASHUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: DOGEUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: DOTUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: ETCUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: ETHUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: EURUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: FETUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: FILUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: FTMUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: GBPUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: GRTUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: ICPUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: IOTAUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: LINKUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: LRCUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: LTCUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: MANAUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: MATICUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: NEARUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: NZDUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: SOLUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: SUIUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: TRXUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: UNIUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: USDCAD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: USDCHF
+0	09:43:16.246	trend_dtrader XAUUSD,H1: USDJPY
+0	09:43:16.246	trend_dtrader XAUUSD,H1: USDMXN
+0	09:43:16.246	trend_dtrader XAUUSD,H1: USDZAR
+0	09:43:16.246	trend_dtrader XAUUSD,H1: XAGUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: XAUUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: XBRUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: XNGUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: XRPUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: XTIUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: ZECUSD
+0	09:43:16.246	trend_dtrader XAUUSD,H1: 48
+0	09:43:16.246	trend_dtrader XAUUSD,H1: initialized
+2	10:15:48.278	trend_dtrader XAUUSD,H1: open #479166875 buy 0.30 GRTUSD at 0.2092 sl: 0.1909 tp: 0.2389 ok
+0	10:15:48.278	trend_dtrader XAUUSD,H1: Alert: GRTUSD Ordered Successfully
+0	10:35:22.859	trend_dtrader XAUUSD,H1: uninit reason 2
+0	10:35:22.859	trend_dtrader XAUUSD,H1: Alert: 2
+0	10:35:23.500	Expert trend_dtrader XAUUSD,H1: removed
+0	10:35:23.548	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	10:35:23.643	trend_dtrader XAUUSD,H1: AAVEUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: ADAUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: ALGOUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: APTUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: ARBUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: ATOMUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: AUDUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: AVAXUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: AXSUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: BCHUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: BNBUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: BTCUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: DASHUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: DOGEUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: DOTUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: ETCUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: ETHUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: EURUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: FETUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: FILUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: FTMUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: GBPUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: GRTUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: ICPUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: IOTAUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: LINKUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: LRCUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: LTCUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: MANAUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: MATICUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: NEARUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: NZDUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: SOLUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: SUIUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: TRXUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: UNIUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: USDCAD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: USDCHF
+0	10:35:23.643	trend_dtrader XAUUSD,H1: USDJPY
+0	10:35:23.643	trend_dtrader XAUUSD,H1: USDMXN
+0	10:35:23.643	trend_dtrader XAUUSD,H1: USDZAR
+0	10:35:23.643	trend_dtrader XAUUSD,H1: XAGUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: XAUUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: XBRUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: XNGUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: XRPUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: XTIUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: ZECUSD
+0	10:35:23.643	trend_dtrader XAUUSD,H1: 48
+0	10:35:23.643	trend_dtrader XAUUSD,H1: initialized
+0	10:36:13.894	trend_dtrader XAUUSD,H1: uninit reason 2
+0	10:36:13.894	trend_dtrader XAUUSD,H1: Alert: 2
+0	10:36:15.241	Expert trend_dtrader XAUUSD,H1: removed
+0	10:36:15.320	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	10:36:15.462	trend_dtrader XAUUSD,H1: AAVEUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: ADAUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: ALGOUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: APTUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: ARBUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: ATOMUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: AUDUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: AVAXUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: AXSUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: BCHUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: BNBUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: BTCUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: DASHUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: DOGEUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: DOTUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: ETCUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: ETHUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: EURUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: FETUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: FILUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: FTMUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: GBPUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: GRTUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: ICPUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: IOTAUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: LINKUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: LRCUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: LTCUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: MANAUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: MATICUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: NEARUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: NZDUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: SOLUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: SUIUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: TRXUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: UNIUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: USDCAD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: USDCHF
+0	10:36:15.462	trend_dtrader XAUUSD,H1: USDJPY
+0	10:36:15.462	trend_dtrader XAUUSD,H1: USDMXN
+0	10:36:15.462	trend_dtrader XAUUSD,H1: USDZAR
+0	10:36:15.462	trend_dtrader XAUUSD,H1: XAGUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: XAUUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: XBRUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: XNGUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: XRPUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: XTIUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: ZECUSD
+0	10:36:15.462	trend_dtrader XAUUSD,H1: 48
+0	10:36:15.462	trend_dtrader XAUUSD,H1: initialized
+0	14:31:13.380	trend_dtrader XAUUSD,H1: uninit reason 2
+0	14:31:13.380	trend_dtrader XAUUSD,H1: Alert: 2
+0	14:31:14.029	Expert trend_dtrader XAUUSD,H1: removed
+0	14:31:14.156	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	14:31:14.218	trend_dtrader XAUUSD,H1: AAVEUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: ADAUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: ALGOUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: APTUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: ARBUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: ATOMUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: AUDUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: AVAXUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: AXSUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: BCHUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: BNBUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: BTCUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: DASHUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: DOGEUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: DOTUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: ETCUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: ETHUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: EURUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: FETUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: FILUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: FTMUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: GBPUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: GRTUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: ICPUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: IOTAUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: LINKUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: LRCUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: LTCUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: MANAUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: MATICUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: NEARUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: NZDUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: SOLUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: SUIUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: TRXUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: UNIUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: USDCAD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: USDCHF
+0	14:31:14.218	trend_dtrader XAUUSD,H1: USDJPY
+0	14:31:14.218	trend_dtrader XAUUSD,H1: USDMXN
+0	14:31:14.218	trend_dtrader XAUUSD,H1: USDZAR
+0	14:31:14.218	trend_dtrader XAUUSD,H1: XAGUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: XAUUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: XBRUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: XNGUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: XRPUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: XTIUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: ZECUSD
+0	14:31:14.218	trend_dtrader XAUUSD,H1: 48
+0	14:31:14.218	trend_dtrader XAUUSD,H1: initialized
+0	15:42:18.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:19.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:20.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:21.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:22.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:23.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:24.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:25.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:26.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:27.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:28.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:29.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:30.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:31.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:32.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:33.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:51.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:52.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:53.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:54.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:55.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:56.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:57.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:58.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:42:59.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:00.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:01.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:02.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:03.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:04.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:05.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:06.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:07.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:08.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:09.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:10.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:11.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:12.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:13.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:14.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:15.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:16.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:17.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:18.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:19.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:20.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:21.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:22.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:23.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:24.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:43:25.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:03.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:04.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:05.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:06.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:07.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:08.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:09.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:10.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:11.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:12.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:13.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:14.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:15.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:16.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:17.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:25.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:26.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:27.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:28.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:29.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:30.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:31.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:32.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:33.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:34.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:35.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:36.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:37.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:38.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:39.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:40.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:41.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:42.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:43.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:44.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:45.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:46.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:47.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:48.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:49.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:50.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:51.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:52.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:53.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:54.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:55.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:56.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:57.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:58.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:52:59.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:00.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:01.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:02.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:03.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:04.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:05.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:06.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:07.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:08.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:09.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:10.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:11.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:12.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:13.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:14.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:15.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:16.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:17.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:18.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:19.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:20.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:21.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:22.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:23.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:24.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:25.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:26.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:27.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:28.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:29.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:30.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:31.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:32.733	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:33.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:34.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:35.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:36.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:37.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:38.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:39.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:40.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:41.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:42.540	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:43.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:44.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:45.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:46.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:47.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:48.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:49.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:50.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:51.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:52.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:53.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:54.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:55.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:56.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:57.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:58.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:53:59.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:00.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:01.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:02.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:03.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:04.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:05.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:06.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:07.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:08.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:09.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:10.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:11.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:12.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:13.549	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:14.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:15.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:16.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:17.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:18.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:19.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:20.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:21.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:22.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:23.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:24.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:25.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:26.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:27.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:28.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:29.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:30.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:31.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:32.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:33.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:34.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:35.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:36.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:37.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:38.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:39.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:40.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:41.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:42.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:43.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:44.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:45.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:46.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:47.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:48.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:49.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:50.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:51.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:52.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:53.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:54.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:55.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:56.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:57.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:58.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:54:59.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:00.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:01.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:02.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:03.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:04.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:05.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:06.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:07.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:08.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:09.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:10.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:11.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:12.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:13.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:14.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:15.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:16.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:17.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:18.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:19.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:20.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:21.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:22.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:23.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:24.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:25.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:26.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:27.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:28.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:29.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:30.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:31.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:32.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:33.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:34.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:35.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:36.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:37.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:38.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:39.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:40.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:41.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:42.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:43.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:44.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:45.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:46.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:47.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:48.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:49.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:50.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:51.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:52.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:53.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:54.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:55.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:56.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:57.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:58.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:55:59.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:00.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:01.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:02.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:03.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:04.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:05.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:06.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:07.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:08.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:09.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:10.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:11.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:12.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:13.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:14.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:15.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:16.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:17.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:18.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:19.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:20.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:21.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:22.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:23.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:24.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:25.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:26.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:27.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:28.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:29.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:30.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:31.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:32.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:33.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:34.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:35.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:36.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:37.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:38.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:39.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:40.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:41.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:42.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:43.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:44.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:45.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:46.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:47.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:48.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:49.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:50.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:51.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:52.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:53.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:54.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:55.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:56.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:57.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:58.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:56:59.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:00.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:01.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:02.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:03.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:04.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:05.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:06.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:07.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:08.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:09.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:10.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:11.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:12.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:13.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:14.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:15.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:16.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:17.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:18.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:19.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:20.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:21.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:22.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:23.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:24.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:25.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:26.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:27.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:28.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:29.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:30.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:31.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:32.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:33.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:34.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:35.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:36.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:37.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:38.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:39.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:40.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:41.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:42.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:43.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:44.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:45.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:46.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:47.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:48.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:49.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:50.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:51.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:52.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:53.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:54.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:55.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:56.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:57.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:58.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:57:59.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:00.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:01.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:02.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:03.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:04.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:05.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:06.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:07.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:08.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:09.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:10.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:11.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:12.538	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:13.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:14.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:15.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:16.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:17.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:18.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:19.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:20.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:21.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:22.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:23.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:24.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:25.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:26.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:27.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:28.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:29.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:30.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:31.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:32.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:33.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:34.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:35.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:36.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:37.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:38.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:39.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:40.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:41.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:42.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:43.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:44.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:45.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:46.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:47.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:48.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:49.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:50.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:51.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:52.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:53.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:54.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:55.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:56.547	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:57.547	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:58.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:58:59.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:00.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:01.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:02.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:03.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:04.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:05.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:06.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:07.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:08.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:09.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:10.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:11.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:12.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:13.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:14.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:15.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:16.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:17.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:18.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:19.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:20.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:21.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:22.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:23.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:24.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:25.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:26.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:27.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:28.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:29.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:30.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:31.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:32.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:33.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:34.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:35.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:36.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:37.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:38.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:39.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:40.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:41.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:42.546	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:43.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:44.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:45.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:46.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:47.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:48.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:49.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:50.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:51.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:52.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:53.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:54.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:55.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:56.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:57.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:58.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:59:59.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:00.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:01.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:02.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:03.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:04.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:05.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:06.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:07.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:08.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:09.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:10.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:11.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:12.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:13.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:14.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:15.609	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:16.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:17.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:18.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:19.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:20.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:21.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:22.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:23.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:24.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:25.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:26.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:27.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:28.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:29.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:30.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:31.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:32.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:33.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:34.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:35.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:36.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:37.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:38.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:39.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:40.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:41.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:42.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:43.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:44.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:45.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:46.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:47.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:48.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:49.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:50.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:51.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:52.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:53.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:54.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:55.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:56.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:57.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:58.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:00:59.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:00.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:01.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:02.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:03.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:04.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:05.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:06.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:07.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:08.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:09.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:10.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:11.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:12.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:13.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:14.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:15.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:16.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:17.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:18.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:19.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:20.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:21.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:22.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:23.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:24.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:25.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:26.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:27.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:28.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:29.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:30.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:31.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:32.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:33.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:34.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:35.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:36.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:37.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:38.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:39.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:40.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:41.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:42.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:43.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:44.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:45.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:46.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:47.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:48.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:49.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:50.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:51.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:52.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:53.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:54.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:55.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:56.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:57.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:58.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:01:59.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:00.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:01.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:02.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:03.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:04.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:05.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:06.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:07.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:08.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:09.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:10.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:11.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:12.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:13.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:14.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:15.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:16.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:17.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:18.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:19.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:20.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:21.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:22.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:23.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:24.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:25.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:26.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:27.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:28.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:29.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:30.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:31.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:32.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:33.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:34.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:35.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:36.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:37.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:38.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:39.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:40.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:41.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:42.543	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:43.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:44.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:45.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:46.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:47.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:48.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:49.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:50.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:51.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:52.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:53.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:54.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:55.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:56.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:57.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:58.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:02:59.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:00.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:01.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:02.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:03.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:04.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:05.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:06.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:07.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:08.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:09.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:10.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:11.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:12.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:13.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:14.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:15.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:16.537	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:17.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:18.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:19.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:20.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:21.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:22.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:23.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:24.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:25.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:26.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:27.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:28.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:29.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:30.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:31.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:32.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:33.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:34.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:35.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:36.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:37.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:38.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:39.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:40.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:41.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:42.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:43.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:44.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:45.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:46.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:47.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:48.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:49.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:50.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:51.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:52.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:53.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:54.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:55.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:56.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:57.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:58.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:03:59.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:00.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:01.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:02.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:03.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:04.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:05.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:06.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:07.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:08.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:09.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:10.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:11.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:12.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:13.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:14.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:15.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:16.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:17.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:18.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:19.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:20.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:21.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:22.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:23.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:24.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:25.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:26.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:27.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:28.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:29.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:30.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:31.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:32.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:33.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:34.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:35.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:36.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:37.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:38.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:39.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:40.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:41.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:42.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:43.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:44.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:45.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:46.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:47.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:48.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:49.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:50.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:51.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:52.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:53.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:54.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:55.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:56.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:57.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:58.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:04:59.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:00.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:01.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:02.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:03.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:04.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:05.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:06.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:07.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:08.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:09.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:10.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:11.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:12.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:13.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:14.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:15.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:16.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:17.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:18.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:19.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:20.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:21.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:22.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:23.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:24.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:25.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:26.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:27.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:28.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:29.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:30.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:31.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:32.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:33.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:34.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:35.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:36.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:37.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:38.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:39.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:40.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:41.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:42.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:43.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:44.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:45.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:46.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:47.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:48.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:49.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:50.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:51.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:52.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:53.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:54.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:55.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:56.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:57.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:58.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:05:59.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:00.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:01.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:02.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:03.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:04.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:05.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:06.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:07.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:08.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:09.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:10.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:11.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:12.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:13.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:14.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:15.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:16.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:17.541	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:18.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:19.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:20.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:21.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:22.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:23.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:24.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:25.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:26.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:27.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:28.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:29.703	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:30.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:31.550	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:32.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:33.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:34.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:35.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:36.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:37.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:38.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:39.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:40.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:41.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:42.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:43.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:44.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:45.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:46.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:47.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:48.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:49.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:50.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:51.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:52.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:53.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:54.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:55.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:56.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:57.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:58.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:06:59.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:00.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:01.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:02.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:03.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:04.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:05.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:06.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:07.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:08.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:09.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:10.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:11.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:12.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:13.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:14.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:15.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:16.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:17.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:18.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:19.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:20.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:21.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:22.535	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:23.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:24.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:25.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:26.529	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:27.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:28.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:29.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:30.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:31.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:32.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:33.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:34.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:35.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:36.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:37.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:38.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:39.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:07:42.543	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:07.550	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:08.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:09.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:10.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:11.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:12.545	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:13.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:14.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:15.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:16.534	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:17.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:18.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:19.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:20.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:21.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:22.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:23.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:24.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:25.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:26.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:27.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:28.521	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:29.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:30.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:31.527	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:32.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:33.530	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:34.532	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:35.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:36.519	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:37.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:38.523	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:39.525	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:40.526	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:41.528	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:42.531	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:43.533	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:44.520	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:45.522	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:08:46.524	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:22:54.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:22:55.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:22:56.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:22:57.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:22:58.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:22:59.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:00.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:01.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:02.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:03.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:04.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:05.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:06.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:07.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:08.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:09.550	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:10.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:11.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:12.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:13.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:14.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:15.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:16.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:17.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:18.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:19.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:20.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:21.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:22.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:23.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:24.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:25.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:26.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:27.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:28.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:29.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:30.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:31.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:32.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:33.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:34.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:35.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:36.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:37.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:38.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:39.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:40.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:41.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:42.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:43.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:44.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:45.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:46.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:47.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:48.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:49.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:50.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:51.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:52.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:53.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:54.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:55.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:56.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:57.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:58.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:23:59.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:00.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:01.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:02.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:03.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:04.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:05.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:06.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:07.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:08.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:09.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:10.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:11.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:12.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:13.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:14.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:15.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:16.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:17.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:18.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:19.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:20.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:21.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:22.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:23.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:24.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:25.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:26.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:27.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:28.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:29.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:30.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:31.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:32.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:33.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:34.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:35.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:36.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:37.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:38.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:39.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:40.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:41.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:42.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:43.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:44.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:45.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:46.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:47.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:48.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:49.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:50.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:51.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:52.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:53.550	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:54.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:55.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:56.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:57.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:58.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:24:59.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:00.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:01.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:02.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:03.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:04.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:05.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:06.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:07.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:08.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:09.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:10.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:11.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:12.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:13.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:14.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:15.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:16.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:17.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:18.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:19.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:20.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:21.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:22.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:23.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:24.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:25.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:26.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:27.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:28.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:29.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:30.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:31.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:32.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:33.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:34.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:35.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:36.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:37.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:38.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:39.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:40.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:41.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:42.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:43.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:44.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:45.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:46.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:47.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:48.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:49.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:50.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:51.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:52.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:53.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:54.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:55.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:56.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:57.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:58.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:25:59.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:00.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:01.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:02.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:03.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:04.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:05.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:06.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:07.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:08.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:09.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:10.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:11.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:12.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:13.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:14.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:15.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:16.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:17.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:18.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:19.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:20.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:21.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:22.550	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:23.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:24.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:25.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:26.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:27.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:28.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:29.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:30.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:31.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:32.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:33.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:34.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:35.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:36.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:37.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:38.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:39.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:40.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:41.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:42.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:43.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:44.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:45.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:46.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:47.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:48.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:49.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:50.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:51.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:52.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:53.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:54.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:55.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:56.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:57.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:58.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:26:59.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:00.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:01.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:02.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:03.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:04.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:05.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:06.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:07.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:08.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:09.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:10.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:11.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:12.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:13.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:14.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:15.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:16.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:17.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:18.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:19.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:20.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:21.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:22.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:23.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:24.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:25.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:26.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:27.554	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:28.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:29.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:30.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:31.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:32.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:33.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:34.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:35.552	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:36.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:37.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:38.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:39.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:40.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:41.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:42.596	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:43.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:44.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:45.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:46.557	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:47.559	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:48.561	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:49.563	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:50.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:51.565	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:52.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:53.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:54.556	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:55.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:56.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:57.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:58.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:27:59.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:00.551	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:01.553	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:02.555	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:03.558	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:04.560	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:05.562	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:06.564	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:07.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:08.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:09.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:10.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:11.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:12.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:13.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:14.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:15.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:16.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:17.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:18.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:19.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:20.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:21.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:22.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:23.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:24.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:25.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:26.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:27.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:28.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:29.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:30.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:31.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:32.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:33.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:34.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:35.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:36.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:37.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:38.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:39.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:40.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:41.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:42.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:43.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:44.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:45.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:46.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:47.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:48.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:49.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:50.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:51.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:52.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:53.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:54.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:55.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:56.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:57.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:58.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:28:59.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:00.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:01.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:02.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:03.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:04.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:05.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:06.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:07.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:08.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:09.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:10.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:11.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:12.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:13.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:14.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:15.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:16.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:17.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:18.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:19.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:20.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:21.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:22.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:23.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:24.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:25.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:26.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:27.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:28.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:29.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:30.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:31.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:32.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:33.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:34.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:35.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:36.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:37.589	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:38.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:39.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:40.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:41.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:42.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:43.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:44.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:45.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:46.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:47.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:48.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:49.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:50.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:51.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:52.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:53.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:54.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:55.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:56.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:57.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:58.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:29:59.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:00.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:01.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:02.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:03.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:04.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:05.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:06.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:07.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:08.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:09.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:10.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:11.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:12.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:13.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:14.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:15.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:16.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:17.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:18.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:19.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:20.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:21.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:22.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:23.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:24.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:25.644	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:26.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:27.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:28.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:29.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:30.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:31.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:32.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:33.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:34.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:35.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:36.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:37.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:38.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:39.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:40.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:41.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:42.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:43.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:44.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:45.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:46.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:47.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:48.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:49.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:50.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:51.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:52.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:53.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:54.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:55.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:56.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:57.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:58.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:30:59.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:00.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:01.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:02.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:03.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:04.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:05.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:06.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:07.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:08.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:09.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:10.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:11.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:12.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:13.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:14.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:15.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:16.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:17.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:18.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:19.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:20.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:21.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:22.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:23.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:24.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:25.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:26.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:27.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:28.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:29.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:30.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:31.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:32.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:33.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:34.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:35.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:36.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:37.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:38.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:39.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:40.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:41.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:42.610	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:43.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:44.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:45.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:46.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:47.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:48.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:49.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:50.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:51.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:52.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:53.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:54.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:55.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:56.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:57.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:58.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:31:59.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:00.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:01.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:02.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:03.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:04.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:05.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:06.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:07.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:08.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:09.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:10.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:11.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:12.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:13.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:14.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:15.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:16.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:17.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:18.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:19.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:20.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:21.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:22.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:23.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:24.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:25.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:26.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:27.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:28.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:29.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:30.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:31.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:32.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:33.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:34.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:35.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:36.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:37.606	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:38.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:39.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:40.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:41.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:42.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:43.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:44.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:45.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:46.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:47.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:48.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:49.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:50.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:51.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:52.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:53.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:54.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:55.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:56.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:57.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:58.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:32:59.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:00.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:01.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:02.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:03.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:04.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:05.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:06.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:07.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:08.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:09.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:10.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:11.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:12.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:13.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:14.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:15.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:16.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:17.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:18.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:19.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:20.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:21.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:22.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:23.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:24.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:25.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:26.655	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:27.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:28.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:29.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:30.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:31.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:32.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:33.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:34.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:35.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:36.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:37.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:38.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:39.595	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:40.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:41.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:42.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:43.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:44.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:45.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:46.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:47.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:48.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:49.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:50.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:51.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:52.594	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:53.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:54.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:55.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:56.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:57.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:58.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:33:59.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:00.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:01.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:02.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:03.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:04.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:05.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:06.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:07.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:08.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:09.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:10.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:11.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:12.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:13.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:14.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:15.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:16.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:17.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:18.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:19.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:20.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:21.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:22.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:23.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:24.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:25.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:26.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:27.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:28.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:29.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:30.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:31.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:32.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:33.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:34.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:35.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:36.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:37.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:38.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:39.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:40.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:41.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:42.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:43.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:44.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:45.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:46.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:47.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:48.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:49.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:50.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:51.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:52.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:53.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:54.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:55.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:56.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:57.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:58.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:34:59.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:00.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:01.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:02.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:03.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:04.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:05.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:06.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:07.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:08.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:09.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:10.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:11.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:12.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:13.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:14.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:15.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:16.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:17.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:18.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:19.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:20.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:21.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:22.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:23.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:24.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:25.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:26.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:27.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:28.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:29.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:30.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:31.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:32.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:33.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:34.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:35.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:36.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:37.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:38.598	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:39.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:40.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:41.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:42.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:43.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:44.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:45.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:46.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:47.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:48.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:49.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:50.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:51.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:52.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:53.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:54.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:55.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:56.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:57.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:58.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:35:59.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:00.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:01.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:02.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:03.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:04.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:05.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:06.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:07.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:08.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:09.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:10.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:11.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:12.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:13.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:14.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:15.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:16.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:17.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:18.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:19.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:20.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:21.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:22.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:23.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:24.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:25.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:26.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:27.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:28.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:29.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:30.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:31.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:32.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:33.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:34.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:35.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:36.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:37.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:38.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:39.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:40.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:41.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:42.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:43.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:44.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:45.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:46.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:47.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:48.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:49.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:50.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:51.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:52.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:53.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:54.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:55.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:56.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:57.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:58.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:36:59.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:00.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:01.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:02.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:03.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:04.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:05.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:06.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:07.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:08.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:09.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:10.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:11.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:12.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:13.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:14.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:15.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:16.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:17.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:18.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:19.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:20.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:21.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:22.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:23.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:24.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:25.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:26.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:27.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:28.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:29.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:30.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:31.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:32.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:33.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:34.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:35.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:36.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:37.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:38.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:39.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:40.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:41.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:42.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:43.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:44.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:45.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:46.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:47.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:48.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:49.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:50.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:51.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:52.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:53.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:54.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:55.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:56.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:57.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:58.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:37:59.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:00.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:01.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:02.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:03.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:04.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:05.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:06.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:07.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:08.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:09.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:10.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:11.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:12.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:13.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:14.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:15.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:16.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:17.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:18.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:19.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:20.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:21.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:22.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:23.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:24.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:25.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:26.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:27.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:28.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:29.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:30.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:31.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:32.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:33.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:34.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:35.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:36.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:37.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:38.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:39.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:40.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:41.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:42.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:43.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:44.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:45.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:46.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:47.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:48.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:49.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:50.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:51.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:52.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:53.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:54.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:55.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:56.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:57.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:58.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:38:59.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:00.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:01.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:02.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:03.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:04.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:05.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:06.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:07.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:08.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:09.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:10.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:11.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:12.588	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:13.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:14.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:15.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:16.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:17.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:18.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:19.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:20.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:21.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:22.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:23.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:24.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:25.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:26.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:27.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:28.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:29.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:30.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:31.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:32.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:33.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:34.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:35.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:36.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:37.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:38.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:39.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:40.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:41.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:42.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:43.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:44.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:45.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:46.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:47.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:48.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:49.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:50.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:51.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:52.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:53.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:54.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:55.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:56.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:57.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:58.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:39:59.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:00.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:01.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:02.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:03.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:04.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:05.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:06.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:07.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:08.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:09.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:10.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:11.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:12.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:13.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:14.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:15.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:16.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:17.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:18.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:19.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:20.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:21.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:22.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:23.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:24.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:25.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:26.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:27.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:28.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:29.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:30.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:31.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:32.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:33.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:34.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:35.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:36.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:37.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:38.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:39.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:40.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:41.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:42.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:43.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:44.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:45.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:46.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:47.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:48.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:49.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:50.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:51.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:52.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:53.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:54.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:55.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:56.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:57.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:58.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:40:59.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:00.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:01.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:02.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:03.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:04.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:05.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:06.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:07.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:08.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:09.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:10.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:11.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:12.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:13.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:14.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:15.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:16.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:17.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:18.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:19.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:20.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:21.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:22.603	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:23.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:24.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:25.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:26.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:27.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:28.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:29.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:30.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:31.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:32.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:33.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:34.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:35.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:36.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:37.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:38.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:39.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:40.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:41.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:42.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:43.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:44.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:45.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:46.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:47.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:48.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:49.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:50.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:51.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:52.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:53.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:54.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:55.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:56.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:57.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:58.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:41:59.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:00.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:01.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:02.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:03.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:04.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:05.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:06.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:07.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:08.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:09.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:10.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:11.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:12.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:13.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:14.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:15.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:16.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:17.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:18.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:19.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:20.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:21.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:22.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:23.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:24.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:25.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:26.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:27.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:28.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:29.613	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:30.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:31.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:32.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:33.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:34.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:35.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:36.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:37.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:38.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:39.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:40.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:41.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:42.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:43.597	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:44.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:45.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:46.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:47.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:48.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:49.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:50.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:51.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:52.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:53.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:54.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:55.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:56.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:57.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:58.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:42:59.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:00.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:01.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:02.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:03.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:04.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:05.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:06.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:07.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:08.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:09.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:10.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:11.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:12.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:13.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:14.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:15.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:16.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:17.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:18.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:19.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:20.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:21.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:22.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:23.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:24.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:25.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:26.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:27.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:28.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:29.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:30.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:31.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:32.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:33.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:34.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:35.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:36.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:37.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:38.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:39.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:40.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:41.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:42.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:43.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:44.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:45.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:46.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:47.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:48.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:49.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:50.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:51.568	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:52.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:53.573	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:54.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:55.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:56.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:57.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:58.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:43:59.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:00.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:01.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:02.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:03.581	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:04.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:05.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:06.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:07.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:08.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:09.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:10.566	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:11.569	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:12.571	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:13.574	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:14.576	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:15.578	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:16.580	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:17.567	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:18.570	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:19.572	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:20.575	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:21.577	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:22.579	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:23.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:24.584	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:25.586	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:26.588	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:27.592	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:28.594	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:29.597	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:30.582	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:31.585	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:32.587	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:33.590	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:34.592	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:35.595	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:36.597	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:37.584	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:38.585	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:39.587	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:40.589	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:41.592	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:42.626	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:43.597	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:44.599	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:45.586	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:46.588	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:47.591	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:48.593	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:49.627	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:50.609	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:51.610	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:52.612	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:53.599	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:54.609	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:55.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:56.613	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:57.600	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:58.601	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:44:59.603	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:00.605	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:01.608	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:02.610	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:03.597	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:04.599	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:05.602	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:06.604	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:07.607	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:08.609	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:09.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:10.597	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:11.600	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:12.603	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:13.605	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:14.608	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:15.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:16.598	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:17.599	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:18.601	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:19.604	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:20.606	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:21.609	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:22.610	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:23.598	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:24.600	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:25.602	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:26.604	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:27.607	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:28.609	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:29.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:30.613	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:31.601	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:32.603	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:33.605	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:34.607	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:35.610	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:36.612	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:37.599	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:38.601	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:39.604	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:40.606	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:41.608	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:42.610	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:43.597	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:44.599	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:45.602	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:46.603	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:47.606	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:48.608	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:49.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:50.613	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:51.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:52.598	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:53.600	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:54.602	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:55.605	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:56.607	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:57.609	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:58.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:45:59.598	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:00.600	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:01.603	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:02.605	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:03.608	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:04.609	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:05.612	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:06.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:07.597	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:08.599	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:09.602	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:10.604	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:11.607	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:12.609	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:13.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:14.613	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:15.599	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:16.601	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:17.603	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:18.606	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:19.608	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:20.611	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:21.613	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:22.615	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:23.617	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:24.619	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:25.621	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:26.624	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:27.736	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:28.614	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:29.617	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:30.619	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:31.621	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:32.623	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:33.626	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:34.628	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:35.615	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:36.618	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:37.620	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:38.622	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:39.624	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:40.626	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:41.628	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:42.631	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:43.618	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:44.620	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:45.622	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:46.624	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:47.626	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:48.613	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:49.616	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:50.618	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:51.620	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:52.623	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:53.624	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:54.625	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:55.628	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:56.614	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:57.616	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:58.618	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:46:59.621	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:47:00.623	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:47:01.626	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:47:02.628	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:47:03.614	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	16:47:04.615	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+2	16:47:05.789	trend_dtrader XAUUSD,H1: modify #479069779 buy 0.30 AVAXUSD at 27.237 sl: 28.290 tp: 29.342 ok
+0	16:47:05.789	trend_dtrader XAUUSD,H1: Alert: AVAXUSD has been assigned a breakeven 28.2895
+0	23:05:18.982	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	23:05:19.984	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	23:05:20.987	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	23:05:21.974	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	23:05:22.976	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	23:05:23.980	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection
+0	23:05:24.982	trend_dtrader XAUUSD,H1: Alert: Please check your internet connection

@@ -23,7 +23,7 @@ enum trade_type{
    dont_trade_with_breakeven = 1,// Dont trade with breakeven
 
 };
-extern trade_type tt = dont_trade_with_breakeven;
+extern trade_type tt = trade_with_breakeven;
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
