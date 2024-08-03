@@ -1,0 +1,196 @@
+0	15:19:48.105	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	15:19:48.106	trend_dtrader XAUUSD,H1 inputs: mdesc=DBot FX; lot_size=0.3; max_trade=100000000; close_trade=false; tt=0; 
+0	15:20:00.847	trend_dtrader XAUUSD,H1: AAVEUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: ADAUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: ALGOUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: APTUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: ARBUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: ATOMUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: AUDUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: AVAXUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: AXSUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: BCHUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: BNBUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: BTCUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: DASHUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: DOGEUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: DOTUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: ETCUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: ETHUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: EURUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: FETUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: FILUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: FTMUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: GBPUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: GRTUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: ICPUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: IOTAUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: LINKUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: LRCUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: LTCUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: MANAUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: MATICUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: NEARUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: NZDUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: SOLUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: SUIUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: TRXUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: UNIUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: USDCAD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: USDCHF
+0	15:20:00.847	trend_dtrader XAUUSD,H1: USDJPY
+0	15:20:00.847	trend_dtrader XAUUSD,H1: USDMXN
+0	15:20:00.847	trend_dtrader XAUUSD,H1: USDZAR
+0	15:20:00.847	trend_dtrader XAUUSD,H1: XAGUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: XAUUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: XBRUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: XNGUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: XRPUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: XTIUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: ZECUSD
+0	15:20:00.847	trend_dtrader XAUUSD,H1: 48
+0	15:20:00.847	trend_dtrader XAUUSD,H1: initialized
+0	15:20:09.022	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:21:13.877	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:21:30.080	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:22:17.037	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:22:47.507	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:23:04.749	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:23:34.097	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:23:51.571	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:24:21.118	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:24:38.166	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:25:25.162	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:25:55.097	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:26:12.078	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:26:42.218	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:26:59.352	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:27:29.141	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:27:46.161	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:28:16.156	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:28:33.209	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:29:03.184	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:29:20.156	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:29:50.220	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:30:07.194	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:30:37.181	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:30:54.204	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:31:24.209	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:31:31.012	trend_dtrader XAUUSD,H1: Failed modifying XBRUSD
+0	15:31:32.012	trend_dtrader XAUUSD,H1: Failed modifying XNGUSD
+0	15:31:33.014	trend_dtrader XAUUSD,H1: Failed modifying XRPUSD
+0	15:31:34.050	trend_dtrader XAUUSD,H1: Failed modifying XTIUSD
+0	15:31:35.019	trend_dtrader XAUUSD,H1: Failed modifying AAVEUSD
+0	15:31:36.082	trend_dtrader XAUUSD,H1: Failed modifying ADAUSD
+0	15:31:37.008	trend_dtrader XAUUSD,H1: Failed modifying ALGOUSD
+0	15:31:38.026	trend_dtrader XAUUSD,H1: Failed modifying APTUSD
+0	15:31:39.006	trend_dtrader XAUUSD,H1: Failed modifying ARBUSD
+0	15:31:40.003	trend_dtrader XAUUSD,H1: Failed modifying ATOMUSD
+0	15:31:41.219	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:31:41.219	trend_dtrader XAUUSD,H1: Failed modifying AUDUSD
+0	15:31:42.016	trend_dtrader XAUUSD,H1: Failed modifying AVAXUSD
+0	15:31:43.007	trend_dtrader XAUUSD,H1: Failed modifying AXSUSD
+0	15:31:44.009	trend_dtrader XAUUSD,H1: Failed modifying BCHUSD
+0	15:31:45.010	trend_dtrader XAUUSD,H1: Failed modifying BNBUSD
+0	15:31:46.016	trend_dtrader XAUUSD,H1: Failed modifying BTCUSD
+0	15:31:47.012	trend_dtrader XAUUSD,H1: Failed modifying DASHUSD
+0	15:31:48.029	trend_dtrader XAUUSD,H1: Failed modifying DOGEUSD
+0	15:31:49.003	trend_dtrader XAUUSD,H1: Failed modifying DOTUSD
+0	15:31:50.004	trend_dtrader XAUUSD,H1: Failed modifying ETCUSD
+0	15:32:28.230	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:32:57.004	trend_dtrader XAUUSD,H1: Failed modifying UNIUSD
+0	15:32:58.012	trend_dtrader XAUUSD,H1: Failed modifying USDCAD
+0	15:32:59.015	trend_dtrader XAUUSD,H1: Failed modifying USDCHF
+0	15:33:00.015	trend_dtrader XAUUSD,H1: Failed modifying USDJPY
+0	15:33:01.003	trend_dtrader XAUUSD,H1: Failed modifying USDMXN
+0	15:33:02.004	trend_dtrader XAUUSD,H1: Failed modifying USDZAR
+0	15:33:03.010	trend_dtrader XAUUSD,H1: Failed modifying XAGUSD
+0	15:33:04.012	trend_dtrader XAUUSD,H1: Failed modifying XAUUSD
+0	15:33:05.014	trend_dtrader XAUUSD,H1: Failed modifying XBRUSD
+0	15:33:06.017	trend_dtrader XAUUSD,H1: Failed modifying XNGUSD
+0	15:33:07.021	trend_dtrader XAUUSD,H1: Failed modifying XRPUSD
+0	15:33:08.017	trend_dtrader XAUUSD,H1: Failed modifying XTIUSD
+0	15:33:09.032	trend_dtrader XAUUSD,H1: Failed modifying AAVEUSD
+0	15:33:10.025	trend_dtrader XAUUSD,H1: Failed modifying ADAUSD
+0	15:33:11.025	trend_dtrader XAUUSD,H1: Failed modifying ALGOUSD
+0	15:33:12.032	trend_dtrader XAUUSD,H1: Failed modifying APTUSD
+0	15:33:13.101	trend_dtrader XAUUSD,H1: Failed modifying ARBUSD
+0	15:33:14.035	trend_dtrader XAUUSD,H1: Failed modifying ATOMUSD
+0	15:33:15.240	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:33:15.240	trend_dtrader XAUUSD,H1: Failed modifying AUDUSD
+0	15:33:16.039	trend_dtrader XAUUSD,H1: Failed modifying AVAXUSD
+0	15:33:17.058	trend_dtrader XAUUSD,H1: Failed modifying AXSUSD
+0	15:33:18.037	trend_dtrader XAUUSD,H1: Failed modifying BCHUSD
+0	15:33:19.039	trend_dtrader XAUUSD,H1: Failed modifying BNBUSD
+0	15:33:20.046	trend_dtrader XAUUSD,H1: Failed modifying BTCUSD
+0	15:33:21.046	trend_dtrader XAUUSD,H1: Failed modifying DASHUSD
+0	15:33:22.045	trend_dtrader XAUUSD,H1: Failed modifying DOGEUSD
+0	15:33:23.045	trend_dtrader XAUUSD,H1: Failed modifying DOTUSD
+0	15:33:24.050	trend_dtrader XAUUSD,H1: Failed modifying ETCUSD
+0	15:33:25.039	trend_dtrader XAUUSD,H1: Failed modifying ETHUSD
+0	15:33:26.044	trend_dtrader XAUUSD,H1: Failed modifying EURUSD
+0	15:33:27.044	trend_dtrader XAUUSD,H1: Failed modifying FETUSD
+0	15:33:28.039	trend_dtrader XAUUSD,H1: Failed modifying FILUSD
+0	15:33:29.046	trend_dtrader XAUUSD,H1: Failed modifying FTMUSD
+0	15:33:30.039	trend_dtrader XAUUSD,H1: Failed modifying GBPUSD
+0	15:33:31.044	trend_dtrader XAUUSD,H1: Failed modifying GRTUSD
+0	15:33:32.046	trend_dtrader XAUUSD,H1: Failed modifying ICPUSD
+0	15:33:33.033	trend_dtrader XAUUSD,H1: Failed modifying IOTAUSD
+0	15:33:34.067	trend_dtrader XAUUSD,H1: Failed modifying LINKUSD
+0	15:33:36.039	trend_dtrader XAUUSD,H1: Failed modifying LTCUSD
+0	15:33:37.037	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:33:38.045	trend_dtrader XAUUSD,H1: Failed modifying MATICUSD
+0	15:33:39.031	trend_dtrader XAUUSD,H1: Failed modifying NEARUSD
+0	15:33:45.282	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:33:56.055	trend_dtrader XAUUSD,H1: Failed modifying AAVEUSD
+0	15:33:58.062	trend_dtrader XAUUSD,H1: Failed modifying ALGOUSD
+0	15:34:00.066	trend_dtrader XAUUSD,H1: Failed modifying ARBUSD
+0	15:34:02.286	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:34:19.070	trend_dtrader XAUUSD,H1: Failed modifying ICPUSD
+0	15:34:20.076	trend_dtrader XAUUSD,H1: Failed modifying IOTAUSD
+0	15:34:21.064	trend_dtrader XAUUSD,H1: Failed modifying LINKUSD
+0	15:34:22.071	trend_dtrader XAUUSD,H1: Failed modifying LRCUSD
+0	15:34:23.069	trend_dtrader XAUUSD,H1: Failed modifying LTCUSD
+0	15:34:24.064	trend_dtrader XAUUSD,H1: Failed modifying MANAUSD
+0	15:34:25.068	trend_dtrader XAUUSD,H1: Failed modifying MATICUSD
+0	15:34:26.070	trend_dtrader XAUUSD,H1: Failed modifying NEARUSD
+0	15:34:27.069	trend_dtrader XAUUSD,H1: Failed modifying NZDUSD
+0	15:34:28.068	trend_dtrader XAUUSD,H1: Failed modifying SOLUSD
+0	15:34:29.068	trend_dtrader XAUUSD,H1: Failed modifying SUIUSD
+0	15:34:30.067	trend_dtrader XAUUSD,H1: Failed modifying TRXUSD
+0	15:34:31.070	trend_dtrader XAUUSD,H1: Failed modifying UNIUSD
+0	15:34:32.267	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:34:36.079	trend_dtrader XAUUSD,H1: Failed modifying USDZAR
+0	15:34:44.066	trend_dtrader XAUUSD,H1: Failed modifying ADAUSD
+0	15:34:45.067	trend_dtrader XAUUSD,H1: Failed modifying ALGOUSD
+0	15:34:46.068	trend_dtrader XAUUSD,H1: Failed modifying APTUSD
+0	15:34:47.066	trend_dtrader XAUUSD,H1: Failed modifying ARBUSD
+0	15:34:48.069	trend_dtrader XAUUSD,H1: Failed modifying ATOMUSD
+0	15:34:49.455	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:34:49.455	trend_dtrader XAUUSD,H1: Failed modifying AUDUSD
+0	15:34:50.078	trend_dtrader XAUUSD,H1: Failed modifying AVAXUSD
+0	15:34:51.073	trend_dtrader XAUUSD,H1: Failed modifying AXSUSD
+0	15:34:52.066	trend_dtrader XAUUSD,H1: Failed modifying BCHUSD
+0	15:34:53.071	trend_dtrader XAUUSD,H1: Failed modifying BNBUSD
+0	15:34:54.075	trend_dtrader XAUUSD,H1: Failed modifying BTCUSD
+0	15:34:55.064	trend_dtrader XAUUSD,H1: Failed modifying DASHUSD
+0	15:34:56.069	trend_dtrader XAUUSD,H1: Failed modifying DOGEUSD
+0	15:34:57.070	trend_dtrader XAUUSD,H1: Failed modifying DOTUSD
+0	15:34:58.076	trend_dtrader XAUUSD,H1: Failed modifying ETCUSD
+0	15:34:59.077	trend_dtrader XAUUSD,H1: Failed modifying ETHUSD
+0	15:35:00.063	trend_dtrader XAUUSD,H1: Failed modifying EURUSD
+0	15:35:01.067	trend_dtrader XAUUSD,H1: Failed modifying FETUSD
+0	15:35:02.066	trend_dtrader XAUUSD,H1: Failed modifying FILUSD
+0	15:35:03.075	trend_dtrader XAUUSD,H1: Failed modifying FTMUSD
+0	15:36:15.064	trend_dtrader XAUUSD,H1: Failed modifying XRPUSD
+0	15:40:01.315	trend_dtrader XAUUSD,H1: Alert: Failed USDCAD
+0	15:43:27.901	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:44:13.314	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:45:00.337	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:45:47.581	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:46:34.351	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:47:21.394	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:48:08.394	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:48:55.305	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:49:42.318	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD
+0	15:50:29.312	trend_dtrader XAUUSD,H1: Alert: Failed AUDUSD

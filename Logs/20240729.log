@@ -1,0 +1,68 @@
+0	09:08:37.726	Expert trend_dtrader XAUUSD,H1: loaded successfully
+0	09:08:47.665	trend_dtrader XAUUSD,H1 inputs: mdesc=DBot FX; lot_size=0.3; max_trade=100000000; close_trade=false; tt=0; 
+0	09:08:47.840	trend_dtrader XAUUSD,H1: AAVEUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: ADAUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: ALGOUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: APTUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: ARBUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: ATOMUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: AUDUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: AVAXUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: AXSUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: BCHUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: BNBUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: BTCUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: DASHUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: DOGEUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: DOTUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: ETCUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: ETHUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: EURUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: FETUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: FILUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: FTMUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: GBPUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: GRTUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: ICPUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: IOTAUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: LINKUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: LRCUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: LTCUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: MANAUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: MATICUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: NEARUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: NZDUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: SOLUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: SUIUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: TRXUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: UNIUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: USDCAD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: USDCHF
+0	09:08:47.840	trend_dtrader XAUUSD,H1: USDJPY
+0	09:08:47.840	trend_dtrader XAUUSD,H1: USDMXN
+0	09:08:47.840	trend_dtrader XAUUSD,H1: USDZAR
+0	09:08:47.840	trend_dtrader XAUUSD,H1: XAGUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: XAUUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: XBRUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: XNGUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: XRPUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: XTIUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: ZECUSD
+0	09:08:47.840	trend_dtrader XAUUSD,H1: 48
+0	09:08:47.840	trend_dtrader XAUUSD,H1: initialized
+2	09:09:11.232	trend_dtrader XAUUSD,H1: open #480644811 sell 0.30 GBPUSD at 1.28209 sl: 1.28803 tp: 1.27021 ok
+0	09:09:11.232	trend_dtrader XAUUSD,H1: Alert: GBPUSD Ordered Successfully
+2	10:00:33.174	trend_dtrader XAUUSD,H1: open #480662232 sell 0.30 EURUSD at 1.08310 sl: 1.08720 tp: 1.07493 ok
+0	10:00:33.174	trend_dtrader XAUUSD,H1: Alert: EURUSD Ordered Successfully
+2	11:16:05.072	trend_dtrader XAUUSD,H1: open #480687456 buy 0.30 BTCUSD at 69430.83 sl: 66986.97 tp: 70695.72 ok
+0	11:16:05.073	trend_dtrader XAUUSD,H1: Alert: BTCUSD Ordered Successfully
+2	13:15:52.002	trend_dtrader XAUUSD,H1: open #480727645 sell 0.30 ICPUSD at 9.384 sl: 10.066 tp: 8.017 ok
+0	13:15:52.002	trend_dtrader XAUUSD,H1: Alert: ICPUSD Ordered Successfully
+2	14:00:11.137	trend_dtrader XAUUSD,H1: open #480744729 buy 0.30 USDZAR at 18.48660 sl: 18.29382 tp: 18.58538 ok
+0	14:00:11.137	trend_dtrader XAUUSD,H1: Alert: USDZAR Ordered Successfully
+2	14:00:14.561	trend_dtrader XAUUSD,H1: open #480744766 sell 0.30 XBRUSD at 79.92 sl: 81.56 tp: 77.11 ok
+0	14:00:14.577	trend_dtrader XAUUSD,H1: Alert: XBRUSD Ordered Successfully
+2	14:00:20.360	trend_dtrader XAUUSD,H1: open #480744813 sell 0.30 XTIUSD at 76.41 sl: 78.16 tp: 72.90 ok
+0	14:00:20.360	trend_dtrader XAUUSD,H1: Alert: XTIUSD Ordered Successfully
+2	15:49:25.351	trend_dtrader XAUUSD,H1: open #480792069 sell 0.30 APTUSD at 6.8303 sl: 7.2424 tp: 6.0060 ok
+0	15:49:25.351	trend_dtrader XAUUSD,H1: Alert: APTUSD Ordered Successfully
