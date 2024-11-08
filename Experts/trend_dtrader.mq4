@@ -243,7 +243,7 @@ void market_order(string market,ENUM_ORDER_TYPE order){
       if(order == OP_BUY){
          sl = cp - atr;
          tp = (tp_calculator(market,order) != 0) ? tp_calculator(market,order) : cp + (atr * 2);
-         tp = (tp > cp + (atr * 2)) ? cp + (atr * 2) : tp;
+         tp = (tp > (cp + (atr * 2))) ? cp + (atr * 2) : tp;
          if(MathAbs(tp_calculator(market,order) - cp ) > 0.001){
             int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
             if(t != -1){
@@ -256,7 +256,7 @@ void market_order(string market,ENUM_ORDER_TYPE order){
       else if(order == OP_SELL){
          sl = cp + atr;
          tp =(tp_calculator(market,order) != 0) ? tp_calculator(market,order) : cp - (atr * 2);
-         tp = (tp < cp - (atr * 2)) ? cp - (atr * 2) : tp;
+         tp = (tp < (cp - (atr * 2))) ? cp - (atr * 2) : tp;
          if(MathAbs(tp_calculator(market,order) - cp ) > 0.001){
             int t = OrderSend(market,order,lot_size,cp,8,sl,tp,mdesc);
             if(t != -1){
